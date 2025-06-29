@@ -1,0 +1,2904 @@
+city,region,country,lat,lon,continent
+Tokyo,Tokyo,Japan,35.69,139.692,Asia
+Jakarta,Jakarta Raya,Indonesia,-6.215,106.845,Asia
+New Delhi,Delhi,India,28.6,77.2,Asia
+Guangzhou,Guangdong,China,23.117,113.25,Asia
+Bombay,Maharashtra,India,18.975,72.826,Asia
+Manila,Manila,Philippines,14.604,120.982,Asia
+Shanghaishih,Shanghai,China,31.2222,121.4581,Asia
+Sao Paulo,Sao Paulo,Brazil,-23.533,-46.617,America
+Mexico City,The Federal District,Mexico,19.429,-99.128,America
+Calcutta,West Bengal,India,22.57,88.37,Asia
+Cairo,Al Qahirah,Egypt,30.05,31.25,Africa
+Karachi,Sindh,Pakistan,24.867,67.05,Asia
+Brooklyn,New York,United States of America,40.65,-73.95,America
+Beijing,Beijing,China,39.929,116.388,Asia
+Bangkok,Krung Thep,Thailand,13.75,100.517,Asia
+Москва,Moscow City,Russia,55.752,37.616,Europe
+Quilmes,Buenos Aires,Argentina,-34.72,-58.269,America
+Lagos,Lagos,Nigeria,6.453,3.396,Africa
+Bangalore,Karnataka,India,12.983,77.583,Asia
+Osaka-Shi,Osaka,Japan,34.694,135.502,Asia
+Chengdu,Sichuan,China,30.667,104.067,Asia
+Istanbul,Istanbul,Turkey,41.019,28.965,Europe
+Tehran,Tehran,Iran,35.726,51.33,Asia
+Kinshasa,Kinshasa,Democratic Republic of Congo,-4.3,15.3,Africa
+Rio De Janeiro,Rio de Janeiro,Brazil,-22.9,-43.233,America
+Chennai,Tamil Nadu,India,13.083,80.283,Asia
+Xian,Shaanxi,China,34.262,108.938,Asia
+Lahore,Punjab,Pakistan,31.55,74.344,Asia
+Chongqing,Chongqing,China,29.563,106.553,Asia
+Beverly Hills,California,United States of America,34.074,-118.399,America
+London,City of London Greater London,United Kingdom,51.517,-0.106,Europe
+Paris,Ile-de-France,France,48.867,2.333,Europe
+Ichou,Shandong,China,35.0631,118.3428,Asia
+Baoding,Hebei,China,38.851,115.49,Asia
+Hyderabad,Telangana,India,17.375,78.474,Asia
+Tianjin,Tianjin,China,39.142,117.177,Asia
+Lima,Lima,Peru,-12.05,-77.05,America
+Wuhan,Hubei,China,30.583,114.267,Asia
+Nanyang,Henan,China,32.995,112.533,Asia
+Hangzhou,Zhejiang,China,30.255,120.169,Asia
+Nagoya-Shi,Aichi,Japan,35.182,136.906,Asia
+Luanda,Cuanza Norte,Angola,-8.838,13.234,Africa
+Kuala Lumpur,Kuala Lumpur,Malaysia,3.167,101.7,Asia
+Xuzhou,Jiangsu,China,34.267,117.192,Asia
+Chicago,Illinois,United States of America,41.85,-87.65,America
+Cota,Cundinamarca,Colombia,4.817,-74.1,America
+Sarkhej,Gujarat,India,22.983,72.5,Asia
+Shenyang,Liaoning,China,41.792,123.433,Asia
+Dar Es Salaam,Dar es Salaam,Tanzania,-6.8,39.283,Africa
+Khartoum,Al Khartum,Sudan,15.588,32.534,Africa
+Johannesburg,Gauteng,South Africa,-26.2,28.083,Africa
+Fuyang,Anhui,China,32.9,115.817,Asia
+Ganzhou,Jiangxi,China,25.85,114.933,Asia
+Riyadh,Ar Riyad,Saudi Arabia,24.641,46.773,Asia
+Santiago,Region Metropolitana,Chile,-33.45,-70.667,America
+Rangoon,Yangon,Myanmar,16.783,96.167,Asia
+Bijie,Guizhou,China,27.313,105.294,Asia
+Hengyang,Hunan,China,26.888,112.615,Asia
+Surabaya,East Java,Indonesia,-7.249,112.751,Asia
+Baiqi,Fujian,China,24.879,118.716,Asia
+Madrid,Madrid,Spain,40.4,-3.683,Europe
+Baghdad,Baghdad,Iraq,33.339,44.394,Asia
+Miami,Florida,United States of America,25.774,-80.194,America
+Houston,Texas,United States of America,29.763,-95.363,America
+Allahabad,Uttar Pradesh,India,25.45,81.85,Asia
+Ankara,Ankara,Turkey,39.927,32.864,Europe
+Yulin,Guangxi,China,22.633,110.15,Asia
+Douala,Littoral,Cameroon,4.05,9.7,Africa
+Qujing,Yunnan,China,25.483,103.783,Asia
+Philadelphia,Pennsylvania,United States of America,39.952,-75.164,America
+Willowdale,Ontario,Canada,43.783,-79.417,America
+Gizeh,Al Jizah,Egypt,30.009,31.212,Africa
+Санкт-Петербург,Saint Petersburg City,Russia,59.894,30.264,Europe
+Nairobi,Nairobi Area,Kenya,-1.283,36.817,Africa
+Guadalajara,Jalisco,Mexico,20.667,-103.392,America
+Belo Horizonte,Minas Gerais,Brazil,-19.917,-43.933,America
+Monterrey,Nuevo LeÃ³n,Mexico,25.675,-100.319,America
+Atlanta,Georgia,United States of America,33.749,-84.388,America
+Washington,District of Columbia,United States of America,38.895,-77.037,America
+Melbourne,Victoria,Australia,-37.817,144.967,Australia
+Abidjan,Lagunes,Cote d'Ivoire,5.341,-4.028,Africa
+Alexandria,Al Iskandariyah,Egypt,31.198,29.919,Africa
+Sydney,New South Wales,Australia,-33.883,151.217,Australia
+Barcelona,Catalonia,Spain,41.383,2.183,Europe
+Yuncheng,Shanxi,China,35.023,110.993,Asia
+Cape Town,Western Cape,South Africa,-33.917,18.417,Africa
+Jeddah,Makkah,Saudi Arabia,21.517,39.219,Asia
+Berlin,Berlin,Germany,52.517,13.4,Europe
+Jhanjharpur,Bihar,India,26.267,86.283,Asia
+Changchun,Jilin,China,43.88,125.323,Asia
+Brookline,Massachusetts,United States of America,42.332,-71.122,America
+Urumqi,Xinjiang,China,43.8,87.583,Asia
+Kabul,Kabol,Afghanistan,34.517,69.183,Asia
+Bamako,Bamako,Mali,12.65,-8.0,Africa
+Kano,Kano,Nigeria,11.996,8.517,Africa
+Caucaia,Ceara,Brazil,-3.7,-38.65,America
+Qiqihar,Heilongjiang,China,47.341,123.967,Asia
+Glendale,Arizona,United States of America,33.539,-112.185,America
+Chifeng,Nei Mongol,China,42.268,118.964,Asia
+Amman,Amman Governorate,Jordan,31.95,35.933,Asia
+Kumasi,Ashanti,Ghana,6.683,-1.617,Africa
+Gerki,Federal Capital Territory,Nigeria,9.0142,7.4869,Africa
+Yokohama,Kanagawa,Japan,35.448,139.643,Asia
+Highland Park,Michigan,United States of America,42.406,-83.097,America
+Mashhad,Khorasan,Iran,36.297,59.606,Asia
+Montreal,Quebec,Canada,45.5,-73.583,America
+Medan,North Sumatra,Indonesia,3.583,98.667,Asia
+Seattle,Washington,United States of America,47.606,-122.331,America
+Ibadan,Oyo,Nigeria,7.388,3.896,Africa
+Dubai,Dubai,United Arab Emirates,25.252,55.28,Asia
+Thrissur,Kerala,India,10.517,76.217,Asia
+Caracas,Distrito Federal,Venezuela,10.5,-66.917,America
+Santa Cruz De La Sierra,Santa Cruz,Bolivia,-17.8,-63.167,America
+Bursa,Bursa,Turkey,40.192,29.061,Europe
+Tashkent,Toshkent,Uzbekistan,41.317,69.25,Asia
+Guayaquil,Guayas,Ecuador,-2.167,-79.9,America
+Jaipur,Rajasthan,India,26.917,75.817,Asia
+Lanzhou,Gansu,China,36.056,103.792,Asia
+Ouagadougou,Kadiogo,Burkina Faso,12.37,-1.525,Africa
+Athens,Attica,Greece,37.98,23.716,Europe
+Guatemala City,Guatemala,Guatemala,14.621,-90.527,America
+Kuwait City,Al Kuwayt,Kuwait,29.367,47.96,Asia
+Izmir,Izmir,Turkey,38.41,27.142,Europe
+Caloocan,Quezon City,Philippines,14.633,121.05,Asia
+Kyiv,Kyyivs'ka Oblast',Ukraine,50.433,30.517,Europe
+Minneapolis,Minnesota,United States of America,44.98,-93.264,America
+Mbuji-Mayi,Kasai-Oriental,Democratic Republic of Congo,-6.15,23.6,Africa
+Taichung,T'ai-wan,Taiwan,24.143,120.681,Asia
+Cali,Valle del Cauca,Colombia,3.437,-76.523,America
+Stuttgart,Baden-Wurttemberg,Germany,48.767,9.183,Europe
+Rome,Lazio,Italy,41.9,12.483,Europe
+Kaohsiung,Kao-hsiung,Taiwan,22.618,120.301,Asia
+South Brisbane,Queensland,Australia,-27.483,153.017,Australia
+Aurora,Colorado,United States of America,39.729,-104.831,America
+Maracaibo,Zulia,Venezuela,10.632,-71.641,America
+Munich,Bayern,Germany,48.15,11.583,Europe
+Birmingham,West Midlands,United Kingdom,52.485,-1.862,Europe
+Valencia,Carabobo,Venezuela,10.181,-68.004,America
+Damascus,Dimashq,Syria,33.5,36.3,Asia
+Brazzaville,Brazzaville,Congo,-4.259,15.285,Africa
+Sanaa,San,Yemen,15.355,44.207,Asia
+Itagui,Antioquia,Colombia,6.172,-75.611,America
+Altstadt,Hamburg,Germany,53.533,10.017,Europe
+Panchiao,T'ai-pei,Taiwan,25.039,121.525,Asia
+Toluca,México,Mexico,19.288,-99.653,America
+Yaounde,Centre,Cameroon,3.867,11.517,Africa
+Vancouver,British Columbia,Canada,49.25,-123.133,America
+Bayrut,Beyrouth,Lebanon,33.872,35.51,Asia
+Salvador,Bahia,Brazil,-12.983,-38.517,America
+Bucharest,Bucuresti,Romania,44.433,26.1,Europe
+Bekasi,West Java,Indonesia,-6.235,106.99,Asia
+Birkhadem,Alger,Algeria,36.713,3.062,Africa
+Konya,Konya,Turkey,37.866,32.483,Europe
+Badamdar,Baki,Azerbaijan,40.339,49.804,Asia
+Fukuoka-Shi,Fukuoka,Japan,33.606,130.418,Asia
+Las Vegas,Nevada,United States of America,36.175,-115.136,America
+Qiongshan,Hainan,China,20.006,110.354,Asia
+Tangerang,Banten,Indonesia,-6.178,106.63,Asia
+Almaty,Almaty City,Kazakhstan,43.25,76.95,Asia
+Vienna,Wien,Austria,48.2,16.367,Europe
+Esfahan,Esfahan,Iran,32.66,51.671,Asia
+Xining,Qinghai,China,36.617,101.767,Asia
+Baltimore,Maryland,United States of America,39.29,-76.613,America
+Awka,Anambra,Nigeria,6.217,7.083,Africa
+Maylands,Western Australia,Australia,-31.933,115.883,Australia
+Gaziantep,Gaziantep,Turkey,37.059,37.383,Europe
+Phnum Penh,Phnum Penh,Cambodia,11.55,104.917,Asia
+Saint Louis,Missouri,United States of America,38.627,-90.198,America
+Mogadishu,Banaadir,Somalia,2.067,45.367,Africa
+Cordoba,Cordoba,Argentina,-31.4,-64.183,America
+Zamboanga,Zamboanga,Philippines,6.91,122.072,Asia
+Havana,Ciudad de la Habana,Cuba,23.132,-82.364,America
+Portland,Oregon,United States of America,45.524,-122.675,America
+Visakhapatnam,Andhra Pradesh,India,17.7,83.3,Asia
+Aleppo,Halab,Syria,36.203,37.159,Asia
+Agua Caliente,Baja California,Mexico,32.517,-117.017,America
+Indore,Madhya Pradesh,India,22.717,75.833,Asia
+Minsk,Minsk,Belarus,53.9,27.567,Europe
+Kananga,Sud-Kivu,Democratic Republic of Congo,-5.896,22.418,Africa
+Peshawar,North-West Frontier,Pakistan,34.008,71.573,Asia
+Sapporo,Hokkaido,Japan,43.064,141.347,Asia
+Tilburg,North Brabant,Netherlands,51.556,5.091,Europe
+Davao,Davao City,Philippines,7.073,125.613,Asia
+Yinchuan,Ningxia,China,38.468,106.273,Asia
+Port Harcourt,Rivers,Nigeria,4.789,6.999,Africa
+Guaynabo,Puerto Rico,United States of America,18.359,-66.111,America
+Tall Kayf,Ninawa,Iraq,36.489,43.119,Asia
+Amida,Diyarbakir,Turkey,37.9158,40.2189,Europe
+Lubumbashi,Katanga,Democratic Republic of Congo,-11.667,27.467,Africa
+Benin,Edo,Nigeria,6.333,5.633,Africa
+Curitiba,Parana,Brazil,-25.417,-49.25,America
+Adana,Adana,Turkey,37.002,35.329,Europe
+Quito,Pichincha,Ecuador,-0.217,-78.5,America
+Lusaka,Lusaka,Zambia,-15.417,28.283,Africa
+Indianapolis,Indiana,United States of America,39.768,-86.158,America
+Maracay,Aragua,Venezuela,10.247,-67.596,America
+Muscat,Masqat,Oman,23.613,58.593,Asia
+Montevideo,Montevideo,Uruguay,-34.858,-56.171,America
+Norwood,Ohio,United States of America,39.156,-84.46,America
+Guttenberg,New Jersey,United States of America,40.792,-74.004,America
+Budapest,Budapest,Hungary,47.5,19.083,Europe
+Kampala,Kampala,Uganda,0.316,32.566,Africa
+Conakry,Conakry,Guinea,9.509,-13.712,Africa
+Caloocan,Caloocan,Philippines,14.653,120.983,Asia
+Новосибирск,Novosibirsk,Russia,55.041,82.934,Asia
+Bilaspur,Chhattisgarh,India,22.083,82.15,Asia
+Semarang,Central Java,Indonesia,-6.993,110.42,Asia
+Ludhiana,Punjab,India,30.9,75.85,Asia
+Valencia,Comunidad Valenciana,Spain,39.467,-0.367,Europe
+Leon,Guanajuato,Mexico,21.121,-101.668,America
+Puebla,Puebla,Mexico,19.043,-98.202,America
+Shiraz,Fars,Iran,29.604,52.539,Asia
+Dushanbe,Khatlon,Tajikistan,38.56,68.774,Asia
+Harare,Mashonaland East,Zimbabwe,-17.818,31.045,Africa
+Tabriz,East Azarbaijan,Iran,38.075,46.247,Asia
+Jamshedpur,Jharkhand,India,22.8,86.183,Asia
+San Juan,San Jose,Costa Rica,9.967,-84.083,America
+San Salvador,San Salvador,El Salvador,13.709,-89.203,America
+Palembang,South Sumatra,Indonesia,-2.917,104.746,Asia
+Kobe,Hyogo,Japan,34.691,135.183,Asia
+Lome,Maritime,Togo,6.132,1.223,Africa
+Niamey,Niamey,Niger,13.517,2.117,Africa
+Recife,Pernambuco,Brazil,-8.05,-34.9,America
+Abu Dhabi,Abu Dhabi,United Arab Emirates,24.467,54.367,Asia
+Onitsha,Delta,Nigeria,6.167,6.783,Africa
+Amsterdam,North Holland,Netherlands,52.374,4.89,Europe
+Екатеринбург,Sverdlovsk,Russia,56.85,60.6,Asia
+Kyoto,Kyoto,Japan,35.021,135.754,Asia
+Dakar,Dakar,Senegal,14.671,-17.438,Africa
+Charlotte,North Carolina,United States of America,35.227,-80.843,America
+Kayseri,Kayseri,Turkey,38.732,35.485,Europe
+Virginia Beach,Virginia,United States of America,36.853,-75.978,America
+Kulynychi,Kharkivs'ka Oblast',Ukraine,49.982,36.378,Europe
+Loandjili,Kouilou,Congo,-4.756,11.858,Africa
+Lathrippa,Al Madinah,Saudi Arabia,24.4686,39.6142,Asia
+Faridabad,Haryana,India,28.433,77.317,Asia
+Sofia,Grad Sofiya,Bulgaria,42.683,23.317,Europe
+Ulaanbaatar,Ulaanbaatar,Mongolia,47.917,106.917,Asia
+Adelaide,South Australia,Australia,-34.933,138.6,Australia
+Prague,Hlavni mesto Praha,Czech Republic,50.083,14.467,Europe
+Copenhagen,Hovedstaden,Denmark,55.667,12.583,Europe
+Helsinki,Southern Finland,Finland,60.176,24.934,Europe
+Samsun,Samsun,Turkey,41.287,36.33,Europe
+Milan,Lombardia,Italy,45.467,9.2,Europe
+Antalya,Antalya,Turkey,36.913,30.69,Europe
+Santiago De Los Caballeros,Santiago,Dominican Republic,19.45,-70.7,America
+Makassar,South Sulawesi,Indonesia,-5.14,119.422,Asia
+Porto Alegre,Rio Grande do Sul,Brazil,-30.033,-51.2,America
+Barranquilla,Atlantico,Colombia,10.964,-74.796,America
+Kut As Saiyid,Al Basrah,Iraq,30.5183,47.8092,Asia
+Yono,Saitama,Japan,35.883,139.633,Asia
+Ahvaz,Khuzestan,Iran,31.32,48.669,Asia
+Ciudad Juarez,Chihuahua,Mexico,31.733,-106.483,America
+Mandalay,Mandalay,Myanmar,22.0,96.083,Asia
+Calgary,Alberta,Canada,51.083,-114.083,America
+Wauwatosa,Wisconsin,United States of America,43.049,-88.008,America
+Belem,Para,Brazil,-1.45,-48.483,America
+Rosario,Santa Fe,Argentina,-32.951,-60.666,America
+Antananarivo,Antananarivo,Madagascar,-18.917,47.517,Indian
+Capissayan,Cagayan,Philippines,18.051,121.821,Asia
+Providence,Rhode Island,United States of America,41.824,-71.413,America
+Казань,Tatarstan,Russia,55.75,49.133,Europe
+Wooden House,Riau,Indonesia,1.133,103.959,Asia
+Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.217,America
+Sharjah,Sharjah,United Arab Emirates,25.362,55.391,Asia
+Barquisimeto,Lara,Venezuela,10.074,-69.323,America
+Sumedang Utara,Indonesia (general),Indonesia,-6.85,107.917,Asia
+Nizhny Novgorod,Novgorod,Russia,56.33,44.0,Europe
+Qom,Qom,Iran,34.64,50.876,Asia
+Mombasa,Coast,Kenya,-4.05,39.667,Africa
+Hargeysa,Woqooyi Galbeed,Somalia,9.583,44.067,Africa
+Baidoa,Bay,Somalia,3.117,43.65,Africa
+Hiroshima-Shi,Hiroshima,Japan,34.396,132.459,Asia
+Chiang Mai,Chiang Mai,Thailand,18.79,98.982,Asia
+Belgrade,Central Serbia,Serbia,44.804,20.465,Europe
+Maiduguri,Borno,Nigeria,11.845,13.16,Africa
+Mbandaka,Equateur,Democratic Republic of Congo,0.067,18.267,Africa
+Doha,Ad Dawhah,Qatar,25.287,51.533,Asia
+Shymkent,South Kazakhstan,Kazakhstan,42.3,69.6,Asia
+Tripoli,Tarabulus,Libya,32.893,13.18,Africa
+Srinagar,Jammu and Kashmir,India,34.092,74.802,Asia
+Nashville,Tennessee,United States of America,36.166,-86.784,America
+Челябинск,Chelyabinsk,Russia,55.154,61.43,Asia
+Salt Lake City,Utah,United States of America,40.761,-111.89,America
+Bandarlampung,Lampung,Indonesia,-5.425,105.258,Asia
+Aba,Benue,Nigeria,5.117,7.367,Africa
+Kigali,Kigali,Rwanda,-1.954,30.061,Africa
+Самара,Samara,Russia,53.184,50.118,Europe
+Bishkek,Bishkek,Kyrghyzstan,42.873,74.6,Asia
+Bujumbura,Bujumbura,Burundi,-3.376,29.36,Africa
+Краснодар,Krasnodar,Russia,45.033,38.977,Europe
+Rostov-Na-Donu,Rostov,Russia,47.236,39.714,Europe
+Maputo,Maputo,Mozambique,-25.965,32.589,Africa
+Shagamu,Ogun,Nigeria,6.85,3.65,Africa
+Уфа,Bashkortostan,Russia,54.775,56.038,Asia
+San Carlos,Distrito Nacional,Dominican Republic,18.483,-69.9,America
+Tbilisi,Dushet'is Raioni,Georgia,41.725,44.791,Asia
+Guwahati,Assam,India,26.183,91.733,Asia
+Yerevan,Yerevan,Armenia,40.181,44.514,Asia
+Mwanza,Mwanza,Tanzania,-2.517,32.9,Africa
+Омск,Omsk,Russia,55.0,73.4,Asia
+Sevilla,Andalucia,Spain,37.377,-5.987,Europe
+Tamale,Northern,Ghana,9.4,-0.833,Africa
+Goiania,Goias,Brazil,-16.667,-49.267,America
+Красноярск,Krasnoyarsk,Russia,56.01,92.792,Asia
+Cologne,Nordrhein-Westfalen,Germany,50.933,6.95,Europe
+Kisangani,Orientale,Democratic Republic of Congo,0.517,25.2,Africa
+Astana,Astana,Kazakhstan,51.181,71.428,Asia
+Nouakchott,Trarza,Mauritania,18.086,-15.975,Africa
+Sendai-Shi,Miyagi,Japan,38.269,140.872,Asia
+Chandigarh,Chandigarh,India,30.737,76.787,Asia
+Воронеж,Voronezh,Russia,51.666,39.17,Europe
+Managua,Managua,Nicaragua,12.151,-86.268,America
+Mersin,Mersin,Turkey,36.733,34.644,Europe
+Sao Luis,Maranhao,Brazil,-2.517,-44.267,America
+Asgabat,Ahal,Turkmenistan,37.95,58.383,Asia
+Enugu,Enugu,Nigeria,6.433,7.483,Africa
+Пермь,Perm',Russia,58.0,56.25,Asia
+Qalyub,Al Qalyubiyah,Egypt,30.183,31.205,Africa
+Monrovia,Montserrado,Liberia,6.311,-10.805,Africa
+Islamabad,Islamabad,Pakistan,33.7,73.167,Asia
+Aqca,Jowzjan,Afghanistan,36.9114,66.1858,Asia
+Odesa,Odes'ka Oblast',Ukraine,46.467,30.733,Europe
+Namangan,Namangan,Uzbekistan,40.995,71.673,Asia
+Arequipa,Arequipa,Peru,-16.399,-71.535,America
+Краснослободск,Volgograd,Russia,48.707,44.571,Europe
+Pena Del Panal,MichoacÃ¡n,Mexico,19.773,-101.189,America
+Quetta,Balochistan,Pakistan,30.187,67.013,Asia
+Oklahoma City,Oklahoma,United States of America,35.468,-97.516,America
+Dormaa Ahenkro,Brong-Ahafo,Ghana,7.2833,-2.8833,Africa
+Stockholm,Stockholms Lan,Sweden,59.333,18.05,Europe
+Bordeaux,Aquitaine,France,44.833,-0.567,Europe
+Lilongwe,Lilongwe,Malawi,-13.983,33.783,Africa
+Port-Au-Prince,Ouest,Haiti,18.539,-72.335,America
+Ciudad Guayana,Bolivar,Venezuela,8.353,-62.653,America
+Chiba,Chiba,Japan,35.605,140.123,Asia
+Kirkuk,At Ta'mim,Iraq,35.468,44.392,Asia
+Hartford,Connecticut,United States of America,41.764,-72.686,America
+Pidhorodne,Dnipropetrovs'ka Oblast',Ukraine,48.583,35.117,Europe
+Port Elizabeth,Eastern Cape,South Africa,-33.967,25.583,Africa
+Newburg,Kentucky,United States of America,38.16,-85.66,America
+Cuanos,Cebu,Philippines,10.282,123.781,Asia
+Maceio,Alagoas,Brazil,-9.667,-35.717,America
+Freetown,Western Area,Sierra Leone,8.49,-13.234,Africa
+Vientiane,Vientiane,Lao People's Democratic Republic,17.967,102.6,Asia
+Kermanshah,Bakhtaran,Iran,34.314,47.065,Asia
+Butterworth,Pulau Pinang,Malaysia,5.417,100.4,Asia
+La Paz,La Paz,Bolivia,-16.5,-68.15,America
+Jerusalem,Yerushalayim,Israel,31.78,35.23,Asia
+Trujillo,La Libertad,Peru,-8.117,-79.033,America
+Aguascalientes,Aguascalientes,Mexico,21.882,-102.283,America
+Chalmette,Louisiana,United States of America,29.943,-89.963,America
+Cartagena,Bolivar Department,Colombia,10.4,-75.514,America
+Naples,Campania,Italy,40.833,14.25,Europe
+Santiago Del Estero,Santiago del Estero,Argentina,-27.783,-64.267,America
+Malinta,Masbate,Philippines,12.302,123.558,Asia
+Owerri,Imo,Nigeria,5.483,7.033,Africa
+Bobo Dioulasso,Houet,Burkina Faso,11.2,-4.3,Africa
+Sayhat,Ash Sharqiyah,Saudi Arabia,26.479,50.045,Asia
+Makiyivka,Donets'ka Oblast',Ukraine,48.033,37.967,Europe
+Salih Rida,Al Minufiyah,Egypt,30.3,30.9833,Africa
+Tona,Santander,Colombia,7.206,-72.969,America
+Merida,YucatÃ¡n,Mexico,20.975,-89.617,America
+Bangui,Bangui,Central African Republic,4.367,18.583,Africa
+Cancun,Quintana Roo,Mexico,21.174,-86.847,America
+Antipolo,Quezon,Philippines,14.589,121.176,Asia
+Tabuk,Al Jawf,Saudi Arabia,28.383,36.583,Asia
+Panama City,Panama,Panama,8.967,-79.533,America
+Slemani,As Sulaymaniyah,Iraq,35.562,45.441,Asia
+Shah Alam,Selangor,Malaysia,3.083,101.533,Asia
+Marseille,Provence-Alpes-Cote d'Azur,France,43.3,5.4,Europe
+Ramadie,Al Anbar,Iraq,33.4239,43.3025,Asia
+Teresina,Piaui,Brazil,-5.083,-42.817,America
+Lasa,Xizang,China,29.65,91.1,Asia
+Ipoh,Perak,Malaysia,4.583,101.083,Asia
+Saltillo,Coahuila,Mexico,25.423,-101.005,America
+Aden,Adan,Yemen,12.779,45.037,Asia
+Тюмень,Tyumen',Russia,57.152,65.527,Asia
+Cochabamba,Cochabamba,Bolivia,-17.383,-66.15,America
+Portsmouth,Hampshire,United Kingdom,50.809,-1.072,Europe
+Hermosillo,Sonora,Mexico,29.103,-110.977,America
+Akure,Ondo,Nigeria,7.25,5.2,Africa
+Ilorin,Kwara,Nigeria,8.5,4.55,Africa
+Irbil,Arbil,Iraq,36.19,44.009,Asia
+Turin,Piemonte,Italy,45.05,7.667,Europe
+Pietermaritzburg,KwaZulu-Natal,South Africa,-29.617,30.383,Africa
+Саратов,Saratov,Russia,51.567,46.033,Europe
+Bhubaneswar,Orissa,India,20.233,85.833,Asia
+Joao Pessoa,Paraiba,Brazil,-7.117,-34.867,America
+Samarinda,East Kalimantan,Indonesia,-0.486,117.147,Asia
+La Vista,Nebraska,United States of America,41.184,-96.031,America
+Eskisehir,Eskisehir,Turkey,39.777,30.521,Europe
+Barcelona,Anzoategui,Venezuela,10.133,-64.7,America
+Culiacan,Sinaloa,Mexico,24.807,-107.397,America
+N'djamena,Chari-Baguirmi,Chad,12.113,15.049,Africa
+Cucuta,Norte de Santander,Colombia,7.883,-72.505,America
+Oran,Oran,Algeria,35.691,-0.642,Africa
+Sykies,Central Macedonia,Greece,40.649,22.951,Europe
+Blantyre,Blantyre,Malawi,-15.783,35.0,Africa
+Palermo,Huila,Colombia,2.892,-75.438,America
+Libreville,Estuaire,Gabon,0.383,9.45,Africa
+Santiago De Queretaro,Querétaro,Mexico,20.588,-100.388,America
+Niigata-Shi,Niigata,Japan,37.902,139.024,Asia
+Hamamatsu,Shizuoka,Japan,34.7,137.733,Asia
+Birmingham,Alabama,United States of America,33.521,-86.803,America
+Lubango,Huila,Angola,-14.917,13.5,Africa
+Frankfurt Am Main,Hessen,Germany,50.117,8.683,Europe
+Homs,Hims,Syria,34.7333,36.7167,Asia
+Bilbao,Pais Vasco,Spain,43.25,-2.967,Europe
+San Luis Potosi,San Luis PotosÃ­,Mexico,22.15,-100.983,America
+Khujand,Sughd,Tajikistan,40.28,69.632,Asia
+Erzurum,Erzurum,Turkey,39.909,41.277,Europe
+Albuquerque,New Mexico,United States of America,35.084,-106.651,America
+Zagreb,Grad Zagreb,Croatia,45.8,16.0,Europe
+Dodoma,Dodoma,Tanzania,-6.183,35.75,Africa
+Kaduna,Kaduna,Nigeria,10.523,7.44,Africa
+Winnipeg,Manitoba,Canada,49.883,-97.167,America
+Baardheere,Gedo,Somalia,2.333,42.283,Africa
+Colombo,Western,Sri Lanka,6.932,79.848,Asia
+Natal,Rio Grande do Norte,Brazil,-5.783,-35.217,America
+Paytug,Andijon,Uzbekistan,40.894,72.244,Asia
+Gaalkacyo,Mudug,Somalia,6.783,47.433,Africa
+Nampula,Nampula,Mozambique,-15.12,39.265,Africa
+Bouake,Vallee du Bandama,Cote d'Ivoire,7.683,-5.033,Africa
+Cabinda,Cabinda,Angola,-5.55,12.2,Africa
+Kumamoto,Kumamoto,Japan,32.806,130.692,Asia
+Kerman,Kerman,Iran,30.294,57.084,Asia
+Orumiyeh,Azarbayjan-e Bakhtari,Iran,37.555,45.072,Asia
+Oshogbo,Osun,Nigeria,7.767,4.567,Africa
+Cagayan De Oro,Cagayan de Oro,Philippines,8.481,124.643,Asia
+Manama,Al Manamah,Bahrain,26.236,50.583,Asia
+North Charleston,South Carolina,United States of America,32.854,-79.975,America
+Kufa,An Najaf,Iraq,32.035,44.403,Asia
+Okayama-Shi,Okayama,Japan,34.662,133.935,Asia
+Concepcion,Bio-Bio,Chile,-36.833,-73.05,America
+San Pedro Sula,Cortes,Honduras,15.5,-88.033,America
+Meycauayan,Bulacan,Philippines,14.737,120.961,Asia
+Huambo,Huambo,Angola,-12.776,15.739,Africa
+Zaporizhzhya,Zaporiz'ka Oblast',Ukraine,47.817,35.183,Europe
+Oslo,Oslo,Norway,59.917,10.75,Europe
+Bristol,Bristol,United Kingdom,51.477,-2.57,Europe
+Dasmarinas,Cavite,Philippines,14.329,120.937,Asia
+Bosaso,Bari,Somalia,11.285,49.183,Africa
+Parachinar,Federally Administered Tribal Areas,Pakistan,33.8975,70.1,Asia
+Qnainass,Al Ladhiqiyah,Syria,35.5333,35.7833,Asia
+Dadiangas,General Santos,Philippines,6.113,125.172,Asia
+Ad Dahiriyah,Hamah,Syria,35.15,36.7167,Asia
+Yuli,Bauchi,Nigeria,10.533,9.85,Africa
+El Faiyum,Al Fayyum,Egypt,29.308,30.84,Africa
+Lokoja,Kogi,Nigeria,7.8,6.733,Africa
+Qaryatal Karkashiyah,Karbala',Iraq,32.625,44.0511,Asia
+Zaragoza,Aragon,Spain,41.633,-0.883,Europe
+Pontianak,West Kalimantan,Indonesia,-0.031,109.322,Asia
+Rasht,Gilan,Iran,37.279,49.586,Asia
+Cotonou,Littoral,Benin,6.35,2.433,Africa
+Goteborg,Vastra Gotaland,Sweden,57.717,11.967,Europe
+Acapulco,Guerrero,Mexico,16.863,-99.89,America
+Bahar,Hamadan,Iran,34.907,48.441,Asia
+Murcia,Murcia,Spain,37.983,-1.117,Europe
+Denpasar,Bali,Indonesia,-8.65,115.217,Asia
+Bulawayo,Matabeleland North,Zimbabwe,-20.15,28.583,Africa
+Aracaju,Sergipe,Brazil,-10.917,-37.067,America
+Rotterdam,South Holland,Netherlands,51.923,4.479,Europe
+Villavicencio,Meta,Colombia,4.153,-73.635,America
+Campo Grande,Mato Grosso do Sul,Brazil,-20.45,-54.617,America
+Махачкала,Dagestan,Russia,42.975,47.502,Europe
+Banjarmasin,South Kalimantan,Indonesia,-3.32,114.591,Asia
+Kitwe,Central,Zambia,-12.817,28.2,Africa
+Catia La Mar,Vargas,Venezuela,10.6,-67.033,America
+Jalingo,Taraba,Nigeria,8.883,11.367,Africa
+Haldwani,Uttarakhand,India,29.217,79.517,Asia
+Abomey-Calavi,Zou,Benin,6.45,2.35,Africa
+Victoria De Durango,Durango,Mexico,24.02,-104.658,America
+Dairut,Asyut,Egypt,27.5586,30.8078,Africa
+Denizli,Denizli,Turkey,37.774,29.088,Europe
+Maturin,Monagas,Venezuela,9.75,-63.177,America
+Chisinau,Gagauzia,Moldova,47.006,28.858,Europe
+Tallinn,Harjumaa,Estonia,59.434,24.728,Europe
+Las Palmas,Canarias,Spain,28.1,-15.417,Atlantic
+Benghazi,Banghazi,Libya,32.117,20.067,Africa
+Palermo,Sicilia,Italy,38.117,13.367,Europe
+Glasgow,Glasgow City,United Kingdom,55.862,-4.247,Europe
+Tynne,Rivnens'ka Oblast',Ukraine,50.6,26.2,Europe
+Иркутск,Irkutsk,Russia,52.267,104.333,Asia
+Барнаул,Altaisky krai,Russia,53.356,83.752,Asia
+Jos,Plateau,Nigeria,9.917,8.9,Africa
+Talkha,Ad Daqahliyah,Egypt,31.053,31.374,Africa
+Leipzig,Sachsen,Germany,51.3,12.333,Europe
+Ижевск,Udmurt,Russia,56.85,53.233,Europe
+Arusha,Arusha,Tanzania,-3.367,36.683,Africa
+Хабаровск,Khabarovsk,Russia,48.5,135.1,Asia
+Qandahar,Kandahar,Afghanistan,31.613,65.709,Asia
+Ульяновск,Ul'yanovsk,Russia,54.333,48.4,Europe
+Jambi City,Jambi,Indonesia,-1.6,103.617,Asia
+Kuantan,Pahang,Malaysia,3.8,103.333,Asia
+Tucuman,Tucuman,Argentina,-26.817,-65.217,America
+Riga,Riga,Latvia,56.95,24.1,Europe
+Malanje,Malanje,Angola,-9.545,16.345,Africa
+Djibouti,Ali Sabieh,Djibouti,11.595,43.148,Africa
+Bacolod,Bacolod,Philippines,10.666,122.95,Asia
+Garoua,Nord,Cameroon,9.3,13.4,Africa
+Bamenda,Nord-Ouest,Cameroon,5.933,10.167,Africa
+Bafoussam,Ouest,Cameroon,5.467,10.417,Africa
+Haifa,Hefa,Israel,32.816,34.989,Asia
+Tunis,Gabes,Tunisia,36.803,10.18,Africa
+Urfa,Sanliurfa,Turkey,37.151,38.793,Europe
+Dis,Hadramawt,Yemen,14.5333,49.1333,Asia
+Kagoshima-Shi,Kagoshima,Japan,31.56,130.558,Asia
+Dublin,Dublin,Ireland,53.333,-6.249,Europe
+El Mahalla El Kubra,Al Gharbiyah,Egypt,30.976,31.167,Africa
+Владивосток,Primor'ye,Russia,43.133,131.9,Asia
+Pereira,Risaralda,Colombia,4.813,-75.696,America
+Sederot,HaDarom,Israel,31.517,34.583,Asia
+Asgharabad,Sistan va Baluchestan,Iran,29.5075,60.8711,Asia
+Vilnius,Vilniaus Apskritis,Lithuania,54.683,25.317,Europe
+Half Way Tree,Saint Andrew,Jamaica,18.0,-76.8,America
+Qal`At Al Mafraq,Al Mafraq,Jordan,32.35,36.2,Asia
+Tuxtla Gutierrez,Chiapas,Mexico,16.755,-93.115,America
+Bremen,Bremen,Germany,53.083,8.8,Europe
+Iloilo,Iloilo City,Philippines,10.697,122.564,Asia
+Kahramanmaras,Kahramanmaras,Turkey,37.588,36.932,Europe
+El Darawiya,Al Buhayrah,Egypt,31.0833,30.3167,Africa
+Irbid,Irbid,Jordan,32.556,35.85,Asia
+Macau,Ilhas,Macau,22.2,113.55,Asia
+Ярославль,Yaroslavl',Russia,57.617,39.867,Europe
+Des Moines,Iowa,United States of America,41.601,-93.609,America
+Genoa,Liguria,Italy,44.417,8.95,Europe
+Herat,Herat,Afghanistan,34.347,62.198,Asia
+Uyo,Akwa Ibom,Nigeria,5.05,7.933,Africa
+Santa Rosa,Lambayeque,Peru,-6.767,-79.833,America
+Brunswick,Niedersachsen,Germany,52.267,10.533,Europe
+Palma,Islas Baleares,Spain,39.567,2.65,Europe
+Rustenburg,North-West,South Africa,-25.669,27.243,Africa
+Lisbon,Lisboa,Portugal,38.717,-9.133,Europe
+Akhiar,Sevastopol',Ukraine,44.6,33.5333,Europe
+Manchester,Greater Manchester,United Kingdom,53.483,-2.25,Europe
+Ibague,Tolima,Colombia,4.439,-75.232,America
+Томск,Tomsk,Russia,56.5,84.967,Asia
+Sungai Petani,Kedah,Malaysia,5.65,100.5,Asia
+Кемерово,Kemerovo,Russia,55.333,86.083,Asia
+Valledupar,Cesar,Colombia,10.477,-73.251,America
+San Pedro,Laguna,Philippines,14.365,121.056,Asia
+Heroica Matamoros,Tamaulipas,Mexico,25.88,-97.504,America
+Mbeya,Mbeya,Tanzania,-8.9,33.45,Africa
+An Nasiriya,Dhi Qar,Iraq,31.0542,46.2594,Asia
+Hilah,Babil,Iraq,32.4794,44.4328,Asia
+Al Junaynah,Darfur,Sudan,13.45,22.45,Africa
+Пригородный,Orenburg,Russia,51.783,55.117,Asia
+Leeds,West Yorkshire,United Kingdom,53.806,-1.538,Europe
+Kassala,Ash Sharqiyah,Sudan,15.456,36.399,Africa
+Salta,Salta,Argentina,-24.783,-65.417,America
+Beira,Sofala,Mozambique,-19.844,34.839,Africa
+Балашиха,Moskva,Russia,55.803,37.949,Europe
+Yazd,Yazd,Iran,31.897,54.368,Asia
+Ardabil,Ardabil,Iran,38.25,48.293,Asia
+Touba,Diourbel,Senegal,14.85,-15.883,Africa
+Gumrun,Hormozgan,Iran,27.1865,56.2808,Asia
+Van,Van,Turkey,38.494,43.38,Europe
+Port Said,Bur Sa'id,Egypt,31.267,32.3,Africa
+Agartala,Tripura,India,23.836,91.275,Asia
+Arak,Markazi,Iran,34.086,49.684,Asia
+Lyon,Rhone-Alpes,France,45.75,4.85,Europe
+Ryazan,Ryazan',Russia,54.62,39.74,Europe
+Utsunomiya-Shi,Tochigi,Japan,36.566,139.884,Asia
+Sheffield,South Yorkshire,United Kingdom,53.383,-1.468,Europe
+Suez,As Suways,Egypt,29.967,32.55,Africa
+Aktas,Qaraghandy,Kazakhstan,49.779,72.961,Asia
+Santa Marta,Magdalena Department,Colombia,11.247,-74.202,America
+El Balyana,Suhaj,Egypt,26.239,32.003,Africa
+Samarkand,Samarqand,Uzbekistan,39.654,66.96,Asia
+Liverpool,Merseyside,United Kingdom,53.417,-2.942,Europe
+Macapa,Amapa,Brazil,0.033,-51.05,America
+Benguela,Benguela,Angola,-12.578,13.407,Africa
+Kuito,Bie,Angola,-12.383,16.933,Africa
+Beba,Bani Suwayf,Egypt,28.925,30.983,Africa
+Toulouse,Midi-Pyrenees,France,43.6,1.433,Europe
+Saiyid Abbas,Maysan,Iraq,31.8333,47.15,Asia
+Cadaadoo,Galguduud,Somalia,6.15,46.6333,Africa
+Matsuyama,Ehime,Japan,33.839,132.766,Asia
+Wichita,Kansas,United States of America,37.692,-97.337,America
+Gomel,Homyel'skaya Voblasts',Belarus,52.442,30.983,Europe
+Farah,Farah,Afghanistan,32.374,62.116,Asia
+Al Fashir,Al Wusta,Sudan,13.6333,25.35,Africa
+Lapu-Lapu,Lapu-Lapu,Philippines,10.31,123.949,Asia
+Johor Bahru,Johor,Malaysia,1.467,103.75,Asia
+Липецк,Lipetsk,Russia,52.619,39.569,Europe
+Чебоксары,Chuvashia,Russia,56.132,47.252,Europe
+Nyala,Al Istiwa'iyah,Sudan,12.05,24.8833,Africa
+Bissau,Bissau,Guinea-Bissau,11.85,-15.583,Africa
+Accra,Greater Accra,Ghana,5.55,-0.217,Africa
+Kota Bahru,Kelantan,Malaysia,6.133,102.25,Asia
+Калининград,Kaliningrad,Russia,54.71,20.5,Europe
+Пенза,Penza,Russia,53.196,45.0,Europe
+Edinburgh,City of Edinburgh,United Kingdom,55.949,-3.163,Europe
+Malatya,Malatya,Turkey,38.353,38.312,Europe
+Garoowe,Nugaal,Somalia,8.4,48.5,Africa
+Cuiaba,Mato Grosso,Brazil,-15.583,-56.083,America
+Qal`At Az Zarqa',Az Zarqa,Jordan,32.0833,36.1,Asia
+Asuncion,Central,Paraguay,-25.267,-57.667,America
+Bratislava,Bratislava,Slovakia,48.15,17.117,Europe
+Oita,Oita,Japan,33.238,131.613,Asia
+Worthing,West Sussex,United Kingdom,50.82,-0.39,Europe
+Piura,Piura,Peru,-5.2,-80.633,America
+Vila Velha,Espirito Santo,Brazil,-20.333,-40.283,America
+Киров,Kirov,Russia,58.597,49.658,Europe
+Morogoro,Morogoro,Tanzania,-6.817,37.667,Africa
+San Juan,San Juan,Argentina,-31.538,-68.536,America
+Peresadovka,Mykolayivs'ka Oblast',Ukraine,46.9833,32.0,Europe
+Mazar-E Sharif,Balkh,Afghanistan,36.7069,67.1122,Asia
+Bakuba,Diyala,Iraq,33.75,44.6411,Asia
+Ramat Gan,Tel Aviv,Israel,32.081,34.814,Asia
+Little Rock,Arkansas,United States of America,34.746,-92.289,America
+Buraydah,Al Qasim,Saudi Arabia,26.332,43.972,Asia
+Kupang,East Nusa Tenggara,Indonesia,-10.172,123.608,Asia
+Тула,Tula,Russia,54.204,37.611,Europe
+Nakhon Ratchasima,Nakhon Ratchasima,Thailand,14.967,102.117,Asia
+Астрахань,Astrakhan',Russia,46.349,48.049,Europe
+Leicester,Leicestershire,United Kingdom,52.635,-1.137,Europe
+Angeles,Angeles,Philippines,15.136,120.591,Asia
+Kanazawa-Shi,Ishikawa,Japan,36.594,136.626,Asia
+Manado,North Sulawesi,Indonesia,1.482,124.849,Asia
+Juba,Central Equatoria State,Sudan,4.85,31.617,Africa
+Rodajah,Al Ghaydah,Yemen,13.5833,44.0333,Asia
+Kikwit,Bandundu,Democratic Republic of Congo,-5.039,18.818,Africa
+Malanday,Rizal,Philippines,14.646,121.095,Asia
+Malacca,Melaka,Malaysia,2.197,102.248,Asia
+Manizales,Caldas Department,Colombia,5.07,-75.521,America
+Kahama,Shinyanga,Tanzania,-3.833,32.6,Africa
+Batman,Batman,Turkey,37.883,41.121,Europe
+Kota Kinabalu,Sabah,Malaysia,5.983,116.067,Asia
+Stavropol,Stavropol',Russia,45.043,41.973,Europe
+Vapi,Daman and Diu,India,20.367,72.9,Asia
+Garden City,Idaho,United States of America,43.622,-116.237,America
+Constantine,Constantine,Algeria,36.365,6.615,Africa
+Matadi,Bas-Congo,Democratic Republic of Congo,-5.817,13.45,Africa
+Zebediela Estates,Limpopo,South Africa,-24.3,29.25,Africa
+Ado-Ekiti,Ekiti,Nigeria,7.633,5.217,Africa
+Santiago De Cuba,Santiago de Cuba,Cuba,20.025,-75.822,America
+Praya,West Nusa Tenggara,Indonesia,-8.705,116.27,Asia
+Korhogo,Savanes,Cote d'Ivoire,9.45,-5.633,Africa
+Halifax,Nova Scotia,Canada,44.65,-63.6,America
+Улан-Удэ,Buryat,Russia,51.833,107.617,Asia
+Курск,Kursk,Russia,51.73,36.194,Europe
+Windhoek,Windhoek,Namibia,-22.572,17.082,Africa
+Joinville,Santa Catarina,Brazil,-26.3,-48.833,America
+Ismailia,Al Isma'iliyah,Egypt,30.583,32.267,Africa
+Cusco,Cusco,Peru,-13.518,-71.978,America
+Veracruz,Veracruz-Llave,Mexico,19.181,-96.143,America
+Sokoto,Sokoto,Nigeria,13.051,5.231,Africa
+Aomori Shi,Aomori,Japan,40.824,140.74,Asia
+Tepic,Nayarit,Mexico,21.501,-104.889,America
+Aves,Porto,Portugal,41.367,-8.4,Europe
+Тверь,Tver',Russia,56.862,35.893,Europe
+Yogyakarta,Daerah Istimewa Yogyakarta,Indonesia,-7.783,110.361,Asia
+Skopje,Karpos,Macedonia,42.0,21.433,Europe
+Daloa,Haut-Sassandra,Cote d'Ivoire,6.875,-6.452,Africa
+Pa-An,Karan State,Myanmar,16.8906,97.6333,Asia
+Ugep,Nassarawa,Nigeria,5.8,8.083,Africa
+Seremban,Negeri Sembilan,Malaysia,2.717,101.933,Asia
+Tirana,Tirane,Albania,41.328,19.819,Europe
+Takamatsu-Shi,Kagawa,Japan,34.34,134.043,Asia
+Ajdabiya,Ajdabiya,Libya,30.759,20.223,Africa
+Callao,Callao,Peru,-12.067,-77.15,America
+Boa Vista,Roraima,Brazil,2.817,-60.667,America
+Banjul,Banjul,Gambia,13.453,-16.578,Africa
+Jayapura,Papua,Indonesia,-2.534,140.718,Asia
+Toyama-Shi,Toyama,Japan,36.695,137.211,Asia
+Sanandaj,Kordestan,Iran,35.314,46.992,Asia
+Khon Kaen,Khon Kaen,Thailand,16.433,102.833,Asia
+Pasto,Narino,Colombia,1.214,-77.281,America
+Kisumu,Nyanza,Kenya,-0.1,34.75,Africa
+Gebze,Kocaeli,Turkey,40.798,29.431,Europe
+Hat Yai,Songkhla,Thailand,7.017,100.467,Asia
+Cumana,Sucre,Venezuela,10.467,-64.167,America
+Nagasaki-Shi,Nagasaki,Japan,32.745,129.874,Asia
+Al Hudaydah,Al Hudaydah,Yemen,14.7978,42.9522,Asia
+Brno,Jihomoravsky kraj,Czech Republic,49.2,16.633,Europe
+Oskemen,East Kazakhstan,Kazakhstan,49.979,82.61,Asia
+Gifu-Shi,Gifu,Japan,35.423,136.76,Asia
+Monteria,Cordoba,Colombia,8.758,-75.89,America
+Antakya,Hatay,Turkey,36.199,36.161,Europe
+Rozkishne,Luhans'ka Oblast',Ukraine,48.492,39.275,Europe
+Miyazaki-Shi,Miyazaki,Japan,31.911,131.424,Asia
+Barinas,Barinas,Venezuela,8.629,-70.207,America
+Сургут,Khanty-Mansiy,Russia,61.25,73.417,Asia
+Betsiboka,Mahajanga,Madagascar,-16.8667,46.95,Indian
+Doha,Al Jahra,Kuwait,29.368,47.81,Asia
+Tanga,Tanga,Tanzania,-5.067,39.1,Africa
+Saurimo,Lunda Sul,Angola,-9.65,20.4,Africa
+Yola,Adamawa,Nigeria,9.2,12.483,Africa
+Ad Diwania,Al Qadisiyah,Iraq,31.9878,44.9256,Asia
+San-Pedro,Bas-Sassandra,Cote d'Ivoire,4.733,-6.617,Africa
+Bologna,Emilia-Romagna,Italy,44.483,11.333,Europe
+Aqtobe,Aqtobe,Kazakhstan,50.298,57.181,Asia
+Uvinza,Kigoma,Tanzania,-5.104,30.391,Africa
+Mezreh,Elazig,Turkey,38.6753,39.2206,Europe
+Zanjan,Zanjan,Iran,36.674,48.479,Asia
+Manisa,Manisa,Turkey,38.614,27.423,Europe
+Tarlac,Tarlac,Philippines,15.489,120.599,Asia
+Mola Borale,Shabeellaha Dhexe,Somalia,3.2167,45.7667,Africa
+Gusau,Zamfara,Nigeria,12.164,6.667,Africa
+Serekunda,Western,Gambia,13.443,-16.681,Africa
+Fyshwick,Australian Capital Territory,Australia,-35.333,149.167,Australia
+Huancayo,Junin,Peru,-12.067,-75.233,America
+Iquitos,Loreto,Peru,-3.748,-73.247,America
+Teliko,Mamou,Guinea,10.35,-12.1,Africa
+Брянск,Bryansk,Russia,53.242,34.351,Europe
+Lipa,Lipa,Philippines,13.939,121.174,Asia
+Butuan,Butuan,Philippines,8.949,125.544,Asia
+Takasaki,Gunma,Japan,36.333,139.017,Asia
+Ambon,Maluku,Indonesia,-3.695,128.181,Asia
+Petare,Miranda,Venezuela,10.483,-66.817,America
+Nagano-Shi,Nagano,Japan,36.651,138.181,Asia
+Baguio,Benguet,Philippines,16.416,120.593,Asia
+Sivas,Sivas,Turkey,39.748,37.016,Europe
+Rio Branco,Acre,Brazil,-9.967,-67.8,America
+Mandaue,Mandaue,Philippines,10.324,123.922,Asia
+Iligan,Iligan,Philippines,8.231,124.236,Asia
+Иваново,Ivanovo,Russia,56.994,40.986,Europe
+Cuenca,Azuay,Ecuador,-2.883,-78.983,America
+Cardiff,Cardiff,United Kingdom,51.483,-3.183,Europe
+Hrodna,Hrodzyenskaya Voblasts',Belarus,53.681,23.815,Europe
+Florence,Toscana,Italy,43.767,11.25,Europe
+Bengkulu,Bengkulu,Indonesia,-3.8,102.266,Asia
+Malmö,Skane Lan,Sweden,55.6,13.0,Europe
+Utrecht,Utrecht,Netherlands,52.091,5.122,Europe
+Palu,Central Sulawesi,Indonesia,-0.892,119.871,Asia
+Umuahia,Abia,Nigeria,5.533,7.483,Africa
+Vitebsk,Vitsyebskaya Voblasts',Belarus,55.1925,30.1944,Europe
+Taraz,Zhambyl,Kazakhstan,42.9,71.367,Asia
+Luena,Moxico,Angola,-11.783,19.917,Africa
+Gonaives,Artibonite,Haiti,19.45,-72.683,America
+Vinnitsa,Vinnyts'ka Oblast',Ukraine,49.233,28.483,Europe
+San Fernando,Pampanga,Philippines,15.03,120.686,Asia
+Villahermosa,Tabasco,Mexico,17.987,-92.93,America
+Wakayama-Shi,Wakayama,Japan,34.226,135.168,Asia
+Mogilev,Mahilyowskaya Voblasts',Belarus,53.9139,30.3364,Europe
+Dzhany-Kyshtak,Osh,Kyrghyzstan,40.5369,72.7767,Asia
+Corrientes,Corrientes,Argentina,-27.467,-58.833,America
+Nara-Shi,Nara,Japan,34.685,135.805,Asia
+Владимир,Vladimir,Russia,56.143,40.398,Europe
+Oruro,Oruro,Bolivia,-17.983,-67.15,America
+Arkhangelsk,Arkhangel'sk,Russia,64.567,40.533,Europe
+Muzon,Batangas,Philippines,13.854,120.991,Asia
+Varna,Varna,Bulgaria,43.217,27.917,Europe
+Holguin,Holguin,Cuba,20.887,-76.263,America
+Antofagasta,Antofagasta,Chile,-23.65,-70.4,America
+Plovdiv,Plovdiv,Bulgaria,42.15,24.75,Europe
+Honolulu,Hawaii,United States of America,21.307,-157.858,Pacific
+Wad Madani,Kurdufan,Sudan,14.4,33.533,Africa
+Belfast,Belfast,United Kingdom,54.583,-5.933,Europe
+Brest,Brestskaya Voblasts',Belarus,52.1,23.7,Europe
+Otsu-Shi,Shiga,Japan,35.004,135.868,Asia
+Maseru,Maseru,Lesotho,-29.317,27.483,Africa
+Pavlodar,Pavlodar,Kazakhstan,52.3,76.95,Asia
+Chon Buri,Chon Buri,Thailand,13.367,100.983,Asia
+Naga,Naga,Philippines,13.619,123.181,Asia
+Safaqis,Sfax,Tunisia,34.741,10.76,Africa
+Corat,Sumqayit,Azerbaijan,40.573,49.706,Asia
+Yamoussoukro,N'zi-Comoe,Cote d'Ivoire,6.817,-5.283,Africa
+Cuernavaca,Morelos,Mexico,18.926,-99.231,America
+Reading,Berkshire,United Kingdom,51.456,-0.972,Europe
+Iwaki,Fukushima,Japan,37.05,140.883,Asia
+Porto Velho,Rondonia,Brazil,-8.767,-63.9,America
+Tampere,Western Finland,Finland,61.5,23.75,Europe
+Чита,Chita,Russia,52.033,113.55,Asia
+Vina Del Mar,Valparaiso,Chile,-33.008,-71.52,America
+Nukus,Qoraqalpoghiston,Uzbekistan,42.453,59.61,Asia
+Dobroye,Krym,Ukraine,44.883,34.217,Europe
+Salalah,Zufar,Oman,17.018,54.083,Asia
+Калуга,Kaluga,Russia,54.536,36.271,Europe
+Jackson,Mississippi,United States of America,32.299,-90.185,America
+Kendari,Sulawesi Tenggara,Indonesia,-3.978,122.515,Asia
+Nicosia,Nicosia,Cyprus,35.167,33.367,Asia
+Майский,Belgorod,Russia,50.6,36.583,Europe
+Cabanatuan,Cabanatuan,Philippines,15.487,120.968,Asia
+Chipata,North-Western,Zambia,-13.633,32.65,Africa
+Pucallpa,Ucayali,Peru,-8.383,-74.538,America
+Kochi-Shi,Kochi,Japan,33.56,133.531,Asia
+Kuching,Sarawak,Malaysia,1.55,110.333,Asia
+Cotabato,Cotabato,Philippines,7.224,124.246,Asia
+Nantes,Pays de la Loire,France,47.217,-1.55,Europe
+Kikuyu,Central,Kenya,-1.25,36.667,Africa
+Uige,Uige,Angola,-7.617,15.05,Africa
+Minna,Niger,Nigeria,9.614,6.557,Africa
+Camaguey,Camaguey,Cuba,21.381,-77.917,America
+Jujuy,Jujuy,Argentina,-24.183,-65.3,America
+Menongue,Cuando Cubango,Angola,-14.667,17.7,Africa
+Gitarama,Gitarama,Rwanda,-2.074,29.757,Africa
+Zango,Katsina,Nigeria,12.383,7.583,Africa
+Puerto Plata,Puerto Plata,Dominican Republic,19.8,-70.683,America
+Port Moresby,National Capital,Papua New Guinea,-9.465,147.193,Pacific
+Naha-Shi,Okinawa,Japan,26.213,127.681,Asia
+Bari,Puglia,Italy,41.133,16.85,Europe
+Nzerekore,Nzerekore,Guinea,7.747,-8.824,Africa
+Adrianoutherai,Balikesir,Turkey,39.6492,27.8861,Europe
+Susah,Sousse,Tunisia,35.826,10.641,Africa
+Kingston Upon Hull,East Riding of Yorkshire,United Kingdom,53.75,-0.341,Europe
+Смоленск,Smolensk,Russia,54.782,32.04,Europe
+Вологда,Vologda,Russia,59.217,39.9,Europe
+Gorgan,Golestan,Iran,36.839,54.436,Asia
+Якутск,Sakha,Russia,62.034,129.733,Asia
+Курган,Kurgan,Russia,55.45,65.333,Asia
+Саранск,Mordovia,Russia,54.183,45.183,Europe
+Hajel,Ha'il,Saudi Arabia,27.5164,41.6969,Asia
+Yokkaichi,Mie,Japan,34.967,136.617,Asia
+Presidente Franco,Alto Parana,Paraguay,-25.533,-54.617,America
+Tabora,Tabora,Tanzania,-5.017,32.8,Africa
+Nakuru,Rift Valley,Kenya,-0.283,36.067,Africa
+Montpellier,Languedoc-Roussillon,France,43.6,3.883,Europe
+Puerto Princesa,Puerto Princesa,Philippines,9.739,118.735,Asia
+Kaunas,Kauno Apskritis,Lithuania,54.9,23.9,Europe
+Sumbawanga,Rukwa,Tanzania,-7.967,31.617,Africa
+Орел,Orel,Russia,52.966,36.08,Europe
+Владикавказ,North Ossetia,Russia,43.043,44.684,Europe
+Akita Shi,Akita,Japan,39.718,140.103,Asia
+Hihya,Ash Sharqiyah,Egypt,30.67,31.587,Africa
+Palmas,Tocantins,Brazil,-10.223,-48.278,America
+Deshna,Qina,Egypt,26.121,32.465,Africa
+Armenia,Quindio,Colombia,4.534,-75.681,America
+Purace,Cauca,Colombia,2.348,-76.501,America
+Valladolid,Castilla y Leon,Spain,41.65,-4.717,Europe
+Corlu,Tekirdag,Turkey,41.159,27.8,Europe
+Newcastle Upon Tyne,Tyne and Wear,United Kingdom,54.975,-1.603,Europe
+Pondicherry,Puducherry,India,11.93,79.83,Asia
+Oaxaca,Oaxaca,Mexico,17.071,-96.719,America
+Sucre,Chuquisaca,Bolivia,-19.043,-65.259,America
+Jinja,Jinja,Uganda,0.424,33.204,Africa
+Al Kumb,Ar Raqqah,Syria,35.925,39.0194,Asia
+Stantsiya Gorchakovo,Farghona,Uzbekistan,40.427,71.719,Asia
+Resistencia,Chaco,Argentina,-27.45,-58.983,America
+Privada Del Bosque,Hidalgo,Mexico,20.087,-98.739,America
+Malabo,Bioko Norte,Equatorial Guinea,3.75,8.783,Africa
+Tagum,Davao,Philippines,7.448,125.808,Asia
+Sorong,West Papua,Indonesia,-0.88,131.261,Asia
+Divo,Sud-Bandama,Cote d'Ivoire,5.84,-5.36,Africa
+Vigo,Galicia,Spain,42.233,-8.717,Europe
+Trabzon,Trabzon,Turkey,41.005,39.727,Europe
+Aizawl,Mizoram,India,23.724,92.718,Asia
+Graz,Steiermark,Austria,47.067,15.45,Europe
+Strasbourg,Alsace,France,48.583,7.75,Europe
+Ханкала,Chechnya Republic,Russia,43.301,45.751,Europe
+Chimbote,Ancash,Peru,-9.083,-78.6,America
+Bergen,Hordaland,Norway,60.391,5.325,Europe
+Batna,Batna,Algeria,35.555,6.179,Africa
+Moncagua,San Miguel,El Salvador,13.533,-88.25,America
+Århus,Midtjylland,Denmark,56.15,10.217,Europe
+Morioka-Shi,Iwate,Japan,39.704,141.153,Asia
+Тамбов,Tambovskaya oblast,Russia,52.732,41.434,Europe
+Nottingham,Nottinghamshire,United Kingdom,52.968,-1.16,Europe
+Magway,Magwe,Myanmar,20.15,94.917,Asia
+Alyeska,Alaska,United States of America,60.9608,-149.1108,America
+Neuquen,Neuquen,Argentina,-38.95,-68.067,America
+Kabwe,Northern,Zambia,-14.433,28.45,Africa
+Setif,Setif,Algeria,36.1914,5.4094,Africa
+Machala,El Oro,Ecuador,-3.267,-79.967,America
+Pathein,Irrawaddy,Myanmar,16.783,94.733,Asia
+Sincelejo,Sucre,Colombia,9.305,-75.398,America
+Cluj-Napoca,Cluj,Romania,46.767,23.6,Europe
+Songea,Ruvuma,Tanzania,-10.683,35.65,Africa
+Tacna,Tacna,Peru,-18.006,-70.248,America
+Masaka,Masaka,Uganda,-0.313,31.713,Africa
+San Pablo,San Pablo,Philippines,14.067,121.326,Asia
+Kafr Ash Shaykh,Kafr ash Shaykh,Egypt,31.111,30.936,Africa
+Ostrava,Moravskoslezsky kraj,Czech Republic,49.833,18.283,Europe
+Ljubljana,Bohinj,Slovenia,46.055,14.514,Europe
+San Cristobal,Tachira,Venezuela,7.767,-72.225,America
+Chernihiv,Chernihivs'ka Oblast',Ukraine,51.5,31.3,Europe
+Temuco,Araucania,Chile,-38.733,-72.6,America
+Ica,Ica,Peru,-14.068,-75.726,America
+Phitsanulok,Phitsanulok,Thailand,16.833,100.25,Asia
+Sapanca,Sakarya,Turkey,40.691,30.27,Europe
+Kogon,Bukhoro,Uzbekistan,39.723,64.552,Asia
+Sumbe,Cuanza Sul,Angola,-11.2,13.833,Africa
+Poltava,Poltavs'ka Oblast',Ukraine,49.583,34.567,Europe
+Петрозаводск,Karelia,Russia,61.817,34.333,Europe
+Kherson,Khersons'ka Oblast',Ukraine,46.633,32.6,Europe
+Lucena,Lucena,Philippines,13.931,121.617,Asia
+Mamuju,Sulawesi Barat,Indonesia,-2.675,118.889,Asia
+Qarshi,Qashqadaryo,Uzbekistan,38.863,65.798,Asia
+Santa Ana,Santa Ana,El Salvador,13.994,-89.56,America
+Gagnoa,Fromager,Cote d'Ivoire,6.133,-5.933,Africa
+Bost,Helmand,Afghanistan,31.5892,64.3633,Asia
+Juliaca,Puno,Peru,-15.5,-70.133,America
+Posadas,Misiones,Argentina,-27.383,-55.883,America
+Йошкар-Ола,Mariy-El,Russia,56.637,47.871,Europe
+Kamelnitskiy,Khmel'nyts'ka Oblast',Ukraine,49.4167,27.0,Europe
+Nassau,New Providence,Bahamas,25.083,-77.35,America
+Azaura,Dayr az Zawr,Syria,35.3333,40.15,Asia
+Iasi,Iasi,Romania,47.167,27.6,Europe
+Musa Kola,Mazandaran,Iran,36.45,53.3167,Asia
+Nguru,Yobe,Nigeria,12.878,10.451,Africa
+Mito-Shi,Ibaraki,Japan,36.341,140.447,Asia
+Cherkasy,Cherkas'ka Oblast',Ukraine,49.433,32.067,Europe
+Corum,Corum,Turkey,40.549,34.953,Europe
+Qunduz,Kondoz,Afghanistan,36.728,68.865,Asia
+Parana,Entre Rios,Argentina,-31.733,-60.533,America
+Gijon,Asturias,Spain,43.541,-5.664,Europe
+Tarija,Tarija,Bolivia,-21.517,-64.75,America
+Plymouth,Devon,United Kingdom,50.389,-4.147,Europe
+Aswan,Aswan,Egypt,24.088,32.899,Africa
+Potosi,Potosi,Bolivia,-19.584,-65.753,America
+Кострома,Kostroma,Russia,57.771,40.934,Europe
+Мурманск,Murmansk,Russia,68.967,33.083,Europe
+Maradi,Maradi,Niger,13.492,7.096,Africa
+Ban Pakkha,Xiangkhoang,Lao People's Democratic Republic,19.4103,103.5442,Asia
+Yoldere,Mardin,Turkey,37.2,40.622,Europe
+Adityman,Adiyaman,Turkey,37.7592,38.2783,Europe
+Saskatoon,Saskatchewan,Canada,52.133,-106.667,America
+Нальчик,Kabardin-Balkar,Russia,43.498,43.619,Europe
+Imphal,Manipur,India,24.817,93.95,Asia
+Taunggyi,Shan State,Myanmar,20.783,97.033,Asia
+Milton Keynes,Buckinghamshire,United Kingdom,52.029,-0.755,Europe
+Chernivtsi,Chernivets'ka Oblast',Ukraine,48.3,25.933,Europe
+Kutahya,Kutahya,Turkey,39.424,29.983,Europe
+Constanta,Constanta,Romania,44.183,28.65,Europe
+Jalalabad,Nangarhar,Afghanistan,34.426,70.451,Asia
+Zhytomyr,Zhytomyrs'ka Oblast',Ukraine,50.25,28.667,Europe
+Fukui-Shi,Fukui,Japan,36.064,136.223,Asia
+Novi Sad,Autonomna Pokrajina Vojvodina,Serbia,45.252,19.837,Europe
+Olongapo,Olongapo,Philippines,14.829,120.283,Asia
+Skardu,Northern Areas,Pakistan,35.3,75.6167,Asia
+Misratah,Misratah,Libya,32.378,15.091,Africa
+Aidinion,Aydin,Turkey,37.8444,27.8458,Europe
+Taloqan,Takhar,Afghanistan,36.734,69.54,Asia
+Manta,Manabi,Ecuador,-0.95,-80.733,America
+El Hadjar,Annaba,Algeria,36.805,7.738,Africa
+Sumy,Sums'ka Oblast',Ukraine,50.92,34.782,Europe
+Bloemfontein,Free State,South Africa,-29.133,26.2,Africa
+Verona,Veneto,Italy,45.45,11.0,Europe
+Derby,Derbyshire,United Kingdom,52.916,-1.474,Europe
+Kuala Terengganu,Terengganu,Malaysia,5.333,103.133,Asia
+San Pedro Carcha,Alta Verapaz,Guatemala,15.483,-90.267,America
+Namibe,Namibe,Angola,-15.196,12.152,Africa
+Tokushima-Shi,Tokushima,Japan,34.066,134.559,Asia
+Mawlamyine,Mon State,Myanmar,16.491,97.626,Asia
+Shimonoseki,Yamaguchi,Japan,33.95,130.95,Asia
+San Antonio,Samar,Philippines,11.278,125.011,Asia
+Afyonkarahisar,Afyonkarahisar,Turkey,38.757,30.543,Europe
+Higuey,La Altagracia,Dominican Republic,18.617,-68.7,America
+Timisoara,Timis,Romania,45.749,21.227,Europe
+Bata,Litoral,Equatorial Guinea,1.85,9.75,Africa
+La Paz,Baja California Sur,Mexico,24.142,-110.313,America
+Al Bayda',Yafran,Libya,32.7664,21.7417,Africa
+Goma,Nord-Kivu,Democratic Republic of Congo,-1.679,29.223,Africa
+Kefar Habad,HaMerkaz,Israel,31.987,34.851,Asia
+Osorno,Los Lagos,Chile,-40.567,-73.15,America
+San Francisco,Campeche,Mexico,19.849,-90.522,America
+Palangkaraya,Kalimantan Tengah,Indonesia,-2.214,113.911,Asia
+Kiel,Schleswig-Holstein,Germany,54.333,10.133,Europe
+Banikoara,Plateau,Benin,11.3,2.433,Africa
+Nashua,New Hampshire,United States of America,42.765,-71.468,America
+Isparta,Isparta,Turkey,37.764,30.552,Europe
+Esperanza,Villa Clara,Cuba,22.333,-80.05,America
+Yamagata-Shi,Yamagata,Japan,38.241,140.363,Asia
+Aksaray,Nevsehir,Turkey,38.374,34.029,Europe
+Swansea,Swansea,United Kingdom,51.633,-3.959,Europe
+Gyor,Gyor,Hungary,47.683,17.633,Europe
+Сыктывкар,Komi,Russia,61.667,50.812,Europe
+Stoke-On-Trent,Staffordshire,United Kingdom,53.025,-2.188,Europe
+Myitkyina,Kachin State,Myanmar,25.383,97.4,Asia
+Kyzylorda,Qyzylorda,Kazakhstan,44.853,65.509,Asia
+Halle,Sachsen-Anhalt,Germany,51.5,12.0,Europe
+Man,Dix-Huit Montagnes,Cote d'Ivoire,7.405,-7.548,Africa
+Paramaribo,Paramaribo,Suriname,5.833,-55.167,America
+Lamas,San Martin,Peru,-6.417,-76.533,America
+Благовещенск,Amur,Russia,50.267,127.533,Asia
+Chimoio,Manica,Mozambique,-19.116,33.483,Africa
+Lille,Nord-Pas-de-Calais,France,50.633,3.067,Europe
+Uhryniv,Ivano-Frankivs'ka Oblast',Ukraine,48.958,24.704,Europe
+Brasov,Brasov,Romania,45.633,25.583,Europe
+Djougou,Donga,Benin,9.705,1.667,Africa
+Usak,Usak,Turkey,38.68,29.408,Europe
+Abha,Jizan,Saudi Arabia,18.216,42.505,Asia
+Kafr Al Mansurah Al Qibli,Al Minya,Egypt,28.0833,30.75,Africa
+Gaborone,South-East,Botswana,-24.646,25.912,Africa
+Zinder,Zinder,Niger,13.8,8.983,Africa
+Banda Aceh,Aceh,Indonesia,5.558,95.322,Asia
+Bayamo,Granma,Cuba,20.379,-76.643,America
+Lemesos,Limassol,Cyprus,34.675,33.033,Asia
+Georgetown,Demerara-Mahaica,Guyana,6.8,-58.167,America
+Borujerd,Lorestan,Iran,33.867,48.833,Asia
+Zachagansk,West Kazakhstan,Kazakhstan,51.184,51.335,Asia
+Craiova,Dolj,Romania,44.317,23.8,Europe
+Formosa,Formosa,Argentina,-26.183,-58.183,America
+Bo,Southern,Sierra Leone,7.965,-11.738,Africa
+Nagbenang,Nana-Mambere,Central African Republic,5.55,15.5333,Africa
+Groningen,Groningen,Netherlands,53.219,6.567,Europe
+Mbour,Thies,Senegal,14.4,-16.967,Africa
+San Cristobal,San Cristobal,Dominican Republic,18.417,-70.1,America
+Singida,Singida,Tanzania,-4.817,34.75,Africa
+Saga-Shi,Saga,Japan,33.249,130.299,Asia
+Rancagua,Libertador General Bernardo O'Higgins,Chile,-34.167,-70.75,America
+Ormoc,Ormoc,Philippines,11.006,124.608,Asia
+Fresnillo De Gonzalez Echeverria,Zacatecas,Mexico,23.176,-102.869,America
+Turkmenabat,Lebap,Turkmenistan,39.101,63.575,Asia
+Istaduuto,Shabeellaha Hoose,Somalia,1.7167,44.7833,Africa
+Ordu,Ordu,Turkey,40.985,37.879,Europe
+Kosice,Kosice,Slovakia,48.717,21.25,Europe
+Guantanamo,Guantanamo,Cuba,20.144,-75.209,America
+Tripoli,Liban-Nord,Lebanon,34.433,35.85,Asia
+Rennes,Bretagne,France,48.083,-1.683,Europe
+Toamasina,Toamasina,Madagascar,-18.167,49.383,Indian
+Petrykiv,Ternopil's'ka Oblast',Ukraine,49.533,25.583,Europe
+Bushehr,Bushehr,Iran,28.968,50.839,Asia
+Mainz,Rheinland-Pfalz,Germany,50.0,8.271,Europe
+Dande,Bengo,Angola,-8.4667,13.3667,Africa
+Cork,Cork,Ireland,51.899,-8.496,Europe
+Tyrnavos,Thessaly,Greece,39.738,22.289,Europe
+Swindon,Wiltshire,United Kingdom,51.568,-1.763,Europe
+Mergui,Tenasserim,Myanmar,12.433,98.6,Asia
+Guekedou,Gueckedou,Guinea,8.563,-10.133,Africa
+Tchaourou,Mono,Benin,8.883,2.6,Africa
+Kivertsi,Volyns'ka Oblast',Ukraine,50.833,25.467,Europe
+San Felipe,Yaracuy,Venezuela,10.341,-68.737,America
+La Vega,La Vega,Dominican Republic,19.217,-70.517,America
+Prizren,Prizren,Kosovo,42.214,20.74,Europe
+Kirovohrad,Kirovohrads'ka Oblast',Ukraine,48.504,32.263,Europe
+Zanzibar,Zanzibar Urban,Tanzania,-6.167,39.183,Africa
+Pangkalpinang,Bangkaâ€“Belitung Islands,Indonesia,-2.129,106.114,Asia
+Galati,Galati,Romania,45.45,28.05,Europe
+Kostanay,Qostanay,Kazakhstan,53.167,63.583,Asia
+Buenos Aires,Distrito Federal,Argentina,-34.588,-58.673,America
+San Carlos,Bukidnon,Philippines,7.96,125.078,Asia
+Ayacucho,Ayacucho,Peru,-13.158,-74.224,America
+Дзержинск,Nizhegorod,Russia,56.239,43.463,Europe
+San Rafael,Mendoza,Argentina,-34.6,-68.333,America
+Chorfa,Bouira,Algeria,36.369,4.337,Africa
+As Samawah,Al Muthanna,Iraq,31.3094,45.2803,Asia
+Oulu,Oulu,Finland,65.017,25.467,Europe
+Almere Stad,Flevoland,Netherlands,52.37,5.214,Europe
+Hurghada,Al Bahr al Ahmar,Egypt,27.239,33.836,Africa
+Sikasso,Sikasso,Mali,11.317,-5.667,Africa
+Bouafle,Marahoue,Cote d'Ivoire,6.983,-5.75,Africa
+Portland,Maine,United States of America,43.661,-70.256,America
+Norwich,Norfolk,United Kingdom,52.628,1.301,Europe
+Luton,Bedfordshire,United Kingdom,51.881,-0.411,Europe
+Sidi Bel Abbes,Sidi Bel Abbes,Algeria,35.1939,-0.6414,Africa
+Trondheim,Sor-Trondelag,Norway,63.417,10.417,Europe
+Linz,Oberosterreich,Austria,48.3,14.3,Europe
+Irakleion,Crete,Greece,35.328,25.143,Europe
+Rostock,Mecklenburg-Vorpommern,Germany,54.083,12.133,Europe
+Aliang,Trece Martires,Philippines,14.283,120.883,Asia
+Pagadian,Zamboanga del Sur,Philippines,7.826,123.437,Asia
+Al-Kayrawan,Kairouan,Tunisia,35.6744,10.1017,Africa
+Burgas,Burgas,Bulgaria,42.5,27.467,Europe
+Bariw,Legaspi,Philippines,13.133,123.733,Asia
+Tema,Volta,Ghana,5.617,-0.017,Africa
+Kireka,Mukono,Uganda,0.348,32.649,Africa
+Sioux Falls,South Dakota,United States of America,43.55,-96.7,America
+Pamplona,Navarra,Spain,42.817,-1.633,Europe
+Quetzaltenango,Quetzaltenango,Guatemala,14.833,-91.517,America
+Monywa,Sagaing,Myanmar,22.117,95.133,Asia
+Toledo,Toledo,Philippines,10.379,123.642,Asia
+Marawi,Marawi,Philippines,7.999,124.293,Asia
+Parakou,Borgou,Benin,9.35,2.617,Africa
+Damietta,Dumyat,Egypt,31.419,31.815,Africa
+Shimla,Himachal Pradesh,India,31.103,77.172,Asia
+Islington,Islington Greater London,United Kingdom,51.544,-0.105,Europe
+Talca,Maule,Chile,-35.433,-71.667,America
+Ifakara,Iringa,Tanzania,-8.133,36.683,Africa
+San Carlos,Pangasinan,Philippines,15.928,120.349,Asia
+Biskra,Biskra,Algeria,34.85,5.733,Africa
+Ternate,Maluku Utara,Indonesia,0.791,127.384,Asia
+Coquimbo,Coquimbo,Chile,-29.953,-71.344,America
+Loja,Loja,Ecuador,-4.0,-79.217,America
+Acarigua,Portuguesa,Venezuela,9.56,-69.202,America
+Tanjungpinang,Riau Islands,Indonesia,0.917,104.45,Asia
+Khayrabad,Surkhondaryo,Uzbekistan,40.0833,67.8333,Asia
+Arica,Tarapaca,Chile,-18.483,-70.333,America
+Las Tunas,Las Tunas,Cuba,20.962,-76.951,America
+Al Khums,Al Khums,Libya,32.65,14.2667,Africa
+Matsue-Shi,Shimane,Japan,35.472,133.051,Asia
+Debrecen,Debrecen,Hungary,47.533,21.633,Europe
+Tarakan,North Kalimantan,Indonesia,3.313,117.592,Asia
+Petropavl,North Kazakhstan,Kazakhstan,54.875,69.163,Asia
+Maroua,Extreme-Nord,Cameroon,10.596,14.325,Africa
+Cajamarca,Cajamarca,Peru,-7.167,-78.517,America
+Huntington,West Virginia,United States of America,38.419,-82.445,America
+Moshi,Kilimanjaro,Tanzania,-3.35,37.333,Africa
+Dasoguz,Dashoguz,Turkmenistan,41.833,59.967,Asia
+Soyo,Zaire,Angola,-6.133,12.367,Africa
+Aberdeen,Aberdeen City,United Kingdom,57.149,-2.126,Europe
+Kabankalan,Negros Occidental,Philippines,9.989,122.812,Asia
+Lochau,Vorarlberg,Austria,47.533,9.75,Europe
+Taji,Salah ad Din,Iraq,33.5294,44.2775,Asia
+Surman,Az Zawiyah,Libya,32.756,12.575,Africa
+Ejido,Merida,Venezuela,8.551,-71.238,America
+Pristina,Komuna e PrishtinÃ«s,Kosovo,42.673,21.167,Europe
+Chumahana,La Guajira,Colombia,11.9447,-72.0092,America
+Trieste,Friuli-Venezia Giulia,Italy,45.649,13.78,Europe
+Kankan,Kankan,Guinea,10.383,-9.3,Africa
+New Town,Tasmania,Australia,-42.86,147.308,Australia
+La Ceiba,Atlantida,Honduras,15.783,-86.8,America
+Zakho,Dahuk,Iraq,37.1442,42.6872,Asia
+Huanuco,Huanuco,Peru,-9.917,-76.233,America
+Mae Sot,Tak,Thailand,16.717,98.567,Asia
+Koronadal,South Cotabato,Philippines,6.503,124.847,Asia
+San Pedro De Macoris,San Pedro De Macoris,Dominican Republic,18.45,-69.3,America
+Coro,Falcon,Venezuela,11.409,-69.667,America
+Dundu,Lunda Norte,Angola,-7.3833,20.8333,Africa
+Mbarara,Mbarara,Uganda,-0.658,30.676,Africa
+Theveste,Tebessa,Algeria,35.4042,8.1242,Africa
+Duzce,Bolu,Turkey,40.839,31.164,Europe
+Peterborough,Cambridgeshire,United Kingdom,52.58,-0.238,Europe
+Sohag,Matruh,Egypt,26.55,31.7,Africa
+Quelimane,Zambezia,Mozambique,-17.879,36.888,Africa
+Jalapa,Jalapa,Guatemala,14.633,-89.983,America
+Purley,Croydon Greater London,United Kingdom,51.337,-0.114,Europe
+Gorontalo,Gorontalo,Indonesia,0.541,123.06,Asia
+Florencia,Caqueta,Colombia,1.618,-75.618,America
+Fianarantsoa,Fianarantsoa,Madagascar,-21.433,47.083,Indian
+Bago,Bago,Philippines,10.538,122.833,Asia
+Valera,Trujillo,Venezuela,9.318,-70.604,America
+Ouargla,Ouargla,Algeria,31.958,5.328,Africa
+Manzanillo,Colima,Mexico,19.052,-104.316,America
+Shahr-E Kord,Chahar Mahall va Bakhtiari,Iran,32.326,50.864,Asia
+Pak Kret,Nonthaburi,Thailand,13.917,100.5,Asia
+Ngaoundere,Adamaoua,Cameroon,7.317,13.583,Africa
+Псков,Pskov,Russia,57.833,28.333,Europe
+Sokode,Centrale,Togo,8.983,1.133,Africa
+Pinar Del Rio,Pinar del Rio,Cuba,22.418,-83.698,America
+Kenema,Eastern,Sierra Leone,7.877,-11.188,Africa
+Balkanabat,Balkan,Turkmenistan,39.512,54.365,Asia
+Digos,Davao del Sur,Philippines,6.75,125.357,Asia
+El Progreso,Yoro,Honduras,15.4,-87.8,America
+Al Hasakah,Al Hasakah,Syria,36.4833,40.75,Asia
+San Francisco De Macoris,Duarte,Dominican Republic,19.3,-70.25,America
+Gharyan,Gharyan,Libya,32.1722,13.0203,Africa
+Bournemouth,Dorset,United Kingdom,50.723,-1.881,Europe
+Tottori,Tottori,Japan,35.5,134.233,Asia
+Kofu-Shi,Yamanashi,Japan,35.664,138.568,Asia
+Potsdam,Brandenburg,Germany,52.4,13.067,Europe
+Calbayog,Calbayog,Philippines,12.067,124.604,Asia
+Basildon,Essex,United Kingdom,51.578,0.503,Europe
+Plzen,Plzensky kraj,Czech Republic,49.75,13.367,Europe
+Mount Pearl,Newfoundland and Labrador,Canada,47.517,-52.783,America
+Semnan,Semnan,Iran,35.575,53.394,Asia
+Banja Luka,Republika Srpska,Bosnia and Herzegovina,44.776,17.186,Europe
+Arrentela,Setubal,Portugal,38.617,-9.1,Europe
+Siguiri,Siguiri,Guinea,11.417,-9.167,Africa
+Saarbrucken,Saarland,Germany,49.233,7.0,Europe
+Aktau,Mangghystau,Kazakhstan,43.65,51.2,Asia
+Oradea,Bihor,Romania,47.067,21.933,Europe
+Isiro,Maniema,Democratic Republic of Congo,2.767,27.617,Africa
+Odense,Syddanmark,Denmark,55.4,10.383,Europe
+Sorsogon,Sorsogon,Philippines,12.974,123.993,Asia
+Абакан,Khakass,Russia,53.716,91.429,Asia
+Braga,Braga,Portugal,41.55,-8.433,Europe
+Kindia,Kindia,Guinea,10.067,-12.85,Africa
+La Rioja,La Rioja,Argentina,-29.433,-66.85,America
+Mukdahan,Mukdahan,Thailand,16.533,104.717,Asia
+Ploiesti,Prahova,Romania,44.95,26.017,Europe
+Южно-Сахалинск,Sakhalin,Russia,46.952,142.741,Asia
+Edirne,Edirne,Turkey,41.674,26.561,Europe
+Kyaukpyn,Rakhine State,Myanmar,19.4333,93.55,Asia
+Mongu,Eastern,Zambia,-15.25,23.133,Africa
+Calabar,Cross River,Nigeria,4.95,8.317,Africa
+Roxas,Roxas,Philippines,11.585,122.751,Asia
+Tiaret,Tiaret,Algeria,35.376,1.313,Africa
+El-`Arish,Shamal Sina',Egypt,31.1244,33.8006,Africa
+Reims,Champagne-Ardenne,France,49.25,4.033,Europe
+Quevedo,Los Rios,Ecuador,-1.033,-79.45,America
+Fethiye,Mugla,Turkey,36.622,29.116,Europe
+Kandi,Alibori,Benin,11.134,2.939,Africa
+Nijmegen,Gelderland,Netherlands,51.843,5.853,Europe
+Ambato,Tungurahua,Ecuador,-1.25,-78.617,America
+Riobamba,Chimborazo,Ecuador,-1.667,-78.633,America
+Leon,Leon,Nicaragua,12.436,-86.879,America
+Camp Inferieur,Bejaia,Algeria,36.75,5.0667,Africa
+Rantau Prapat,Indonesia (general) ,Indonesia,2.3321,100.0521,Asia
+Karaman,Karaman,Turkey,37.181,33.215,Europe
+Manaus,Amazonas,Brazil,-3.113,-60.025,America
+Uppsala,Uppsala Lan,Sweden,59.85,17.633,Europe
+Albacete,Castilla-La Mancha,Spain,38.983,-1.85,Europe
+Habaswein,North-Eastern,Kenya,1.0092,39.4881,Africa
+Santander,Cantabria,Spain,43.465,-3.804,Europe
+Patra,West Greece,Greece,38.244,21.734,Europe
+Kaolack,Kaolack,Senegal,14.15,-16.067,Africa
+Guiglo,Moyen-Cavally,Cote d'Ivoire,6.54,-7.486,Africa
+Surigao,Surigao,Philippines,9.784,125.489,Asia
+Reggio Calabria,Calabria,Italy,38.1,15.65,Europe
+Nigde,Nigde,Turkey,37.969,34.683,Europe
+Escuintla,Escuintla,Guatemala,14.305,-90.785,America
+Aplahoue,Kouffo,Benin,6.933,1.683,Africa
+Suwayq,Al Batinah,Oman,23.8494,57.4386,Asia
+San Luis,San Luis,Argentina,-33.3,-66.35,America
+Cape Coast,Central,Ghana,5.1,-1.25,Africa
+El Merj,Murzuq,Libya,32.5,20.8333,Africa
+Batumi,Ajaria,Georgia,41.639,41.637,Asia
+Toliary,Toliara,Madagascar,-23.35,43.667,Indian
+Calabozo,Guarico,Venezuela,8.934,-67.427,America
+Bordj Bou Arreridj,Bordj Bou Arreridj,Algeria,36.075,4.775,Africa
+Barking,Barking & Dagenham Greater London,United Kingdom,51.541,0.082,Europe
+Jutiapa,Jutiapa,Guatemala,14.283,-89.9,America
+Murgab,Mary,Turkmenistan,37.5,61.967,Asia
+Kismayo,Jubbada Hoose,Somalia,-0.367,42.533,Africa
+Le Havre,Haute-Normandie,France,49.5,0.133,Europe
+Ratnapura,Sabaragamuwa,Sri Lanka,6.683,80.399,Asia
+Bechar,Bechar,Algeria,31.6167,-2.2167,Africa
+Warrington,Cheshire,United Kingdom,53.392,-2.595,Europe
+San Fernando Apure,Apure,Venezuela,7.897,-67.467,America
+Idlib,Idlib,Syria,35.93,36.632,Asia
+Cienfuegos,Cienfuegos,Cuba,22.146,-80.436,America
+Abengourou,Moyen-Comoe,Cote d'Ivoire,6.73,-3.496,Africa
+Musoma,Mara,Tanzania,-1.5,33.8,Africa
+Tunja,Boyaca Department,Colombia,5.535,-73.368,America
+Muelle Del Arenal,Alajuela,Costa Rica,10.5333,-84.5167,America
+Jazzin,Al Janub,Lebanon,33.542,35.589,Asia
+Waw,Ash Shamaliyah,Sudan,7.7,28.0,Africa
+Tokat,Tokat,Turkey,40.314,36.554,Europe
+Petropavlovsk-Kamchatskiy,Kamchatka,Russia,53.017,158.65,Asia
+Manzil Jamil,Bizerte,Tunisia,37.236,9.918,Africa
+Perugia,Umbria,Italy,43.133,12.367,Europe
+Zaranj,Nimruz,Afghanistan,30.967,61.883,Asia
+Saguing,North Cotabato,Philippines,6.98,125.078,Asia
+Split,Splitsko-Dalmatinska,Croatia,43.514,16.456,Europe
+Siirt,Siirt,Turkey,37.928,41.939,Europe
+Ferkessedougou,Bafing,Cote d'Ivoire,9.6,-5.2,Africa
+Khowst,Khowst,Afghanistan,33.338,69.92,Asia
+Koudougou,Boulkiemde,Burkina Faso,12.25,-2.367,Africa
+Dijon,Bourgogne,France,47.317,5.017,Europe
+Enschede,Overijssel,Netherlands,52.218,6.896,Europe
+Newport,Newport,United Kingdom,51.591,-2.99,Europe
+Catamarca,Catamarca,Argentina,-28.467,-65.783,America
+Djelfa,Djelfa,Algeria,34.667,3.25,Africa
+Cadiz,Cadiz,Philippines,10.958,123.309,Asia
+Copiapo,Atacama,Chile,-27.367,-70.333,America
+Klaipeda,Klaipedos Apskritis,Lithuania,55.717,21.118,Europe
+Manaring,Isabela,Philippines,17.176,121.924,Asia
+Szeged,Szeged,Hungary,46.25,20.167,Europe
+Cheshunt,Hertfordshire,United Kingdom,51.705,-0.041,Europe
+Adzope,Zanzan,Cote d'Ivoire,6.107,-3.862,Africa
+Portmore,Saint Catherine,Jamaica,17.967,-76.867,America
+Masaba,Danao,Philippines,10.533,123.967,Asia
+Cap-Haitien,Nord,Haiti,19.758,-72.204,America
+Esmeraldas,Esmeraldas,Ecuador,0.983,-79.7,America
+Chlef,Chlef,Algeria,36.165,1.335,Africa
+Salzburg,Salzburg,Austria,47.8,13.033,Europe
+Braila,Braila,Romania,45.267,27.983,Europe
+Saint-Louis,Saint-Louis,Senegal,16.019,-16.495,Africa
+Durres,Durres,Albania,41.323,19.441,Europe
+Aryanah,Sidi Bou Zid,Tunisia,36.863,10.196,Africa
+Bagong Sikat,Mindoro Occidental,Philippines,12.368,121.063,Asia
+Dutse,Jigawa,Nigeria,11.778,9.334,Africa
+Tete,Tete,Mozambique,-16.156,33.587,Africa
+Choluteca,Choluteca,Honduras,13.3,-87.191,America
+Gulu,Gulu,Uganda,2.767,32.306,Africa
+Asahi,Japan (general),Japan,34.0643,133.0005,Asia
+Matanzas,Matanzas,Cuba,23.041,-81.578,America
+Ipswich,Suffolk,United Kingdom,52.057,1.157,Europe
+Logrono,La Rioja,Spain,42.467,-2.45,Europe
+Chichicastenango,Quiche,Guatemala,14.933,-91.117,America
+Sibul,Nueva Ecija,Philippines,15.8,121.0,Asia
+Erzincan,Erzincan,Turkey,39.752,39.493,Europe
+Justinianopolis,Kirsehir,Turkey,39.1458,34.1639,Europe
+Badajoz,Extremadura,Spain,38.883,-6.967,Europe
+Katoto,Nkhata Bay,Malawi,-11.45,33.9833,Africa
+Nchelenge,Copperbelt,Zambia,-9.35,28.733,Africa
+Mariveles,Bataan,Philippines,14.434,120.485,Asia
+Pinner,Harrow Greater London,United Kingdom,51.593,-0.392,Europe
+Port Louis,Port Louis,Mauritius,-20.162,57.499,Indian
+Maymana,Faryab,Afghanistan,35.921,64.784,Asia
+Karakose,Agri,Turkey,39.719,43.051,Europe
+Jean-Rabel,Nord-Ouest,Haiti,19.853,-73.192,America
+Dundee,Dundee City,United Kingdom,56.48,-3.033,Europe
+Cagliari,Sardegna,Italy,39.217,9.117,Europe
+Szombathely,Vas,Hungary,47.233,16.617,Europe
+Tskaltubo,Tsalkis Raioni,Georgia,42.34,42.599,Asia
+Siem Reap,Siem Reap,Cambodia,13.367,103.85,Asia
+Clermont-Ferrand,Auvergne,France,45.783,3.083,Europe
+Mati,Davao Oriental,Philippines,6.955,126.217,Asia
+Malakal,Upper Nile,Sudan,9.537,31.656,Africa
+Bauta,La Habana,Cuba,22.983,-82.546,America
+Dhamar,Dhamar,Yemen,14.55,44.4017,Asia
+Stavanger,Rogaland,Norway,58.967,5.75,Europe
+San Vicente,Mindoro Oriental,Philippines,13.406,121.185,Asia
+Mostaganem,Mostaganem,Algeria,35.933,0.09,Africa
+Bani,Peravia,Dominican Republic,18.283,-70.333,America
+Gloucester,Gloucestershire,United Kingdom,51.865,-2.241,Europe
+Thanatpin,Pegu,Myanmar,17.3,96.583,Asia
+Arad,Arad,Romania,46.183,21.317,Europe
+Bukoba,Kagera,Tanzania,-1.332,31.812,Africa
+Porlamar,Nueva Esparta,Venezuela,10.95,-63.85,America
+Comayagua,Comayagua,Honduras,14.45,-87.633,America
+Mehtar Lam,Laghman,Afghanistan,34.671,70.209,Asia
+Navoi,Nawoiy,Uzbekistan,40.084,65.379,Asia
+Canakkale,Canakkale,Turkey,40.146,26.406,Europe
+Aalborg,Nordjylland,Denmark,57.05,9.933,Europe
+Miskolc,Miskolc,Hungary,48.1,20.783,Europe
+Ciego De Avila,Ciego de Avila,Cuba,21.84,-78.762,America
+Gazni,Ghazni,Afghanistan,33.551,68.423,Asia
+Shillong,Meghalaya,India,25.576,91.873,Asia
+Stara Zagora,Stara Zagora,Bulgaria,42.433,25.642,Europe
+Telford,Shropshire,United Kingdom,52.682,-2.453,Europe
+Lichinga,Niassa,Mozambique,-13.313,35.241,Africa
+Oshikango,Ohangwena,Namibia,-17.4,15.883,Africa
+Preston,Lancashire,United Kingdom,53.76,-2.707,Europe
+Brasilia,Distrito Federal,Brazil,-15.783,-47.917,America
+York,North Yorkshire,United Kingdom,53.956,-1.095,Europe
+Pemba,Cabo Delgado,Mozambique,-12.961,40.508,Africa
+Pitesti,Arges,Romania,44.85,24.867,Europe
+Malilipot,Albay,Philippines,13.321,123.74,Asia
+Coimbra,Coimbra,Portugal,40.2,-8.417,Europe
+Mtwara,Mtwara,Tanzania,-10.267,40.183,Africa
+Port Blair,Andaman and Nicobar Islands,India,11.667,92.75,Asia
+Ruse,Ruse,Bulgaria,43.856,25.971,Europe
+Ozamiz,Ozamis,Philippines,8.148,123.841,Asia
+Pecs,Pecs,Hungary,46.083,18.233,Europe
+Antiguo Cuscatlan,La Libertad,El Salvador,13.673,-89.241,America
+Stuart Park,Northern Territory,Australia,-12.443,130.845,Australia
+Reykjavík,Gullbringusysla,Iceland,64.15,-21.95,Atlantic
+Masaya,Masaya,Nicaragua,11.967,-86.1,America
+La Romana,La Romana,Dominican Republic,18.417,-68.967,America
+Майкоп,Adygeya,Russia,44.608,40.106,Europe
+Tours,Centre,France,47.383,0.683,Europe
+Sancti Spiritus,Sancti Spiritus,Cuba,21.93,-79.443,America
+Medea,Medea,Algeria,36.268,2.75,Africa
+Dipolog,Dipolog,Philippines,8.588,123.341,Asia
+Jacmel,Sud-Est,Haiti,18.234,-72.535,America
+Moundou,Logone Occidental,Chad,8.567,16.083,Africa
+Northampton,Northamptonshire,United Kingdom,52.247,-0.896,Europe
+Norrkoping,Ostergotlands Lan,Sweden,58.6,16.183,Europe
+Timbangan,Sulu,Philippines,6.006,120.994,Asia
+Gingoog,Gingoog,Philippines,8.828,125.1,Asia
+Huehuetenango,Huehuetenango,Guatemala,15.32,-91.471,America
+Port-Gentil,Ogooue-Maritime,Gabon,-0.717,8.783,Africa
+Bacau,Bacau,Romania,46.567,26.9,Europe
+Tubruq,Tubruq,Libya,32.084,23.976,Africa
+Gitega,Gitega,Burundi,-3.425,29.933,Africa
+Ahuachapan,Ahuachapan,El Salvador,13.921,-89.845,America
+Tizi Ouzou,Tizi Ouzou,Algeria,36.717,4.05,Africa
+Agboville,Agneby,Cote d'Ivoire,5.934,-4.221,Africa
+Maldonado,Maldonado,Uruguay,-34.9,-54.95,America
+Ruhengeri,Butare,Rwanda,-1.483,29.617,Africa
+Amiens,Picardie,France,49.9,2.3,Europe
+El Oued,El Oued,Algeria,33.333,6.883,Africa
+Moron,Hovsgol,Mongolia,49.645,100.154,Asia
+Laghouat,Laghouat,Algeria,33.8,2.883,Africa
+Livingstone,Luapula,Zambia,-17.85,25.867,Africa
+Sibiu,Sibiu,Romania,45.8,24.15,Europe
+Brighton,East Sussex,United Kingdom,50.843,-0.134,Europe
+Dumaguete,Dumaguete,Philippines,9.31,123.308,Asia
+Sitrah,Sitrah,Bahrain,26.155,50.621,Asia
+Segou,Segou,Mali,13.45,-6.267,Africa
+Bingol,Bingol,Turkey,38.885,40.494,Europe
+Matagalpa,Matagalpa,Nicaragua,12.917,-85.917,America
+Billings,Montana,United States of America,45.783,-108.5,America
+Porto-Novo,Oueme,Benin,6.483,2.617,Africa
+Yalova,Yalova,Turkey,40.654,29.285,Europe
+Male,Maale,Maldives,4.167,73.5,Indian
+M'sila,M'sila,Algeria,35.7058,4.5419,Africa
+Luxembourg,Luxembourg,Luxembourg,49.612,6.13,Europe
+San Carlos,San Carlos,Philippines,10.487,123.42,Asia
+Gardabani,Akhmetis Raioni,Georgia,41.455,45.095,Asia
+San Juan De La Maguana,San Juan,Dominican Republic,18.8,-71.233,America
+Surat Thani,Surat Thani,Thailand,9.133,99.317,Asia
+Ibarra,Imbabura,Ecuador,0.35,-78.117,America
+Västerås,Vastmanlands Lan,Sweden,59.617,16.55,Europe
+Jijel,Jijel,Algeria,36.8,5.767,Africa
+Buea,Sud-Ouest,Cameroon,4.159,9.237,Africa
+Atyrau,Atyrau,Kazakhstan,47.117,51.883,Asia
+Cizre,Sirnak,Turkey,37.327,42.19,Asia
+Vlore,Vlore,Albania,40.467,19.49,Europe
+Quibdo,Choco,Colombia,5.695,-76.661,America
+Trinidad,El Beni,Bolivia,-14.833,-64.9,America
+Innsbruck,Tirol,Austria,47.267,11.4,Europe
+Udon Thani,Udon Thani,Thailand,17.408,102.793,Asia
+Silay,Silay,Philippines,10.799,122.974,Asia
+Isabela,Basilan,Philippines,6.709,121.971,Asia
+Lincoln,Lincolnshire,United Kingdom,53.232,-0.541,Europe
+Relizane,Relizane,Algeria,35.743,0.559,Africa
+Batdambang,Batdambang,Cambodia,13.1,103.2,Asia
+Limoges,Limousin,France,45.85,1.25,Europe
+Ambodimadino,Antsiranana,Madagascar,-12.2833,49.3167,Indian
+Hackney,Hackney Greater London,United Kingdom,51.543,-0.062,Europe
+Orebro,Orebro Lan,Sweden,59.283,15.217,Europe
+Saida,Saida,Algeria,34.8333,0.15,Africa
+Dover,Delaware,United States of America,39.158,-75.525,America
+Kayes,Kayes,Mali,14.45,-11.433,Africa
+Koforidua,Eastern,Ghana,6.083,-0.25,Africa
+Leiria,Leiria,Portugal,39.75,-8.8,Europe
+Giresun,Giresun,Turkey,40.917,38.4,Europe
+San Fernando,La Union,Philippines,16.619,120.319,Asia
+Kastamonu,Kastamonu,Turkey,41.372,33.771,Europe
+Payakumbuh,West Sumatra,Indonesia,-0.216,100.633,Asia
+Luleburgaz,Kirklareli,Turkey,41.407,27.355,Europe
+Bonao,Monsenor Nouel,Dominican Republic,18.933,-70.417,America
+Jilib,Jubbada Dhexe,Somalia,0.496,42.773,Africa
+Juticalpa,Olancho,Honduras,14.65,-86.2,America
+Fish Town,River Gee,Liberia,5.196,-7.876,Africa
+Ouahigouya,Yatenga,Burkina Faso,13.583,-2.417,Africa
+Hoek,Friesland,Netherlands,53.205,5.802,Europe
+Boubou,Collines,Benin,8.0167,2.2333,Africa
+Bimbo,Ombella-Mpoko,Central African Republic,4.3,18.55,Africa
+Kuopio,Eastern Finland,Finland,62.9,27.683,Europe
+Savannakhet,Attapu,Lao People's Democratic Republic,16.55,104.75,Asia
+Duma,Rif Dimashq,Syria,33.583,36.4,Asia
+Punta Arenas,Magallanes y de la Antartica Chilena,Chile,-53.15,-70.917,America
+Черкесск,Karachay-Cherkess,Russia,44.223,42.058,Europe
+Kaya,Sanmatenga,Burkina Faso,13.092,-1.084,Africa
+Malabugas,Negros Oriental,Philippines,9.368,122.768,Asia
+Hoima,Hoima,Uganda,1.436,31.344,Africa
+Sella,Guam,United States of America,13.47,144.7306,Pacific
+Gyumri,Shirak,Armenia,40.789,43.848,Asia
+Chinandega,Chinandega,Nicaragua,12.617,-87.15,America
+Metz,Lorraine,France,49.133,6.167,Europe
+Ondjiva,Cunene,Angola,-17.067,15.733,Africa
+Tabuk,Kalinga-Apayao,Philippines,17.419,121.446,Asia
+Nakhon Pathom,Nakhon Pathom,Thailand,13.817,100.05,Asia
+Maastricht,Limburg,Netherlands,50.848,5.689,Europe
+Kandy,Central,Sri Lanka,7.296,80.636,Asia
+Samut Prakan,Samut Prakan,Thailand,13.6,100.6,Asia
+Besancon,Franche-Comte,France,47.25,6.033,Europe
+Rize,Rize,Turkey,41.021,40.522,Europe
+Dieppe,New Brunswick,Canada,46.1,-64.75,America
+Scheia,Suceava,Romania,47.65,26.233,Europe
+Pleven,Pleven,Bulgaria,43.417,24.617,Europe
+Totonicapan,Totonicapan,Guatemala,14.917,-91.367,America
+Pescara,Abruzzi,Italy,42.467,14.217,Europe
+Rundu,Okavango,Namibia,-17.933,19.767,Africa
+Burlington,Vermont,United States of America,44.476,-73.213,America
+Kampong Cham,Kampong Cham,Cambodia,12.0,105.45,Asia
+Trento,Trentino-Alto Adige,Italy,46.067,11.133,Europe
+Nouadhibou,Dakhlet Nouadhibou,Mauritania,20.9,-17.067,Africa
+Tahoua,Tahoua,Niger,14.89,5.268,Africa
+Agadez,Agadez,Niger,16.974,7.991,Africa
+Banfora,Komoe,Burkina Faso,10.633,-4.767,Africa
+Awang,Maguindanao,Philippines,7.153,124.221,Asia
+Chimaltenango,Chimaltenango,Guatemala,14.669,-90.817,America
+Xai-Xai,Gaza,Mozambique,-25.052,33.644,Africa
+Boke,Boke,Guinea,10.933,-14.3,Africa
+Tampakan,Tawitawi,Philippines,4.923,119.794,Asia
+Ain Beida,Oum el Bouaghi,Algeria,35.7964,7.3928,Africa
+Targu-Mures,Mures,Romania,46.55,24.567,Europe
+Sabha,Sabha,Libya,27.033,14.433,Africa
+Kyzyl,Tuva,Russia,51.7,94.45,Asia
+Ras Al Khaimah,Ras Al Khaimah,United Arab Emirates,25.791,55.943,Asia
+Lysaker,Akershus,Norway,59.9,10.6,Europe
+Uzhhorod,Zakarpats'ka Oblast',Ukraine,48.617,22.3,Europe
+Kilembe,Kasese,Uganda,0.2,30.0,Africa
+Nyiregyhaza,Szabolcs-Szatmar-Bereg,Hungary,47.95,21.717,Europe
+Puerto Madryn,Chubut,Argentina,-42.767,-65.05,America
+Sliven,Sliven,Bulgaria,42.686,26.329,Europe
+Al Mudaibi,Ash Sharqiyah,Oman,22.5692,58.12,Asia
+Khiwa,Khorazm,Uzbekistan,41.3783,60.3639,Asia
+Amasya,Amasya,Turkey,40.653,35.833,Europe
+Qaryat Bin Tallis,Sawfajjin,Libya,31.8011,14.0711,Africa
+Nedroma,Tlemcen,Algeria,35.0,-1.733,Africa
+Thimphu,Thimphu,Bhutan,27.483,89.6,Asia
+Iriga,Iriga,Philippines,13.425,123.418,Asia
+Machakos,Eastern,Kenya,-1.517,37.267,Africa
+Ndali,Atakora,Benin,9.8608,2.7181,Africa
+Baglan,Baghlan,Afghanistan,36.127,68.705,Asia
+Mambulo,Camarines Sur,Philippines,13.717,123.05,Asia
+San Carlos De Bariloche,Rio Negro,Argentina,-41.15,-71.3,America
+Jonkoping,Jonkopings Lan,Sweden,57.783,14.183,Europe
+Colonia Nicolich,Canelones,Uruguay,-34.813,-56.045,America
+Kilis,Kilis,Turkey,36.716,37.115,Europe
+Esteli,Esteli,Nicaragua,13.083,-86.35,America
+Pamatawan,Zambales,Philippines,14.926,120.22,Asia
+Palhi,Leyte,Philippines,10.649,124.8,Asia
+Daet,Camarines Norte,Philippines,14.113,122.956,Asia
+Laoag,Laoag,Philippines,18.199,120.594,Asia
+Chiquimula,Chiquimula,Guatemala,14.8,-89.55,America
+Kasempa,Western,Zambia,-13.45,25.833,Africa
+Tuzla,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,44.543,18.669,Europe
+Puerto Barrios,Izabal,Guatemala,15.717,-88.6,America
+Jena,Thuringen,Germany,50.933,11.583,Europe
+Kifa,Assaba,Mauritania,16.6167,-11.4,Africa
+Franceville,Haut-Ogooue,Gabon,-1.6333,13.5833,Africa
+Manzini,Manzini,Swaziland,-26.483,31.367,Africa
+Masindi,Masindi,Uganda,1.674,31.715,Africa
+Bridgetown,Saint Michael,Barbados,13.1,-59.617,America
+Tinaquillo,Cojedes,Venezuela,9.919,-68.305,America
+Retalhuleu,Retalhuleu,Guatemala,14.533,-91.683,America
+Maygatasan,Agusan del Sur,Philippines,8.709,125.718,Asia
+Maidstone,Kent,United Kingdom,51.271,0.529,Europe
+Kecskemet,Bacs-Kiskun,Hungary,46.9,19.783,Europe
+Drammen,Buskerud,Norway,59.743,10.212,Europe
+New Lagao,Sultan Kudarat,Philippines,6.703,124.641,Asia
+Malacatan,San Marcos,Guatemala,14.9,-92.05,America
+Maxixe,Inhambane,Mozambique,-23.86,35.347,Africa
+Al Qasrayn,Kasserine,Tunisia,35.1672,8.8289,Africa
+Baia Mare,Maramures,Romania,47.667,23.583,Europe
+Witbank,Mpumalanga,South Africa,-25.867,29.233,Africa
+Ferizaj,Komuna e Ferizajt,Kosovo,42.371,21.155,Europe
+Oxford,Oxfordshire,United Kingdom,51.755,-1.255,Europe
+Mascara,Mascara,Algeria,35.394,0.14,Africa
+Khenchela,Khenchela,Algeria,35.436,7.143,Africa
+Sharafabad-E `Olya,Kohkiluyeh va Buyer Ahmadi,Iran,30.6667,51.5667,Asia
+Mopti,Mopti,Mali,14.5,-4.2,Africa
+Caen,Basse-Normandie,France,49.183,-0.35,Europe
+Birnin-Kebbi,Kebbi,Nigeria,12.4539,4.1975,Africa
+Liberec,Liberecky kraj,Czech Republic,50.764,15.065,Europe
+Drenova,Primorsko-Goranska,Croatia,45.35,14.43,Europe
+Labe,Labe,Guinea,11.317,-12.283,Africa
+Wa,Upper West,Ghana,10.05,-2.483,Africa
+Lamtah,Al Munastir,Tunisia,35.667,10.883,Africa
+Emmen,Drenthe,Netherlands,52.779,6.907,Europe
+Новый Уренгой,Yamal-Nenets,Russia,66.083,76.633,Asia
+Yopal,Casanare,Colombia,5.352,-72.403,America
+Erdenet,Orhon,Mongolia,49.033,104.083,Asia
+Kalmunai,Eastern Province,Sri Lanka,7.409,81.835,Asia
+Nabul,Nabeul,Tunisia,36.45,10.733,Africa
+Aran,Yevlax,Azerbaijan,40.625,46.976,Asia
+Granada,Granada,Nicaragua,11.933,-85.95,America
+Nossa Senhora Do Monte,Madeira,Portugal,32.667,-16.9,Atlantic
+Mityana,Mubende,Uganda,0.418,32.023,Africa
+Tagbilaran,Tagbilaran,Philippines,9.648,123.856,Asia
+Siauliai,Siauliu Apskritis,Lithuania,55.933,23.317,Europe
+Aquin,Sud,Haiti,18.283,-73.4,America
+Salto,Salto,Uruguay,-31.383,-57.967,America
+Seguela,Worodougou,Cote d'Ivoire,7.961,-6.673,Africa
+Mandih,Zamboanga del Norte,Philippines,8.209,123.014,Asia
+Kilinochchi,Northern Province,Sri Lanka,9.396,80.398,Asia
+Buzau,Buzau,Romania,45.15,26.833,Europe
+Francistown,North-East,Botswana,-21.167,27.517,Africa
+Hounslow,Hounslow Greater London,United Kingdom,51.467,-0.353,Europe
+Sarh,Moyen-Chari,Chad,9.15,18.383,Africa
+Элиста,Kalmyk,Russia,46.308,44.256,Europe
+Santa Rosa,La Pampa,Argentina,-36.617,-64.283,America
+Northolt,Ealing Greater London,United Kingdom,51.548,-0.365,Europe
+Hinche,Centre,Haiti,19.15,-72.017,America
+Walvis Bay,Erongo,Namibia,-22.958,14.505,Africa
+Olomouc,Olomoucky kraj,Czech Republic,49.583,17.25,Europe
+Djounie,Mont-Liban,Lebanon,33.981,35.618,Asia
+Nakhon Si Thammarat,Nakhon Si Thammarat,Thailand,8.433,99.967,Asia
+Sabratah,An Nuqat al Khams,Libya,32.792,12.485,Africa
+Worcester,Worcestershire,United Kingdom,52.198,-2.214,Europe
+Kasama,Southern,Zambia,-10.2,31.2,Africa
+Klagenfurt,Karnten,Austria,46.625,14.305,Europe
+Hikkaduwa,Southern,Sri Lanka,6.141,80.101,Asia
+Chaguanas,Caroni,Trinidad and Tobago,10.517,-61.417,America
+Zomba,Zomba,Malawi,-15.383,35.333,Africa
+Aboisso,Sud-Comoe,Cote d'Ivoire,5.468,-3.214,Africa
+Saravan,Houaphan,Lao People's Democratic Republic,15.717,106.417,Asia
+Lae,Morobe,Papua New Guinea,-6.733,147.0,Pacific
+Cavite,Cavite City,Philippines,14.483,120.917,Asia
+Gangtok,Sikkim,India,27.333,88.617,Asia
+Sekhreza,Bamian,Afghanistan,34.8292,67.8347,Asia
+Riyaq,Beqaa,Lebanon,33.85,36.0,Asia
+Mumias,Western,Kenya,0.336,34.489,Africa
+Koupela,Kouritenga,Burkina Faso,12.179,-0.352,Africa
+Solola,Solola,Guatemala,14.767,-91.183,America
+Sundsvall,Vasternorrlands Lan,Sweden,62.383,17.3,Europe
+Sayaxche,Peten,Guatemala,16.517,-90.167,America
+Jinotega,Jinotega,Nicaragua,13.1,-86.0,America
+Bislig,Surigao del Sur,Philippines,8.215,126.316,Asia
+Viseu,Viseu,Portugal,40.65,-7.917,Europe
+Blida,Blida,Algeria,36.469,2.829,Africa
+Bismarck,North Dakota,United States of America,46.808,-100.783,America
+Lira,Lira,Uganda,2.235,32.91,Africa
+Kohima,Nagaland,India,25.667,94.117,Asia
+Aranyaprathet,Sa Kaeo,Thailand,13.683,102.5,Asia
+Pakiad,Iloilo,Philippines,10.7,122.467,Asia
+Sopron,Gyor-Moson-Sopron,Hungary,47.683,16.6,Europe
+Kadirli,Osmaniye,Turkey,37.374,36.096,Europe
+Ancona,Marche,Italy,43.633,13.5,Europe
+Rio Grande,Tierra del Fuego,Argentina,-53.7833,-67.7,America
+Montego Bay,Saint James,Jamaica,18.467,-77.917,America
+Bobon,Northern Samar,Philippines,12.527,124.564,Asia
+Tartu,Tartumaa,Estonia,58.366,26.736,Europe
+Ceske Budejovice,Jihocesky kraj,Czech Republic,48.983,14.467,Europe
+Pernik,Pernik,Bulgaria,42.6,23.033,Europe
+Kimberley,Northern Cape,South Africa,-28.733,24.767,Africa
+Tumbes,Tumbes,Peru,-3.567,-80.441,America
+Paletwa,Chin State,Myanmar,21.3,92.85,Asia
+Arauca,Arauca,Colombia,7.09,-70.762,America
+Radis,Tunis,Tunisia,36.768,10.275,Africa
+Peje,Komuna e PejÃ«s,Kosovo,42.659,20.288,Europe
+Osijek,Osjecko-Baranjska,Croatia,45.551,18.694,Europe
+Maribor,Brezovica,Slovenia,46.555,15.647,Europe
+Mbale,Mbale,Uganda,1.064,34.179,Africa
+Szekesfehervar,Fejer,Hungary,47.2,18.417,Europe
+Muzaffarabad,Azad Kashmir,Pakistan,34.37,73.471,Asia
+Rio Gallegos,Santa Cruz,Argentina,-51.633,-69.217,America
+Burdur,Burdur,Turkey,37.72,30.291,Europe
+Labuan,Labuan,Malaysia,5.277,115.242,Asia
+Nakhchyvan,Naxcivan,Azerbaijan,39.2089,45.4122,Asia
+Lindi,Lindi,Tanzania,-10.0,39.717,Africa
+Moca,Espaillat,Dominican Republic,19.417,-70.567,America
+Gjakove,Komuna e GjakovÃ«s,Kosovo,42.38,20.431,Europe
+Goa,Goa,India,15.4,73.8,Asia
+Umeå,Vasterbottens Lan,Sweden,63.833,20.25,Europe
+Haskovo,Khaskovo,Bulgaria,41.94,25.569,Europe
+Bath,Somerset,United Kingdom,51.379,-2.368,Europe
+Hradec Kralove,Kralovehradecky kraj,Czech Republic,50.212,15.844,Europe
+Fujairah,Fujairah,United Arab Emirates,25.123,56.338,Asia
+Ramnicu Valcea,Valcea,Romania,45.1,24.367,Europe
+Darlington,County Durham,United Kingdom,54.525,-1.561,Europe
+Wukari,Gombe,Nigeria,7.85,9.783,Africa
+Wimbledon,Merton Greater London,United Kingdom,51.429,-0.211,Europe
+Yozgat,Yozgat,Turkey,39.82,34.804,Europe
+Tamanrasset,Tamanghasset,Algeria,22.785,5.523,Africa
+Pardubice,Pardubicky kraj,Czech Republic,50.028,15.776,Europe
+Гатчина,Leningrad,Russia,59.567,30.133,Europe
+Ouidah,Atlanyique,Benin,6.367,2.083,Africa
+Niono,Koulikoro,Mali,14.25,-6.0,Africa
+Satu Mare,Satu Mare,Romania,47.8,22.883,Europe
+Yao,Batha,Chad,12.8525,17.5564,Africa
+Azua,Azua,Dominican Republic,18.45,-70.733,America
+Usti,Ustecky kraj,Czech Republic,50.667,14.033,Europe
+Vanadzor,Lorri,Armenia,40.813,44.488,Asia
+Larnaca,Larnaca,Cyprus,34.917,33.629,Asia
+Sidcup,Bexley Greater London,United Kingdom,51.433,0.106,Europe
+Masvingo,Matabeleland South,Zimbabwe,-20.083,30.833,Africa
+Gjilan,Komuna e Gjilanit,Kosovo,42.461,21.47,Europe
+Botosani,Botosani,Romania,47.75,26.667,Europe
+Darnah,Darnah,Libya,32.765,22.639,Africa
+Poitiers,Poitou-Charentes,France,46.583,0.333,Europe
+Tartouss,Tartus,Syria,34.883,35.883,Asia
+Lere,Mayo-Kebbi,Chad,9.6544,14.2303,Africa
+Магадан,Magadan,Russia,59.567,150.8,Asia
+Bulwang,Aklan,Philippines,11.722,122.361,Asia
+Jalal-Abad,Jalal-Abad,Kyrghyzstan,40.9333,73.0,Asia
+Yarqa,Al Balqa',Jordan,31.979,35.693,Asia
+Viana Do Castelo,Viana do Castelo,Portugal,41.7,-8.833,Europe
+Danli,El Paraiso,Honduras,14.033,-86.583,America
+Podujeva,Podujevo,Kosovo,42.911,21.193,Europe
+Bertoua,Est,Cameroon,4.583,13.683,Africa
+Suva,Central,Fiji Islands,-18.133,178.417,Pacific
+Bajah,Bajah,Tunisia,36.733,9.183,Africa
+Panevezys,Panevezio Apskritis,Lithuania,55.733,24.35,Europe
+Wakiso,Wakiso,Uganda,0.404,32.459,Africa
+Ibarra,Southern Leyte,Philippines,10.125,124.884,Asia
+Bin Qirdan,Madanin,Tunisia,33.133,11.217,Africa
+Qaracala,Salyan,Azerbaijan,39.808,48.934,Asia
+Dobric,Dobrich,Bulgaria,43.567,27.833,Europe
+Hounde,Tuy,Burkina Faso,11.5,-3.517,Africa
+Usulutan,Usulutan,El Salvador,13.35,-88.45,America
+Comendador,Elias Pina,Dominican Republic,18.878,-71.703,America
+Nuneaton,Warwickshire,United Kingdom,52.52,-1.464,Europe
+Gävle,Gavleborgs Lan,Sweden,60.667,17.167,Europe
+Tucupita,Delta Amacuro,Venezuela,9.069,-62.049,America
+Klupci,Serbia (general),Serbia,44.539,19.246,Europe
+Kalpitiya,North Western,Sri Lanka,8.2372,79.7628,Asia
+Odienne,Denguele,Cote d'Ivoire,9.51,-7.569,Africa
+Puerto Cabezas,Autonoma Atlantico Norte,Nicaragua,14.033,-83.383,America
+Karakol,Ysyk-Kol,Kyrghyzstan,42.483,78.4,Asia
+El Bayadh,El Bayadh,Algeria,33.686,1.014,Africa
+Xuddur,Bakool,Somalia,4.117,43.9,Africa
+Bataraza,Palawan,Philippines,8.662,117.622,Asia
+Mitrovice,Komuna e MitrovicÃ«s,Kosovo,42.883,20.867,Europe
+Tagaytay,Tagaytay,Philippines,14.103,120.933,Asia
+Dapitan,Dapitan,Philippines,8.656,123.423,Asia
+Puerto Maldonado,Madre de Dios,Peru,-12.6,-69.183,America
+Derry,Derry,United Kingdom,54.998,-7.309,Europe
+Cibitoke,Cibitoke,Burundi,-2.886,29.124,Africa
+Atakpame,Plateaux,Togo,7.533,1.133,Africa
+Presov,Presov,Slovakia,49.0,21.25,Europe
+Yuksekova,Hakkari,Turkey,37.571,44.278,Europe
+Affreville,Ain Defla,Algeria,36.2622,2.2181,Africa
+Rafha,Al Hudud ash Shamaliyah,Saudi Arabia,29.6386,43.5014,Asia
+Honiara,Makira,Solomon Islands,-9.433,159.95,Pacific
+Mucurapo,Saint Andrew,Trinidad and Tobago,10.667,-61.533,America
+Jambol,Yambol,Bulgaria,42.483,26.5,Europe
+Loubomo,Niari,Congo,-4.2,12.674,Africa
+Barahona,Barahona,Dominican Republic,18.2,-71.1,America
+Galway,Galway,Ireland,53.272,-9.049,Europe
+Reine,HaZafon,Israel,32.724,35.313,Asia
+Resita,Caras-Severin,Romania,45.301,21.889,Europe
+Kompong Trach,Kampot,Cambodia,10.5667,104.4667,Asia
+San Fernando,San Fernando,Trinidad and Tobago,10.283,-61.467,America
+Mazatenango,Suchitepequez,Guatemala,14.533,-91.5,America
+David,Chiriqui,Panama,8.433,-82.433,America
+Al Hay,Wasit,Iraq,32.1769,46.0447,Asia
+Louga,Louga,Senegal,15.617,-16.217,Africa
+Vicente Guerrero,Tlaxcala,Mexico,19.125,-98.162,America
+Zilina,Zilina,Slovakia,49.217,18.733,Europe
+Izalco,Sonsonate,El Salvador,13.745,-89.673,America
+Nakhon Sawan,Nakhon Sawan,Thailand,15.683,100.117,Asia
+Ubay,Bohol,Philippines,10.056,124.474,Asia
+Cheyenne,Wyoming,United States of America,41.14,-104.82,America
+Shumen,Shumen,Bulgaria,43.277,26.929,Europe
+La Union,Agusan del Norte,Philippines,9.086,125.536,Asia
+Tagoloan,Misamis Oriental,Philippines,8.539,124.757,Asia
+Takestan,Qazvin,Iran,36.07,49.696,Asia
+Karabulak,Almaty,Kazakhstan,44.909,78.492,Asia
+Andahuaylas,Apurimac,Peru,-13.661,-73.387,America
+Puerto Ayacucho,Amazonas,Venezuela,5.664,-67.624,America
+Drobeta-Turnu Severin,Mehedinti,Romania,44.632,22.656,Europe
+Ban Chang,Rayong,Thailand,12.717,101.067,Asia
+Piatra Neamt,Neamt,Romania,46.917,26.333,Europe
+Bi'r Al Gafayiah,Ma'rib,Yemen,14.8833,46.0333,Asia
+Ban Rangsit,Pathum Thani,Thailand,13.983,100.617,Asia
+Phuket,Phuket,Thailand,7.883,98.4,Asia
+Tatvan,Bitlis,Turkey,38.507,42.282,Europe
+Ikom,Ebonyi,Nigeria,5.967,8.7,Africa
+Bistrita,Bistrita-Nasaud,Romania,47.133,24.483,Europe
+Tambacounda,Tambacounda,Senegal,13.783,-13.667,Africa
+Elbasan,Elbasan,Albania,41.113,20.082,Europe
+Curepipe,Plaines Wilhems,Mauritius,-20.315,57.52,Indian
+Brixton,Lambeth Greater London,United Kingdom,51.463,-0.108,Europe
+Aveiro,Aveiro,Portugal,40.633,-8.65,Europe
+Kajok,Bahr al Ghazal,Sudan,8.3167,28.0,Africa
+Faranah,Faranah,Guinea,10.033,-10.733,Africa
+Colon,Colon,Panama,9.359,-79.901,America
+Pakxe,Champasak,Lao People's Democratic Republic,15.117,105.783,Asia
+Daugavpils,Daugavpils,Latvia,55.883,26.533,Europe
+Nitra,Nitra,Slovakia,48.317,18.083,Europe
+Lipljan,Lipjan,Kosovo,42.522,21.126,Europe
+Blagoevgrad,Blagoevgrad,Bulgaria,42.017,23.1,Europe
+Latacunga,Cotopaxi,Ecuador,-0.933,-78.617,America
+Paisley,Renfrewshire,United Kingdom,55.841,-4.421,Europe
+Guildford,Surrey,United Kingdom,51.236,-0.576,Europe
+Nagua,Maria Trinidad Sanchez,Dominican Republic,19.383,-69.833,America
+Berberati,Mambere-Kadei,Central African Republic,4.267,15.783,Africa
+Ebolowa,Sud,Cameroon,2.9,11.15,Africa
+Mao,Valverde,Dominican Republic,19.567,-71.083,America
+Sirte,Surt,Libya,31.206,16.595,Africa
+Cotui,Sanchez Ramirez,Dominican Republic,19.05,-70.15,America
+Calatagan,Catanduanes,Philippines,13.591,124.206,Asia
+Abeche,Ouaddai,Chad,13.817,20.817,Africa
+Paysandu,Paysandu,Uruguay,-32.321,-58.076,America
+Banska Bystrica,Banska Bystrica,Slovakia,48.733,19.15,Europe
+Shkoder,Shkoder,Albania,42.068,19.513,Europe
+Sakhon Nakhon,Sakon Nakhon,Thailand,17.167,104.15,Asia
+Ban Samaboury,Xaignabouri,Lao People's Democratic Republic,19.25,101.75,Asia
+Aine Temouchent,Ain Temouchent,Algeria,35.295,-1.1375,Africa
+Carlisle,Cumbria,United Kingdom,54.891,-2.945,Europe
+Ajaccio,Corse,France,41.917,8.733,Europe
+Moussoro,Kanem,Chad,13.643,16.489,Africa
+Tissemsilt,Tissemsilt,Algeria,35.608,1.811,Africa
+East Kilbride,South Lanarkshire,United Kingdom,55.765,-4.177,Europe
+Teyateyaneng,Berea,Lesotho,-29.15,27.733,Africa
+Zacatecoluca,La Paz,El Salvador,13.5,-88.867,America
+Darhan,Darhan-Uul,Mongolia,49.4867,105.9228,Asia
+Urton Kuytun,Selenge,Mongolia,49.6167,106.35,Asia
+Bilecik,Bilecik,Turkey,40.146,29.98,Europe
+Kpagouda,Kara,Togo,9.753,1.328,Africa
+Zlin,Zlinsky kraj,Czech Republic,49.217,17.667,Europe
+Pazardzhik,Pazardzhik,Bulgaria,42.2,24.333,Europe
+Rykhtychi,L'vivs'ka Oblast',Ukraine,49.383,23.55,Europe
+Биробиджан,Yevrey,Russia,48.8,132.95,Asia
+Targu Jiu,Gorj,Romania,45.05,23.283,Europe
+Lanipao,Lanao del Norte,Philippines,7.955,123.777,Asia
+Fada-Ngourma,Gourma,Burkina Faso,12.0622,0.3578,Africa
+Sharm El-Sheikh,Janub Sina',Egypt,27.864,34.288,Africa
+Tocoa,Colon,Honduras,15.683,-86.0,America
+Oroquieta,Oroquieta,Philippines,8.486,123.805,Asia
+Lalawigan,Eastern Samar,Philippines,11.589,125.47,Asia
+San Andres,San Andres y Providencia,Colombia,12.585,-81.701,America
+Sao Tome,Sao Tome,Sao Tome and Principe,0.333,6.733,Africa
+Nkayi,Bouenza,Congo,-4.166,13.293,Africa
+Tarinkot,Oruzgan,Afghanistan,32.6286,65.8775,Asia
+Salama,Baja Verapaz,Guatemala,15.1,-90.267,America
+Lisburn,Lisburn,United Kingdom,54.523,-6.035,Europe
+Halmstad,Hallands Lan,Sweden,56.671,12.856,Europe
+Erd,Pest,Hungary,47.367,18.933,Europe
+Nadi,Western,Fiji Islands,-17.8,177.4167,Pacific
+Kumanovo,Kumanovo,Macedonia,42.132,21.714,Europe
+Zadar,Zagrebacka,Croatia,44.12,15.242,Europe
+Gardez,Paktia,Afghanistan,33.599,69.225,Asia
+Pafos,Paphos,Cyprus,34.767,32.417,Asia
+Loule,Faro,Portugal,37.133,-8.033,Europe
+Mindelo,SÃ£o Vicente,Cape Verde,16.89,-24.98,Atlantic
+Tatawin,Tataouine,Tunisia,32.933,10.45,Africa
+Eastvale,California,United States Of America,33.964,-117.564,America
+Nakhon Phanom,Nakhon Phanom,Thailand,17.4,104.783,Asia
+Castries,Castries,Saint Lucia,14.0,-61.0,America
+Barran,Sanaag,Somalia,10.7167,48.35,Africa
+Entebbe,Kalangala,Uganda,0.064,32.447,Africa
+Eskilstuna,Sodermanlands Lan,Sweden,59.367,16.5,Europe
+Chiang Rai,Chiang Rai,Thailand,19.9,99.833,Asia
+Moquegua,Moquegua,Peru,-17.196,-70.935,America
+Altamura,Basilicata,Italy,40.817,16.55,Europe
+Vushtrri,Vushtrri,Kosovo,42.823,20.968,Europe
+Encarnacion,Itapua,Paraguay,-27.333,-55.9,America
+Ziguinchor,Ziguinchor,Senegal,12.583,-16.272,Africa
+Pontypridd,Rhondda Cynon Taf,United Kingdom,51.597,-3.337,Europe
+Bitola,Bitola,Macedonia,41.031,21.34,Europe
+Kladno,Stredocesky kraj,Czech Republic,50.15,14.1,Europe
+Mila,Mila,Algeria,36.45,6.264,Africa
+San Jose Del Guaviare,Guaviare,Colombia,2.568,-72.642,America
+Ponta Delgada,Azores,Portugal,37.733,-25.667,Atlantic
+Ubon Ratchathani,Ubon Ratchathani,Thailand,15.233,104.863,Asia
+Tangub,Tangub,Philippines,8.062,123.748,Asia
+Nukha,Saki,Azerbaijan,41.1919,47.1706,Asia
+Adrar,Adrar,Algeria,27.9,-0.283,Africa
+Swedru,Western,Ghana,5.533,-0.7,Africa
+Kamuli,Kamuli,Uganda,0.947,33.12,Africa
+Busilac,Nueva Vizcaya,Philippines,16.483,121.122,Asia
+Apac,Apac,Uganda,1.976,32.539,Africa
+Molepolole,Kweneng,Botswana,-24.417,25.533,Africa
+Ayolas,Misiones,Paraguay,-27.4,-56.9,America
+Babati,Manyara,Tanzania,-4.217,35.75,Africa
+Targoviste,Dambovita,Romania,44.933,25.45,Europe
+Debelec,Lovech,Bulgaria,43.033,25.617,Europe
+Nueva Guinea,Region Autonoma Atlantico Sur,Nicaragua,11.683,-84.45,America
+El Seibo,El Seibo,Dominican Republic,18.767,-69.033,America
+Kissidougou,Kissidougou,Guinea,9.183,-10.1,Africa
+Bolgatanga,Upper East,Ghana,10.786,-0.851,Africa
+Liepaja,Liepaja,Latvia,56.517,21.017,Europe
+Karlskrona,Blekinge Lan,Sweden,56.167,15.583,Europe
+La Carlota,La Carlota,Philippines,10.423,122.921,Asia
+Focsani,Vrancea,Romania,45.7,27.183,Europe
+Nalut,Ghadamis,Libya,31.868,10.983,Africa
+Szolnok,Jasz-Nagykun-Szolnok,Hungary,47.183,20.2,Europe
+Zacapa,Zacapa,Guatemala,14.967,-89.533,America
+Vaxjo,Kronobergs Lan,Sweden,56.883,14.817,Europe
+Sandefjord,Vestfold,Norway,59.133,10.233,Europe
+Manubah,Siliana,Tunisia,36.808,10.101,Africa
+Hua Hin,Prachuap Khiri Khan,Thailand,12.567,99.967,Asia
+Tatabanya,Komarom-Esztergom,Hungary,47.567,18.417,Europe
+Kavala,East Macedonia and Thrace,Greece,40.94,24.407,Europe
+Karlstad,Varmlands Lan,Sweden,59.367,13.5,Europe
+Colindale,Brent Greater London,United Kingdom,51.591,-0.248,Europe
+Tudor Vladimirescu,Tulcea,Romania,45.183,28.8,Europe
+Arima,Arima,Trinidad and Tobago,10.633,-61.283,America
+Rovaniemi,Lapland,Finland,66.5,25.717,Europe
+Curuguaty,Canindeyu,Paraguay,-24.517,-55.7,America
+Hadjout,Tipaza,Algeria,36.514,2.418,Africa
+San Jose,Antique,Philippines,10.752,121.941,Asia
+Popondetta,Northern,Papua New Guinea,-8.767,148.233,Pacific
+Busia,Busia,Uganda,0.454,34.076,Africa
+Ioannina,Epirus,Greece,39.665,20.852,Europe
+Chiquimulilla,Santa Rosa,Guatemala,14.086,-90.377,America
+Isser,Boumerdes,Algeria,36.717,3.667,Africa
+Es Suweidiya,As Suwayda',Syria,32.7,36.5667,Asia
+Faizabad,Badakhshan,Afghanistan,37.1175,70.5797,Asia
+Rivera,Rivera,Uruguay,-30.9,-55.517,America
+Sokhumi,Abkhazia,Georgia,43.003,41.015,Asia
+Limba,Alba,Romania,46.033,23.6,Europe
+Shehr Qaleh,Badghis,Afghanistan,34.9867,63.1292,Asia
+Kristiansand,Vest-Agder,Norway,58.167,8.0,Europe
+Trnava,Trnava,Slovakia,48.367,17.6,Europe
+Nawa,Dar,Syria,32.883,36.05,Asia
+Dedougou,Mouhoun,Burkina Faso,12.467,-3.467,Africa
+Slevik,Ostfold,Norway,59.2,10.833,Europe
+Binzou,Pool,Congo,-1.1411,15.9583,Africa
+Upminster,Havering Greater London,United Kingdom,51.565,0.257,Europe
+Slatina,Olt,Romania,44.433,24.367,Europe
+Prilep,Prilep,Macedonia,41.346,21.554,Europe
+Горно-Алтайск,Gorno-Altay,Russia,51.956,85.955,Asia
+Anuradhapura,North Central,Sri Lanka,8.312,80.413,Asia
+Tetovo,Tetovo,Macedonia,42.011,20.971,Europe
+Puerto Asis,Putumayo,Colombia,0.516,-76.495,America
+Vaslui,Vaslui,Romania,46.633,27.733,Europe
+Beledweyne,Hiiraan,Somalia,4.75,45.2,Africa
+Limerick,Limerick,Ireland,52.665,-8.623,Europe
+Zouerate,Tiris Zemmour,Mauritania,22.7,-12.4833,Africa
+Kolda,Kolda,Senegal,12.883,-14.95,Africa
+Santarem,Santarem,Portugal,39.233,-8.683,Europe
+Arua,Arua,Uganda,3.019,30.931,Africa
+Al Khawr,Al Khawr,Qatar,25.684,51.506,Asia
+Praia,Praia,Cape Verde,14.932,-23.513,Atlantic
+Karonga,Karonga,Malawi,-9.933,33.933,Africa
+Wrexham,Wrexham,United Kingdom,53.048,-2.993,Europe
+May Pen,Clarendon,Jamaica,17.967,-77.233,America
+Hato Mayor Del Rey,Hato Mayor,Dominican Republic,18.767,-69.25,America
+San Martin,Cuscatlan,El Salvador,13.783,-88.917,America
+Djibo,Soum,Burkina Faso,14.102,-1.631,Africa
+Patpata,Ilocos Sur,Philippines,17.183,120.433,Asia
+Coihaique,Aisen del General Carlos Ibanez del Campo,Chile,-45.567,-72.067,America
+Bocaranga,Ouham-Pende,Central African Republic,6.983,15.65,Africa
+Santa Rosa De Copan,Copan,Honduras,14.767,-88.783,America
+Newtownards,Ards,United Kingdom,54.592,-5.691,Europe
+Soroti,Soroti,Uganda,1.686,33.616,Africa
+Chachoengsao,Chachoengsao,Thailand,13.7,101.083,Asia
+Kaeng Khoi,Saraburi,Thailand,14.583,101.017,Asia
+Fort Portal,Kabarole,Uganda,0.694,30.266,Africa
+Mbabane,Hhohho,Swaziland,-26.317,31.133,Africa
+Oyem,Woleu-Ntem,Gabon,1.617,11.583,Africa
+Yala,Yala,Thailand,6.543,101.284,Asia
+Samut Sakhon,Samut Sakhon,Thailand,13.533,100.283,Asia
+Horqueta,Concepcion,Paraguay,-23.343,-57.06,America
+Kracheh,Kracheh,Cambodia,12.483,106.017,Asia
+Trang,Trang,Thailand,7.55,99.6,Asia
+Suva Reka,Komuna e ThÃ«randÃ«s,Kosovo,42.359,20.825,Europe
+Betou,Likouala,Congo,3.055,18.5172,Africa
+Itanagar,Arunachal Pradesh,India,27.1,93.617,Asia
+Chalkida,Central Greece,Greece,38.464,23.599,Europe
+Umm Al Qawain,Umm Al Quwain,United Arab Emirates,25.565,55.553,Asia
+Antigua Guatemala,Sacatepequez,Guatemala,14.561,-90.734,America
+Cerro De Pasco,Pasco,Peru,-10.683,-76.267,America
+Merthyr Tydfil,Merthyr Tydfil,United Kingdom,51.749,-3.37,Europe
+Kaposvar,Somogy,Hungary,46.367,17.8,Europe
+Canlaon,Canlaon,Philippines,10.386,123.196,Asia
+Dosso,Dosso,Niger,13.044,3.195,Africa
+Kasungu,Kasungu,Malawi,-13.033,33.483,Africa
+Tenkodogo,Boulgou,Burkina Faso,11.78,-0.37,Africa
+Glogovac,Komuna e Drenasit,Kosovo,42.628,20.894,Europe
+Chaiyaphum,Chaiyaphum,Thailand,15.8,102.033,Asia
+Pousat,Pursat,Cambodia,12.533,103.917,Asia
+Calarasi,Calarasi,Romania,44.2,27.333,Europe
+Samana,Samana,Dominican Republic,19.217,-69.317,America
+Lampang,Lampang,Thailand,18.298,99.507,Asia
+Dapaong,Savanes,Togo,10.864,0.205,Africa
+Tooting,Wandsworth Greater London,United Kingdom,51.428,-0.167,Europe
+Lop Buri,Lop Buri,Thailand,14.8,100.617,Asia
+Szentlorinc,Baranya,Hungary,46.05,17.983,Europe
+Ranong,Ranong,Thailand,9.967,98.633,Asia
+Leixlip,Kildare,Ireland,53.366,-6.496,Europe
+Diriamba,Carazo,Nicaragua,11.85,-86.233,America
+Ejmiatsin,Armavir,Armenia,40.173,44.293,Asia
+Wiwili,Nueva Segovia,Nicaragua,13.617,-85.833,America
+Sinop,Sinop,Turkey,42.027,35.158,Europe
+Nacaome,Valle,Honduras,13.536,-87.488,America
+Laylay,Marinduque,Philippines,13.437,121.822,Asia
+Loznitsa,Razgrad,Bulgaria,43.367,26.6,Europe
+Villa Hayes,Presidente Hayes,Paraguay,-25.1,-57.567,America
+Sanapiqui,Heredia,Costa Rica,10.4833,-84.0167,America
+Maun,North-West,Botswana,-19.983,23.417,Africa
+Mafeteng,Mafeteng,Lesotho,-29.817,27.25,Africa
+Rodos,South Aegean,Greece,36.441,28.223,Europe
+Caacupe,Cordillera,Paraguay,-25.383,-57.15,America
+Villarrica,Guaira,Paraguay,-25.75,-56.433,America
+Orahovac,Orahovac,Kosovo,42.399,20.655,Europe
+Castelo Branco,Castelo Branco,Portugal,39.817,-7.5,Europe
+Cabarroguis,Quirino,Philippines,16.583,121.5,Asia
+Mendi,Southern Highlands,Papua New Guinea,-6.15,143.65,Pacific
+Veszprem,Veszprem,Hungary,47.1,17.917,Europe
+Intibuca,Intibuca,Honduras,14.317,-88.167,America
+Fier,Fier,Albania,40.724,19.556,Europe
+Nueva Loja,Sucumbios,Ecuador,0.085,-76.883,America
+Sankt Polten,Niederosterreich,Austria,48.2,15.633,Europe
+San Agustin Acasaguastlan,El Progreso,Guatemala,14.95,-89.967,America
+Quiling,Ilocos Norte,Philippines,18.068,120.544,Asia
+Vraca,Vratsa,Bulgaria,43.21,23.563,Europe
+Los Botados,Monte Plata,Dominican Republic,18.733,-70.0,America
+Zalaegerszeg,Zala,Hungary,46.84,16.844,Europe
+Santa Cruz,Guanacaste,Costa Rica,10.267,-85.583,America
+Tacuarembo,Tacuarembo,Uruguay,-31.733,-55.983,America
+Trencin,Trencin,Slovakia,48.9,18.033,Europe
+Jelgava,Jelgavas,Latvia,56.65,23.713,Europe
+Nibbar,El Kef,Tunisia,36.291,8.757,Africa
+Terneuzen,Zeeland,Netherlands,51.336,3.828,Europe
+Giurgiu,Giurgiu,Romania,43.883,25.967,Europe
+Bekescsaba,Bekes,Hungary,46.683,21.1,Europe
+Tapaz,Capiz,Philippines,11.265,122.533,Asia
+Jihlava,Vysocina,Czech Republic,49.4,15.583,Europe
+Haggah,Abyan,Yemen,15.695,43.5975,Asia
+Iganga,Iganga,Uganda,0.609,33.469,Africa
+Juigalpa,Chontales,Nicaragua,12.083,-85.4,America
+Luang Prabang,Louangphrabang,Lao People's Democratic Republic,19.886,102.135,Asia
+Kongoussi,Bam,Burkina Faso,13.326,-1.535,Africa
+Narva,Ida-Virumaa,Estonia,59.377,28.19,Europe
+Evora,Evora,Portugal,38.567,-7.9,Europe
+Port Of Spain,Port-of-Spain,Trinidad and Tobago,10.65,-61.517,America
+Tokmak,Chuy,Kyrghyzstan,42.841,75.288,Asia
+San Vicente,San Vicente,El Salvador,13.633,-88.8,America
+Kabale,Bushenyi,Uganda,-1.326,30.004,Africa
+Motherwell,North Lanarkshire,United Kingdom,55.786,-3.987,Europe
+Deva,Hunedoara,Romania,45.883,22.9,Europe
+Hereford,Herefordshire,United Kingdom,52.061,-2.709,Europe
+Dunfermline,Fife,United Kingdom,56.072,-3.439,Europe
+San Estanislao,San Pedro,Paraguay,-24.65,-56.433,America
+Roskilde,Sjelland,Denmark,55.65,12.083,Europe
+Coronel Oviedo,Caaguazu,Paraguay,-25.417,-56.45,America
+Charlottetown,Prince Edward Island,Canada,46.233,-63.133,America
+Zalau,Salaj,Romania,47.2,23.05,Europe
+Aine Sefra,Naama,Algeria,32.75,-0.5833,Africa
+Hrazdan,Kotayk',Armenia,40.502,44.755,Asia
+Pula,Istarska,Croatia,44.868,13.848,Europe
+Myklebost,More og Romsdal,Norway,62.5,6.3,Europe
+Takeo,Takeo,Cambodia,10.983,104.783,Asia
+Saada,Sa,Yemen,16.9358,43.7644,Asia
+Alytus,Alytaus Apskritis,Lithuania,54.4,24.05,Europe
+Vila Real,Vila Real,Portugal,41.3,-7.75,Europe
+Momcilgrad,Kurdzhali,Bulgaria,41.533,25.417,Europe
+Melo,Cerro Largo,Uruguay,-32.367,-54.183,America
+Aguadulce,Cocle,Panama,8.25,-80.55,America
+Barry Island,The Vale of Glamorgan,United Kingdom,51.391,-3.273,Europe
+Mangochi,Mangochi,Malawi,-14.467,35.267,Africa
+Gabrovo,Gabrovo,Bulgaria,42.875,25.334,Europe
+Haftoni,Lankaran,Azerbaijan,38.764,48.765,Asia
+Puerto Francisco De Orellana,Orellana,Ecuador,-0.467,-76.967,America
+Tamalous,Skikda,Algeria,36.836,6.641,Africa
+Korce,Korce,Albania,40.619,20.781,Europe
+Asya-Ye Bad,Sar-e Pol,Afghanistan,36.2003,65.9389,Asia
+Srbica,Komuna e Skenderajt,Kosovo,42.747,20.789,Europe
+Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,14.35,100.55,Asia
+Livingston,West Lothian,United Kingdom,55.901,-3.497,Europe
+Port Talbot,Neath Port Talbot,United Kingdom,51.591,-3.799,Europe
+Skien,Telemark,Norway,59.2,9.6,Europe
+Bindura,Mashonaland Central,Zimbabwe,-17.296,31.33,Africa
+Bangued,Abra,Philippines,17.598,120.616,Asia
+Kompong Speu,Kampong Speu,Cambodia,11.45,104.5333,Asia
+Ma`An,Ma,Jordan,30.2,35.7333,Asia
+Deressia,Tandjile,Chad,9.7569,16.2683,Africa
+Chilieni,Covasna,Romania,45.833,25.8,Europe
+Wajj,Tabuk,Saudi Arabia,26.2333,36.4667,Asia
+Al-Kharga,Al Wadi al Jadid,Egypt,25.4333,30.55,Africa
+Chake Chake,Pemba South,Tanzania,-5.25,39.767,Africa
+Susa,Susa,Azerbaijan,39.756,46.751,Asia
+Boaco,Boaco,Nicaragua,12.467,-85.667,America
+Ostersund,Jamtlands Lan,Sweden,63.183,14.65,Europe
+Luleå,Norrbottens Lan,Sweden,65.583,22.15,Europe
+Huancavelica,Huancavelica,Peru,-12.767,-74.983,America
+Mpigi,Mpigi,Uganda,0.225,32.314,Africa
+Eger,Heves,Hungary,47.9,20.383,Europe
+Gao,Gao,Mali,16.267,-0.05,Africa
+Bridgend,Bridgend,United Kingdom,51.513,-3.579,Europe
+Karlovac,Karlovacka,Croatia,45.487,15.548,Europe
+Karlovy Vary,Karlovarsky kraj,Czech Republic,50.217,12.9,Europe
+Odiongan,Romblon,Philippines,12.402,121.992,Asia
+Kalat-I-Ghilzai,Zabol,Afghanistan,32.1067,66.9106,Asia
+Kaedi,Gorgol,Mauritania,16.15,-13.5,Africa
+Luwero,Luwero,Uganda,0.849,32.473,Africa
+Malabang,Lanao del Sur,Philippines,7.59,124.07,Asia
+Port Vila,Efate,Vanuatu,-17.733,168.317,Pacific
+Kangar,Perlis,Malaysia,6.433,100.2,Asia
+Waterford,Waterford,Ireland,52.258,-7.112,Europe
+Mandeville,Manchester,Jamaica,18.033,-77.5,America
+Buchanan,Grand Bassa,Liberia,5.881,-10.047,Africa
+Tuba,Baguio,Philippines,16.39,120.561,Asia
+Faya,Borkou-Ennedi-Tibesti,Chad,17.917,19.117,Africa
+Kanye,Southern,Botswana,-24.983,25.35,Africa
+Gracias,Lempira,Honduras,14.583,-88.583,America
+Yumbe,Yumbe,Uganda,3.446,31.27,Africa
+Jundubah,Jendouba,Tunisia,36.501,8.779,Africa
+Puerto Lempira,Gracias a Dios,Honduras,15.267,-83.767,America
+Serowe,Central,Botswana,-22.383,26.717,Africa
+Perth,Perth and Kinross,United Kingdom,56.395,-3.435,Europe
+Inverness,Highland,United Kingdom,57.48,-4.228,Europe
+Stefanestii De Jos,Ilfov,Romania,44.533,26.2,Europe
+Campobasso,Molise,Italy,41.567,14.65,Europe
+Vitina,Komuna e VitisÃ«,Kosovo,42.321,21.358,Europe
+Yarim,Al Mahwit,Yemen,14.297,44.38,Asia
+Ayr,South Ayrshire,United Kingdom,55.468,-4.62,Europe
+Stepnogorsk,Aqmola,Kazakhstan,52.354,71.887,Asia
+Lucaya,Freeport,Bahamas,26.533,-78.667,America
+Dori,Seno,Burkina Faso,14.033,-0.033,Africa
+Kilmarnock,East Ayrshire,United Kingdom,55.606,-4.502,Europe
+Vidin,Vidin,Bulgaria,43.99,22.873,Europe
+Farim,Oio,Guinea-Bissau,12.484,-15.222,Africa
+Cobija,Pando,Bolivia,-11.033,-68.733,America
+Nong Khai,Nong Khai,Thailand,17.876,102.744,Asia
+Rwamagana,Kibungo,Rwanda,-1.953,30.438,Africa
+Santiago,Veraguas,Panama,8.1,-80.983,America
+Samba Diallo,Fatick,Senegal,14.133,-16.733,Africa
+Arendal,Aust-Agder,Norway,58.46,8.767,Europe
+Tindouf,Tindouf,Algeria,27.674,-8.148,Africa
+Nueva Gerona,Isla de la Juventud,Cuba,21.883,-82.8,America
+Brach,Ash Shati',Libya,27.5333,14.2833,Africa
+Palayan,Palayan,Philippines,15.541,121.086,Asia
+Gaoua,Poni,Burkina Faso,10.299,-3.251,Africa
+Garango,Noumbiel,Burkina Faso,11.8,-0.551,Africa
+New Malden,Kingston upon Thames Greater London,United Kingdom,51.403,-0.255,Europe
+Maria Aurora,Aurora,Philippines,15.796,121.477,Asia
+Port Loko,Northern,Sierra Leone,8.767,-12.783,Africa
+Borlange,Dalarnas Lan,Sweden,60.483,15.417,Europe
+Kitgum,Kitgum,Uganda,3.278,32.887,Africa
+Gori,Goris Raioni,Georgia,41.974,44.111,Asia
+Kisoro,Kisoro,Uganda,-1.354,29.698,Africa
+Pattani,Pattani,Thailand,6.889,101.274,Asia
+Mochudi,Kgatleng,Botswana,-24.417,26.15,Africa
+Ruyigi,Ruyigi,Burundi,-3.476,30.249,Africa
+La Paz,La Paz,Honduras,14.317,-87.683,America
+Varazdin,Varazdinska,Croatia,46.304,16.338,Europe
+Gabu,Gabu,Guinea-Bissau,12.283,-14.217,Africa
+Kjustendil,Kyustendil,Bulgaria,42.284,22.691,Europe
+Kapan,Syunik',Armenia,39.201,46.415,Asia
+Cumaribo,Vichada,Colombia,4.444,-69.8,America
+Macenta,Macenta,Guinea,8.546,-9.469,Africa
+Agdzhabedi,Agcabadi,Azerbaijan,40.0528,47.4614,Asia
+Badulla,Uva,Sri Lanka,6.99,81.056,Asia
+Quinhameli,Biombo,Guinea-Bissau,11.8833,-15.85,Africa
+Kalmar,Kalmar Lan,Sweden,56.667,16.367,Europe
+Sibenik,Sibensko-Kninska,Croatia,43.727,15.906,Europe
+Guarda,Guarda,Portugal,40.533,-7.267,Europe
+Pallisa,Pallisa,Uganda,1.145,33.709,Africa
+Ciba,Harghita,Romania,46.35,25.8,Europe
+Stip,Stip,Macedonia,41.746,22.196,Europe
+Greenock,Inverclyde,United Kingdom,55.951,-4.764,Europe
+Mercedes,Soriano,Uruguay,-33.256,-58.019,America
+Tororo,Tororo,Uganda,0.685,34.181,Africa
+Damnoen Saduak,Ratchaburi,Thailand,13.517,99.933,Asia
+Hodmezovasarhely,Csongrad,Hungary,46.417,20.333,Europe
+Santa Barbara,Santa Barbara,Honduras,14.917,-88.233,America
+Bodø,Nordland,Norway,67.283,14.383,Europe
+Kampong Chhnang,Kampong Chhnang,Cambodia,12.25,104.667,Asia
+Dubrovnik,Dubrovacko-Neretvanska,Croatia,42.651,18.091,Europe
+Slobozia,Ialomita,Romania,44.567,27.367,Europe
+Puntarenas,Puntarenas,Costa Rica,9.967,-84.833,America
+Ureki,Onis Raioni,Georgia,41.989,41.763,Asia
+Zugdidi,Zestap'onis Raioni,Georgia,42.501,41.861,Asia
+Svay Rieng,Svay Rieng,Cambodia,11.083,105.8,Asia
+Nebbi,Nebbi,Uganda,2.476,31.103,Africa
+Tawzar,Tozeur,Tunisia,33.921,8.133,Africa
+Bambari,Ouaka,Central African Republic,5.762,20.667,Africa
+Guacimo,Limon,Costa Rica,10.217,-83.683,America
+Sensuntepeque,Cabanas,El Salvador,13.867,-88.633,America
+Yirion,Ionian Islands,Greece,37.799,20.736,Europe
+Gompa City,Nimba,Liberia,7.2364,-8.9817,Africa
+Mambajao,Camiguin,Philippines,9.25,124.716,Asia
+Sevilla De Niefang,Kie-Ntem,Equatorial Guinea,1.85,10.25,Africa
+Rivas,Rivas,Nicaragua,11.433,-85.833,America
+Drogheda,Louth,Ireland,53.719,-6.348,Europe
+Famagusta,Famagusta,Cyprus,35.125,33.95,Asia
+Veles,Veles,Macedonia,41.716,21.776,Europe
+Artigas,Artigas,Uruguay,-30.4,-56.467,America
+Annino,Samkir,Azerbaijan,40.8297,46.0189,Asia
+Bugat,Bayan-Olgiy,Mongolia,48.95,89.9833,Asia
+Narathiwat,Narathiwat,Thailand,6.424,101.824,Asia
+Alexandria,Teleorman,Romania,43.983,25.333,Europe
+Talas,Talas,Kyrghyzstan,42.522,72.242,Asia
+Parnu,Parnumaa,Estonia,58.375,24.514,Europe
+Maha Sarakham,Maha Sarakham,Thailand,16.183,103.3,Asia
+Gourcy,Zondoma,Burkina Faso,13.217,-2.35,Africa
+Sisak,Sisacko-Moslavacka,Croatia,45.466,16.378,Europe
+Si Sa Ket,Sisaket,Thailand,15.117,104.333,Asia
+Montana,Montana,Bulgaria,43.413,23.225,Europe
+Kosovo Polje,Kosovo Polje,Kosovo,42.664,21.096,Europe
+Xacmaz,Xacmaz,Azerbaijan,41.471,48.81,Asia
+Ngozi,Ngozi,Burundi,-2.908,29.828,Africa
+Plaridel,Misamis Occidental,Philippines,8.621,123.71,Asia
+Blyth,Northumberland,United Kingdom,55.127,-1.523,Europe
+Oshakati,Oshana,Namibia,-17.783,15.683,Africa
+Shamakhy,Samaxi,Azerbaijan,40.6303,48.6414,Asia
+La Troncal,Canar,Ecuador,-2.4,-79.333,America
+Salcedo,Salcedo,Dominican Republic,19.383,-70.417,America
+Istok,Komuna e Istogut,Kosovo,42.781,20.488,Europe
+Tyuratam,Bayqonyr,Kazakhstan,45.6667,63.3333,Asia
+Toumodi,Lacs,Cote d'Ivoire,6.55,-5.017,Africa
+Tromsø,Troms,Norway,69.667,18.967,Europe
+Ohrid,Ohrid,Macedonia,41.117,20.802,Europe
+Lambarene,Moyen-Ogooue,Gabon,-0.7,10.217,Africa
+Yako,Passore,Burkina Faso,12.967,-2.267,Africa
+Dabola,Dabola,Guinea,10.75,-11.117,Africa
+Phatthalung,Phatthalung,Thailand,7.617,100.083,Asia
+Hlotse,Leribe,Lesotho,-28.883,28.05,Africa
+Irivanly,Barda,Azerbaijan,40.4242,47.1242,Asia
+Belize,Belize,Belize,17.483,-88.183,America
+Klina,Komuna e Klines,Kosovo,42.622,20.578,Europe
+Minas,Lavalleja,Uruguay,-34.37,-55.225,America
+Am Timan,Salamat,Chad,11.033,20.283,Africa
+Delta Del Tigre,San Jose,Uruguay,-34.763,-56.385,America
+Kerulen,Dornod,Mongolia,48.0667,114.5,Asia
+Quba,Quba,Azerbaijan,41.36,48.513,Asia
+Lamut,Ifugao,Philippines,16.65,121.225,Asia
+Farabolo,Kerouane,Guinea,11.1167,-8.9167,Africa
+Kalamata,Peloponnese,Greece,37.039,22.114,Europe
+Stirling,Stirling,United Kingdom,56.119,-3.94,Europe
+San Carlos,Rio San Juan,Nicaragua,11.117,-84.783,America
+La Union,La Union,El Salvador,13.337,-87.844,America
+Trou Du Nord,Nord-Est,Haiti,19.633,-72.017,America
+Bagua Grande,Amazonas,Peru,-5.756,-78.441,America
+Xanlar,Xanlar,Azerbaijan,40.587,46.316,Asia
+Rwamawha,Kamwenge,Uganda,-0.7786,29.9244,Africa
+Adjumani,Adjumani,Uganda,3.361,31.81,Africa
+Dinagat,Surigao del Norte,Philippines,9.956,125.593,Asia
+Marijampole,Marijampoles Apskritis,Lithuania,54.567,23.35,Europe
+Salima,Salima,Malawi,-13.783,34.433,Africa
+Manga,Zoundweogo,Burkina Faso,11.664,-1.073,Africa
+Neiba,Baoruco,Dominican Republic,18.467,-71.417,America
+Berat,Berat,Albania,40.706,19.952,Europe
+Bossangoa,Ouham,Central African Republic,6.483,17.45,Africa
+Arawa,North Solomons,Papua New Guinea,-6.217,155.55,Pacific
+Liwonde,Balaka,Malawi,-15.067,35.217,Africa
+Bjelovar,Bjelovarsko-Bilogorska,Croatia,45.899,16.849,Europe
+Prey Veng,Prey Veng,Cambodia,11.483,105.317,Asia
+Goycay,Goycay,Azerbaijan,40.653,47.741,Asia
+Kamenica,Kamenica,Kosovo,42.578,21.58,Europe
+Mouila,Ngounie,Gabon,-1.867,11.017,Africa
+Farafenni,Lower River,Gambia,13.567,-15.6,Africa
+Bugiri,Bugiri,Uganda,0.5714,33.7417,Africa
+Boyarka,Taymyr,Russia,70.7667,97.5,Asia
+Rumonge,Bururi,Burundi,-3.972,29.439,Africa
+Villa Elisa,Monte Cristi,Dominican Republic,19.683,-71.267,America
+Beja,Beja,Portugal,38.017,-7.867,Europe
+Falkirk,Falkirk,United Kingdom,56.004,-3.79,Europe
+Ban Dan Lan Hoi,Sukhothai,Thailand,17.015,99.708,Asia
+Cha-Am,Phetchaburi,Thailand,12.8,99.967,Asia
+Aybak,Samangan,Afghanistan,36.265,68.017,Asia
+Moelv,Hedmark,Norway,60.933,10.7,Europe
+Zorgo,Ganzourgou,Burkina Faso,12.249,-0.616,Africa
+Samokov,Sofiya,Bulgaria,42.333,23.55,Europe
+Braganca,Braganca,Portugal,41.817,-6.75,Europe
+Timbuktu,Tombouctou,Mali,16.767,-3.017,Africa
+Bria,Haute-Kotto,Central African Republic,6.533,21.983,Africa
+Tunceli,Tunceli,Turkey,39.109,39.546,Europe
+Qazax,Qazax,Azerbaijan,41.093,45.366,Asia
+Maydanshakhr,Vardak,Afghanistan,34.392,68.864,Asia
+Dikil,Dikhil,Djibouti,11.1086,42.3739,Africa
+Awbari,Awbari,Libya,26.583,12.767,Africa
+Tsumeb,Oshikoto,Namibia,-19.233,17.717,Africa
+Dragash,Komuna e Dragashit,Kosovo,42.027,20.653,Europe
+Naryn,Naryn,Kyrghyzstan,41.43,76.0,Asia
+San Ignacio De Sabaneta,Santiago Rodriguez,Dominican Republic,19.467,-71.333,America
+Smoljan,Smolyan,Bulgaria,41.585,24.692,Europe
+Kalasin,Kalasin,Thailand,16.433,103.5,Asia
+Santa Bernardina,Durazno,Uruguay,-33.367,-56.483,America
+Roi Et,Roi Et,Thailand,16.05,103.667,Asia
+Duz,Kebili,Tunisia,33.458,9.022,Africa
+Tovarnik,Vukovarsko-Srijemska,Croatia,45.165,19.152,Europe
+Kozani,West Macedonia,Greece,40.301,21.789,Europe
+Gbarnga,Bong,Liberia,6.996,-9.472,Africa
+Kakata,Margibi,Liberia,6.53,-10.352,Africa
+Reo,Sanguie,Burkina Faso,12.317,-2.467,Africa
+Navan,Meath,Ireland,53.653,-6.681,Europe
+Strumica,Strumica,Macedonia,41.438,22.643,Europe
+Somoto,Madriz,Nicaragua,13.483,-86.583,America
+Saint George's,Saint George,Grenada,12.05,-61.75,America
+Leo,Sissili,Burkina Faso,11.1,-2.1,Africa
+Irvine,North Ayrshire,United Kingdom,55.62,-4.662,Europe
+Florida,Florida,Uruguay,-34.096,-56.214,America
+Chumphon,Chumphon,Thailand,10.5,99.167,Asia
+Khemarak Phoumin,Koh Kong,Cambodia,11.6175,102.9806,Asia
+Iriba,Biltine,Chad,15.117,22.25,Africa
+Leticia,Amazonas,Colombia,-4.215,-69.941,America
+Silistra,Silistra,Bulgaria,44.117,27.267,Europe
+Orodara,Kenedougou,Burkina Faso,10.949,-4.934,Africa
+Kacanik,Komuna e KaÃ§anikut,Kosovo,42.232,21.259,Europe
+Uttaradit,Uttaradit,Thailand,17.631,100.101,Asia
+Puyo,Pastaza,Ecuador,-1.467,-77.983,America
+Ziniare,Oubritenga,Burkina Faso,12.582,-1.298,Africa
+Mazeikiai,Telsiu Apskritis,Lithuania,56.317,22.333,Europe
+Girne,Kyrenia,Cyprus,35.342,33.317,Asia
+Cusapin,Bocas del Toro,Panama,9.1833,-81.9,America
+Aosta,Valle d'Aosta,Italy,45.733,7.333,Europe
+Dehloran,Ilam,Iran,32.694,47.268,Asia
+Carapegua,Paraguari,Paraguay,-25.8,-57.233,America
+Gostivar,Gostivar,Macedonia,41.797,20.908,Europe
+Pilar,Neembucu,Paraguay,-26.867,-58.383,America
+Kornisi,K'arelis Raioni,Georgia,42.271,43.818,Asia
+Krabi,Krabi,Thailand,8.067,98.917,Asia
+Ventspils,Ventspils,Latvia,57.389,21.561,Europe
+Nouna,Kossi,Burkina Faso,12.733,-3.867,Africa
+Dumfries,Dumfries and Galloway,United Kingdom,55.072,-3.607,Europe
+Sibiti,Lekoumou,Congo,-3.686,13.346,Africa
+Chalatenango,Chalatenango,El Salvador,14.033,-88.933,America
+Tadian,Mountain,Philippines,16.994,120.821,Asia
+Kampong Thum,Kampong Thum,Cambodia,12.7,104.9,Asia
+Bangassou,Mbomou,Central African Republic,4.733,22.817,Africa
+Kyotera,Rakai,Uganda,-0.616,31.518,Africa
+Imisli,Imisli,Azerbaijan,39.87,48.06,Asia
+Zaqatala,Zaqatala,Azerbaijan,41.634,46.643,Asia
+Bitou,Bale,Burkina Faso,11.2581,-0.3061,Africa
+Diffa,Diffa,Niger,13.316,12.609,Africa
+Dedza,Dedza,Malawi,-14.367,34.333,Africa
+Salgotarjan,Nograd,Hungary,48.117,19.817,Europe
+Leh,Ladakh,India,34.167,77.583,Asia
+Sabirabad,Sabirabad,Azerbaijan,40.013,48.479,Asia
+Guaranda,Bolivar,Ecuador,-1.6,-79.0,America
+Ozd,Borsod-Abauj-Zemplen,Hungary,48.217,20.3,Europe
+Khorog,Kuhistoni Badakhshon,Tajikistan,37.4917,71.5558,Asia
+Boung Long,Ratanakiri Kiri,Cambodia,13.7333,106.9833,Asia
+Telimele,Telimele,Guinea,10.9,-13.033,Africa
+Kibiti,Pwani,Tanzania,-7.733,38.95,Africa
+Pedernales,Pedernales,Dominican Republic,18.033,-71.75,America
+Tchibanga,Nyanga,Gabon,-2.85,11.033,Africa
+Tarrafal,Tarrafal,Cape Verde,15.276,-23.754,Atlantic
+Moutsamoudou,Anjouan,Comoros,-12.163,44.396,Indian
+Arbay Heere,Ovorhangay,Mongolia,46.25,102.7667,Asia
+Kayunga,Kayunga,Uganda,0.703,32.889,Africa
+Mount Hagen,Western Highlands,Papua New Guinea,-5.867,144.217,Pacific
+Tena,Napo,Ecuador,-0.983,-77.817,America
+Szekszard,Tolna,Hungary,46.35,18.717,Europe
+Stung Treng,Stung Treng,Cambodia,13.517,105.967,Asia
+Agdas,Agdas,Azerbaijan,40.65,47.476,Asia
+Point Fortin,Saint Patrick,Trinidad and Tobago,10.183,-61.683,America
+Bafata,Bafata,Guinea-Bissau,12.167,-14.667,Africa
+Ljaskovec,Veliko Turnovo,Bulgaria,43.111,25.728,Europe
+Kyegegwa,Kyenjojo,Uganda,0.5022,31.0414,Africa
+Madang,Madang,Papua New Guinea,-5.217,145.8,Pacific
+Hajduboszormeny,Hajdu-Bihar,Hungary,47.667,21.517,Europe
+Cottica,Sipaliwini,Suriname,3.85,-54.2333,America
+Nola,Sangha-Mbaere,Central African Republic,3.533,16.067,Africa
+Yomou,Yomou,Guinea,7.56,-9.265,Africa
+Blackwood,Caerphilly,United Kingdom,51.67,-3.194,Europe
+Siquijor,Siquijor,Philippines,9.216,123.514,Asia
+Rehoboth,Hardap,Namibia,-23.317,17.083,Africa
+Kamphaeng Phet,Kamphaeng Phet,Thailand,16.467,99.5,Asia
+Ballymena,Ballymena,United Kingdom,54.864,-6.276,Europe
+Katima Mulilo,Caprivi,Namibia,-17.5,24.267,Africa
+Linden,Upper Demerara-Berbice,Guyana,6.0,-58.3,America
+Кудымкар,Komi-Permyak,Russia,59.013,54.656,Asia
+Kombissiri,Bazega,Burkina Faso,12.066,-1.338,Africa
+Koprivnica,Koprivnicko-Krizevacka,Croatia,46.163,16.828,Europe
+Mitu,Vaupes,Colombia,1.198,-70.173,America
+Nkhotakota,Nkhotakota,Malawi,-12.917,34.3,Africa
+Princes Town,Victoria,Trinidad and Tobago,10.267,-61.383,America
+Kocani,Kocani,Macedonia,41.916,22.413,Europe
+Whitehorse,Yukon Territory,Canada,60.717,-135.05,America
+Ouesso,Sangha,Congo,1.614,16.052,Africa
+Carrickfergus,Carrickfergus,United Kingdom,54.716,-5.806,Europe
+Bearsden,East Dunbartonshire,United Kingdom,55.923,-4.378,Europe
+Po,Naouri,Burkina Faso,11.17,-1.145,Africa
+Dajabon,Dajabon,Dominican Republic,19.55,-71.7,America
+Mchinji,Mchinji,Malawi,-13.717,32.9,Africa
+Naseula,Northern,Fiji Islands,-16.4333,179.3667,Pacific
+Newry,Newry and Mourne,United Kingdom,54.178,-6.337,Europe
+Karuzi,Karuzi,Burundi,-3.101,30.165,Africa
+Mongo,Guera,Chad,12.183,18.7,Africa
+Batken,Batken,Kyrghyzstan,40.05,70.833,Asia
+Lelydorp,Wanica,Suriname,5.7,-55.233,America
+Phuntsholing,Chhukha,Bhutan,26.85,89.383,Asia
+Nuku'alofa,Tongatapu,Tonga,-21.133,-175.2,Pacific
+Waddan,Al Jufrah,Libya,29.167,16.133,Africa
+Mugan,Haciqabul,Azerbaijan,40.099,48.819,Asia
+Kup,Mus,Turkey,39.0833,42.25,Europe
+Mote,Al Karak,Jordan,31.0925,35.6944,Asia
+Shtime,Komuna e Shtimes,Kosovo,42.433,21.04,Europe
+Kimbe,West New Britain,Papua New Guinea,-5.55,150.15,Pacific
+Cakovec,Medimurska,Croatia,46.384,16.434,Europe
+Chios,North Aegean,Greece,38.368,26.136,Europe
+Nsanje,Nsanje,Malawi,-16.917,35.267,Africa
+Grootfontein,Otjozondjupa,Namibia,-19.567,18.117,Africa
+Tunapuna,Saint George,Trinidad and Tobago,10.633,-61.383,America
+Turrialba,Cartago,Costa Rica,9.9,-83.683,America
+Suphan Buri,Suphan Buri,Thailand,14.467,100.117,Asia
+Giffnock,East Renfrewshire,United Kingdom,55.798,-4.291,Europe
+Voinjama,Lofa,Liberia,8.422,-9.748,Africa
+Ban Bang Pla Au,Kanchanaburi,Thailand,15.1333,98.4667,Asia
+Wete,Pemba North,Tanzania,-5.067,39.717,Africa
+Selibaby,Guidimaka,Mauritania,15.1667,-12.1833,Africa
+Tougan,Sourou,Burkina Faso,13.067,-3.067,Africa
+Sapouy,Ziro,Burkina Faso,11.554,-1.774,Africa
+Clydebank,West Dunbartonshire,United Kingdom,55.904,-4.409,Europe
+Ulaangom,Uvs,Mongolia,49.967,92.033,Asia
+Visby,Gotlands Lan,Sweden,57.633,18.3,Europe
+Bayanhongor,Bayanhongor,Mongolia,46.183,100.633,Asia
+Colonia,Colonia,Uruguay,-34.467,-57.85,America
+San Ignacio,Cayo,Belize,17.156,-89.071,America
+Rezekne,Rezekne,Latvia,56.5,27.317,Europe
+Amnat Charoen,Amnat Charoen,Thailand,15.85,104.633,Asia
+Mzimba,Mzimba,Malawi,-11.9,33.6,Africa
+Tralee,Kerry,Ireland,52.267,-9.717,Europe
+Gamboma,Plateaux,Congo,-1.876,15.864,Africa
+Jirgalantu,Hovd,Mongolia,48.0167,91.6333,Asia
+Dano,Ioba,Burkina Faso,11.15,-3.067,Africa
+Astrahanka,Calilabad,Azerbaijan,39.2089,48.4972,Asia
+Artvin,Artvin,Turkey,41.182,41.819,Europe
+Diebougou,Bougouriba,Burkina Faso,10.967,-3.25,Africa
+Koulamoutou,Ogooue-Lolo,Gabon,-1.133,12.483,Africa
+Doba,Logone Oriental,Chad,8.65,16.85,Africa
+Samut Songkhram,Samut Songkhram,Thailand,13.4,100.0,Asia
+Utena,Utenos Apskritis,Lithuania,55.5,25.6,Europe
+Tougue,Tougue,Guinea,11.45,-11.683,Africa
+Treinta Y Tres,Treinta y Tres,Uruguay,-33.233,-54.383,America
+Rocha,Rocha,Uruguay,-34.483,-54.333,America
+Llanelli,Carmarthenshire,United Kingdom,51.683,-4.164,Europe
+Prachin Buri,Prachin Buri,Thailand,14.05,101.37,Asia
+Rhyl,Denbighshire,United Kingdom,53.321,-3.48,Europe
+Wewak,East Sepik,Papua New Guinea,-3.55,143.633,Pacific
+Bousse,Kourweogo,Burkina Faso,12.6606,-1.8922,Africa
+Muang Vangviang,Savannakhet,Lao People's Democratic Republic,18.9333,102.45,Asia
+Mohale's Hoek,Mohales Hoek,Lesotho,-30.15,27.4667,Africa
+Portalegre,Portalegre,Portugal,39.283,-7.433,Europe
+Solenzo,Banwa,Burkina Faso,12.183,-4.083,Africa
+Naryan-Mar,Nenets,Russia,67.648,53.047,Europe
+Owando,Cuvette,Congo,-0.487,15.908,Africa
+Victoria,Beau Vallon,Seychelles Islands,-4.617,55.45,Indian
+Kaba,Nana-Grebizi,Central African Republic,7.0,19.1833,Africa
+Khashuri,Khashuris Raioni,Georgia,41.991,43.59,Asia
+Mponela,Ntchisi,Malawi,-13.517,33.717,Africa
+Stjørdalshalsen,Nord-Trondelag,Norway,63.467,10.933,Europe
+Fray Bentos,Rio Negro,Uruguay,-33.133,-58.296,America
+Kimpong Pranak,Preah Vihear,Cambodia,13.8167,104.9667,Asia
+Albina,Marowijne,Suriname,5.5,-54.05,America
+Carlow,Carlow,Ireland,52.841,-6.926,Europe
+Ennis,Clare,Ireland,52.844,-8.986,Europe
+San Juan Nepomuceno,Caazapa,Paraguay,-26.1,-55.967,America
+Kingstown,Saint George,Saint Vincent and the Grenadines,13.133,-61.217,America
+Boulsa,Namentenga,Burkina Faso,12.668,-0.576,Africa
+Aioun El Atrouss,Hodh El Gharbi,Mauritania,16.6667,-9.6167,Africa
+Ryde,Isle of Wight,United Kingdom,50.729,-1.158,Europe
+Atar,Adrar,Mauritania,20.517,-13.05,Africa
+Antigua Ocotepeque,Ocotepeque,Honduras,14.4,-89.2,America
+Northwood,Hillingdon Greater London,United Kingdom,51.612,-0.42,Europe
+Arbroath,Angus,United Kingdom,56.564,-2.579,Europe
+Zwedru,Grand Gedeh,Liberia,6.067,-8.128,Africa
+Phetchabun,Phetchabun,Thailand,16.417,101.133,Asia
+De Aar,North-Western Province,South Africa,-30.65,24.017,Africa
+Fria,Fria,Guinea,10.45,-13.533,Africa
+Vrpolje,Brodsko-Posavska,Croatia,45.211,18.406,Europe
+Busayra,At Tafilah,Jordan,30.733,35.6,Asia
+Mountmellick,Laois,Ireland,53.114,-7.32,Europe
+Dank,Az Zahirah,Oman,23.5508,56.2575,Asia
+El Azizia,Al Aziziyah,Libya,32.5319,13.0175,Africa
+Buriram,Buriram,Thailand,15.0,103.117,Asia
+Sevan,Geghark'unik',Armenia,40.555,44.954,Asia
+Chanthaburi,Chanthaburi,Thailand,12.6,102.15,Asia
+Elgin,Moray,United Kingdom,57.646,-3.317,Europe
+Ardahan,Ardahan,Turkey,41.112,42.702,Europe
+Baraki Barak,Lowgar,Afghanistan,33.968,68.949,Asia
+Kotido,Kotido,Uganda,2.981,34.133,Africa
+Athlone,Westmeath,Ireland,53.423,-7.937,Europe
+Kagadi,Kibale,Uganda,0.961,30.797,Africa
+Ogre,Ogres,Latvia,56.817,24.6,Europe
+Dagotiere,Moka,Mauritius,-20.244,57.554,Indian
+Zaghouane,Zaghouan,Tunisia,36.4,10.15,Africa
+Anthem,Arizona,United States Of America,33.867,-112.147,America
+Andorra La Vella,Andorra la Vella,Andorra,42.5,1.517,Europe
+Savanna-La-Mar,Westmoreland,Jamaica,18.217,-78.133,America
+Letterkenny,Donegal,Ireland,54.95,-7.733,Europe
+Moyo,Moyo,Uganda,3.628,31.754,Africa
+Sibut,Kemo,Central African Republic,5.733,19.083,Africa
+Kiboga,Kiboga,Uganda,0.916,31.774,Africa
+Macas,Morona-Santiago,Ecuador,-2.317,-78.117,America
+Valmiera,Valmieras,Latvia,57.55,25.4,Europe
+Rumphi,Rumphi,Malawi,-11.017,33.867,Africa
+Bundibugyo,Bundibugyo,Uganda,0.741,30.042,Africa
+Pozega,Pozesko-Slavonska,Croatia,45.34,17.685,Europe
+Sao Filipe,SÃ£o Filipe,Cape Verde,14.896,-24.496,Atlantic
+Ash Shabbah,Al Mahdia,Tunisia,35.2372,11.115,Africa
+Saint John's,Saint John,Antigua and Barbuda,17.117,-61.85,America
+Samtredia,Sagarejos Raioni,Georgia,42.154,42.335,Asia
+Kilkenny,Kilkenny,Ireland,52.654,-7.252,Europe
+Mbaiki,Lobaye,Central African Republic,3.883,18.0,Africa
+Newquay,Cornwall,United Kingdom,50.413,-5.077,Europe
+Greystones,Wicklow,Ireland,53.141,-6.063,Europe
+Jibholantu,Dzavhan,Mongolia,47.75,96.8167,Asia
+Ceyranbatan,Abseron,Azerbaijan,40.541,49.66,Asia
+Nema,Hodh Ech Chargui,Mauritania,16.6167,-7.25,Africa
+Silvassa,Dadra and Nagar Haveli,India,20.267,73.017,Asia
+Kayanza,Kayanza,Burundi,-2.922,29.622,Africa
+Zabere,Leraba,Burkina Faso,11.1825,-0.6322,Africa
+Cap Estate,Gros-Islet,Saint Lucia,14.083,-60.95,America
+Tsetserleg,Arhangay,Mongolia,47.5,101.45,Asia
+Ashtarak,Aragatsotn,Armenia,40.302,44.359,Asia
+Senaki,Samtrediis Raioni,Georgia,42.269,42.079,Asia
+Goroka,Eastern Highlands,Papua New Guinea,-6.083,145.383,Pacific
+Satun,Satun,Thailand,6.617,100.067,Asia
+Bogande,Gnagna,Burkina Faso,12.971,-0.144,Africa
+Trinidad,Flores,Uruguay,-33.533,-56.9,America
+Khemsbok,Ghanzi,Botswana,-21.6833,21.6333,Africa
+Taurage,Taurages Apskritis,Lithuania,55.252,22.29,Europe
+Marmarashen,Ararat,Armenia,40.058,44.471,Asia
+Ntcheu,Ntcheu,Malawi,-14.817,34.633,Africa
+Hayyou,Obock,Djibouti,11.9631,43.2906,Africa
+Plavinas,Aizkraukles,Latvia,56.617,25.717,Europe
+Yasothon,Yasothon,Thailand,15.795,104.149,Asia
+Kagizman,Kars,Turkey,40.1581,43.1353,Europe
+Gotera,Morazan,El Salvador,13.7,-88.1,America
+Loei,Loei,Thailand,17.483,101.717,Asia
+Mandza,Grande Comore,Comoros,-11.418,43.295,Indian
+Targhobeh,Khorasan-e Razavi,Iran,36.3104,59.3735,Asia
+Ondorhaan,Hentiy,Mongolia,47.317,110.65,Asia
+Mulanje,Mulanje,Malawi,-16.033,35.5,Africa
+Musselburgh,East Lothian,United Kingdom,55.95,-3.034,Europe
+Goodlands,Riviere du Rempart,Mauritius,-20.035,57.643,Indian
+Ismailly,Ismayilli,Azerbaijan,40.79,48.1519,Asia
+Makokou,Ogooue-Ivindo,Gabon,0.567,12.867,Africa
+Gjøvik,Oppland,Norway,60.8,10.7,Europe
+Shorapani,Vanis Raioni,Georgia,42.096,43.116,Asia
+Omagh,Omagh,United Kingdom,54.6,-7.3,Europe
+Phichit,Phichit,Thailand,16.433,100.367,Asia
+Bugiri,Rukungiri,Uganda,-0.85,29.667,Africa
+Yellowknife,Northwest Territories,Canada,62.45,-114.35,America
+Inirida,Guainia,Colombia,3.865,-67.924,America
+Kokopo,East New Britain,Papua New Guinea,-4.35,152.267,Pacific
+Agsu,Agsu,Azerbaijan,40.569,48.401,Asia
+Agstafa,Agstafa,Azerbaijan,41.119,45.454,Asia
+Wexford,Wexford,Ireland,52.334,-6.458,Europe
+Pushkino,Bilasuvar,Azerbaijan,39.458,48.545,Asia
+Pita,Pita,Guinea,11.083,-12.4,Africa
+Bubanza,Bubanza,Burundi,-3.083,29.394,Africa
+Nan,Nan,Thailand,18.783,100.783,Asia
+Zemio,Haut-Mbomou,Central African Republic,5.033,25.133,Africa
+Antrim,Antrim,United Kingdom,54.7,-6.2,Europe
+Akureyri,Eyjafjardarsysla,Iceland,65.667,-18.1,Atlantic
+Buyant-Uhaa,Dornogovi,Mongolia,44.8667,110.15,Asia
+Kavieng,New Ireland,Papua New Guinea,-2.567,150.8,Pacific
+Gjirokaster,Gjirokaster,Albania,40.076,20.139,Europe
+Llandudno,Conwy,United Kingdom,53.317,-3.825,Europe
+T'elavi,T'bilisi,Georgia,41.9194,45.4853,Asia
+Butha-Buthe,Butha-Buthe,Lesotho,-28.783,28.233,Africa
+Dalan Dzadagad,Omnogovi,Mongolia,43.5836,104.4403,Asia
+Virovitica,Viroviticko-Podravska,Croatia,45.832,17.384,Europe
+Peterhead,Aberdeenshire,United Kingdom,57.509,-1.776,Europe
+Studenicani,Studenicani,Macedonia,41.916,21.531,Europe
+Ijevan,Tavush,Armenia,40.876,45.149,Asia
+Sligo,Sligo,Ireland,54.267,-8.483,Europe
+Phayao,Phayao,Thailand,19.167,99.917,Asia
+Gobabis,Omaheke,Namibia,-22.45,18.967,Africa
+Sironko,Sironko,Uganda,1.208,34.252,Africa
+Triolet,Pamplemousses,Mauritius,-20.055,57.545,Indian
+Doura,Boffa,Guinea,12.0167,-9.0,Africa
+Kyzyl-Burun,Siyazan,Azerbaijan,41.0761,49.1139,Asia
+Leposaviq,Komuna e Leposaviqit,Kosovo,43.104,20.803,Europe
+Et Tag,Al Kufrah,Libya,24.2167,23.3,Africa
+Ebbw Vale,Blaenau Gwent,United Kingdom,51.778,-3.212,Europe
+Basse,Upper River,Gambia,13.317,-14.217,Africa
+Clonmel,Tipperary,Ireland,52.355,-7.704,Europe
+Nuuk,Vestgronland,Greenland,64.183,-51.75,America
+Fomboni,Moheli,Comoros,-12.28,43.743,Indian
+Luganville,Sanma,Vanuatu,-15.533,167.167,Pacific
+Mwanza,Mwanza,Malawi,-15.617,34.517,Africa
+Porto Novo,Porto Novo,Cape Verde,17.02,-25.065,Atlantic
+Sing Buri,Sing Buri,Thailand,14.883,100.417,Asia
+Harper,Maryland,Liberia,4.375,-7.717,Africa
+Salaspils,Rigas,Latvia,56.861,24.349,Europe
+Dib Dibba,Musandam,Oman,26.198,56.258,Asia
+Chitipa,Chitipa,Malawi,-9.717,33.267,Africa
+Bel Air,Flacq,Mauritius,-20.254,57.745,Indian
+Zamora,Zamora-Chinchipe,Ecuador,-4.069,-78.957,America
+Scarborough,Tobago,Trinidad and Tobago,11.183,-60.733,America
+Bonnyrigg,Midlothian,United Kingdom,55.878,-3.128,Europe
+Viljandi,Viljandimaa,Estonia,58.364,25.59,Europe
+New Amsterdam,East Berbice-Corentyne,Guyana,6.25,-57.517,America
+Illizi,Illizi,Algeria,26.483,8.467,Africa
+Mayuge,Mayuge,Uganda,0.46,33.48,Africa
+Lac,Lezhe,Albania,41.636,19.713,Europe
+Astara,Astara,Azerbaijan,38.456,48.879,Asia
+Keetmanshoop,Karas,Namibia,-26.583,18.133,Africa
+Queensferry,Flintshire,United Kingdom,53.209,-3.027,Europe
+Asadabad,Konar,Afghanistan,34.873,71.146,Asia
+Ocho Rios,Saint Ann,Jamaica,18.417,-77.117,America
+Zvecan,OpÅ¡tina ZveÄan,Kosovo,42.908,20.84,Europe
+Na Liang,Lamphun,Thailand,17.7167,98.9667,Asia
+Micoud,Micoud,Saint Lucia,13.817,-60.9,America
+Qusar,Qusar,Azerbaijan,41.426,48.436,Asia
+Greenville,Sino,Liberia,5.0111,-9.0389,Africa
+Ntungamo,Ntungamo,Uganda,-0.8794,30.2642,Africa
+Tukums,Tukuma,Latvia,56.967,23.155,Europe
+Moroto,Moroto,Uganda,2.496,34.669,Africa
+Dungannon,Dungannon,United Kingdom,54.5034,-6.7672,Europe
+Ucar,Ucar,Azerbaijan,40.518,47.654,Asia
+Alotau,Milne Bay,Papua New Guinea,-10.3,150.417,Pacific
+Toma,Nayala,Burkina Faso,12.7667,-2.8833,Africa
+Tumen Suma,Govi-Altay,Mongolia,46.3333,96.2833,Asia
+Vieux Fort,Vieux-Fort,Saint Lucia,13.717,-60.95,America
+Koani,Zanzibar Central,Tanzania,-6.133,39.283,Africa
+AeâRkivan,Masalli,Azerbaijan,39.0183,48.65,Asia
+Sharan,Paktika,Afghanistan,33.147,68.792,Asia
+Ayene,Wele-Nzas,Equatorial Guinea,1.517,11.05,Africa
+Kukes,Kukes,Albania,42.077,20.422,Europe
+Nakhon Nayok,Nakhon Nayok,Thailand,14.203,101.215,Asia
+Mae Hong Son,Mae Hong Son,Thailand,19.267,97.933,Asia
+Tijikja,Tagant,Mauritania,18.55,-11.4167,Africa
+Aleg,Brakna,Mauritania,17.05,-13.9167,Africa
+Rakvere,Laane-Virumaa,Estonia,59.346,26.356,Europe
+Diapaga,Tapoa,Burkina Faso,12.071,1.789,Africa
+Les Escaldes,Escaldes-Engordany,Andorra,42.5,1.533,Europe
+Uthai Thani,Uthai Thani,Thailand,15.367,100.05,Asia
+Kiordamir,Kurdamir,Azerbaijan,40.3383,48.1608,Asia
+Bambous,Black River,Mauritius,-20.257,57.406,Indian
+Alta,Finnmark,Norway,69.967,23.242,Europe
+Phrae,Phrae,Thailand,18.15,100.133,Asia
+Zubin Potok,Komuna e Zubin Potokut,Kosovo,42.914,20.69,Europe
+Gayeri,Komondjari,Burkina Faso,12.65,0.493,Africa
+Kidal,Kidal,Mali,18.441,1.408,Africa
+Bangor,Gwynedd,United Kingdom,53.221,-4.136,Europe
+Kanungu,Kanungu,Uganda,-0.958,29.79,Africa
+Struga,Struga,Macedonia,41.178,20.676,Europe
+Chekcheran,Ghowr,Afghanistan,34.5225,65.2517,Asia
+Quthing,Quthing,Lesotho,-30.4,27.717,Africa
+Karongo,Pader,Uganda,3.0303,33.3889,Africa
+Popovo,Turgovishte,Bulgaria,43.35,26.233,Europe
+Tadjoura,Tadjoura,Djibouti,11.7853,42.8844,Africa
+Port Antonio,Portland,Jamaica,18.183,-76.467,America
+Portadown,Craigavon,United Kingdom,54.413,-6.447,Europe
+Roseau,Saint George,Dominica,15.3,-61.4,America
+Cesis,Cesu,Latvia,57.3,25.25,Europe
+Dzuunmod,Tov,Mongolia,47.7,106.95,Asia
+Cardross,Argyll and Bute,United Kingdom,55.962,-4.653,Europe
+Tullamore,Offaly,Ireland,53.274,-7.489,Europe
+Debar,Debar,Macedonia,41.525,20.528,Europe
+Essau,North Bank,Gambia,13.484,-16.535,Africa
+Ust-Ordynskiy,Ust-Orda Buryat,Russia,52.8,104.75,Asia
+San Gabriel,Carchi,Ecuador,0.6,-77.817,America
+Eisenstadt,Burgenland,Austria,47.85,16.517,Europe
+Chai Nat,Chai Nat,Thailand,15.183,100.133,Asia
+Radovis,Radovis,Macedonia,41.638,22.465,Europe
+Alloa,Clackmannanshire,United Kingdom,56.112,-3.795,Europe
+Baruun-Urt,Suhbaatar,Mongolia,46.7,113.283,Asia
+Neftcala,Neftcala,Azerbaijan,39.359,49.247,Asia
+Kouroussa,Kouroussa,Guinea,10.65,-9.883,Africa
+Koundara,Koundara,Guinea,12.483,-13.3,Africa
+Kumi,Kumi,Uganda,1.461,33.936,Africa
+Strpce,OpÅ¡tina Å trpce,Kosovo,42.239,21.027,Europe
+Epinup,Federated States of Micronesia,United States of America,7.4333,151.8594,Pacific
+Enniskillen,Fermanagh,United Kingdom,54.3462,-7.6413,Europe
+Orange Walk,Orange Walk,Belize,18.067,-88.55,America
+Hawick,Scottish Borders,United Kingdom,55.431,-2.784,Europe
+Ang Thong,Ang Thong,Thailand,14.583,100.45,Asia
+Pembroke,Pembrokeshire,United Kingdom,51.676,-4.916,Europe
+Ndele,Bamingui-Bangoran,Central African Republic,8.409,20.653,Africa
+Pama,Kompienga,Burkina Faso,11.2497,0.7075,Africa
+Tovuz,Tovuz,Azerbaijan,40.992,45.629,Asia
+Strabane,Strabane,United Kingdom,54.824,-7.469,Europe
+Corozal,Corozal,Belize,18.383,-88.383,America
+Kriva Palanka,Kriva Palanka,Macedonia,42.202,22.332,Europe
+Ouargaye,Koulpelogo,Burkina Faso,11.503,0.057,Africa
+Aconibe,Centro Sur,Equatorial Guinea,1.3,10.933,Africa
+Tarhunah,Tarhunah,Libya,32.433,13.633,Africa
+Qax,Qax,Azerbaijan,41.423,46.924,Asia
+Peshkopi,Diber,Albania,41.685,20.429,Europe
+Basseterre,Saint George Basseterre,Saint Kitts and Nevis,17.3,-62.717,America
+Beyla,Beyla,Guinea,8.683,-8.633,Africa
+Al Jamaliya,Al Jumaliyah,Qatar,25.6094,51.0922,Asia
+Castlebar,Mayo,Ireland,53.85,-9.3,Europe
+Анадырь,Chukot,Russia,64.75,177.483,Asia
+Kuzanly Vtoryye,Agdam,Azerbaijan,40.16,47.1722,Asia
+Kapchorwa,Kapchorwa,Uganda,1.383,34.524,Africa
+Daru,Western,Papua New Guinea,-9.083,143.2,Pacific
+Encamp,Encamp,Andorra,42.533,1.583,Europe
+Nieuw Nickerie,Nickerie,Suriname,5.95,-56.983,America
+Kutkashen,Qabala,Azerbaijan,40.9814,47.8458,Asia
+Tsinsop'eli,Chiat'ura,Georgia,42.2831,43.2897,Asia
+Rose Belle,Grand Port,Mauritius,-20.4,57.597,Indian
+Zlatar,Krapinsko-Zagorska,Croatia,46.094,16.071,Europe
+Kaspi,Kaspis Raioni,Georgia,41.916,44.424,Asia
+Kuressaare,Saaremaa,Estonia,58.248,22.504,Europe
+Puerto Ayora,Galapagos,Ecuador,-0.75,-90.317,Pacific
+Pepal,Cacheu,Guinea-Bissau,11.9333,-16.2,Africa
+Pago Pago,American Samoa,United States of America,-14.2781,-170.7025,Pacific
+TcâRtcâR,Tartar,Azerbaijan,40.345,46.9289,Asia
+Negotino,Negotino,Macedonia,41.484,22.089,Europe
+Fear Not,Pomeroon-Supenaam,Guyana,7.3,-58.4833,America
+Meerzorg,Commewijne,Suriname,5.817,-55.15,America
+Forecariah,Forecariah,Guinea,9.431,-13.088,Africa
+Mandalgovi,Dundgovi,Mongolia,45.75,106.267,Asia
+Opuwo,Kunene,Namibia,-18.067,13.85,Africa
+Bulgan,Bulgan,Mongolia,48.811,103.532,Asia
+Lekino,Beylaqan,Azerbaijan,39.7667,47.6167,Asia
+Kaupanger,Sogn og Fjordane,Norway,61.183,7.233,Europe
+Holyhead,Isle of Anglesey,United Kingdom,53.3103,-4.6357,Europe
+Duverge,Independencia,Dominican Republic,18.367,-71.517,America
+Assomada,Santa Catarina,Cape Verde,15.1,-23.683,Atlantic
+Chawnay,Daykondi,Afghanistan,33.3833,66.2736,Asia
+Voru,Vorumaa,Estonia,57.834,27.019,Europe
+Vanimo,Sandaun,Papua New Guinea,-2.667,141.267,Pacific
+Maarianhamina,Aland,Finland,60.1,19.95,Europe
+Valga,Valgamaa,Estonia,57.774,26.045,Europe
+Cavan,Cavan,Ireland,53.991,-7.361,Europe
+Sveti Nikole,Sveti Nikole,Macedonia,41.865,21.943,Europe
+Nakasongola,Nakasongola,Uganda,1.309,32.456,Africa
+La Massana,La Massana,Andorra,42.55,1.517,Europe
+Kundiawa,Chimbu,Papua New Guinea,-6.017,144.967,Pacific
+Downpatrick,Down,United Kingdom,54.3263,-5.7035,Europe
+Golden Grove,Saint Thomas,Jamaica,17.917,-76.267,America
+Gospic,Licko-Senjska,Croatia,44.546,15.375,Europe
+Агинское,Aginsky Buryatsky AO,Russia,51.1,114.533,Asia
+Kavaratti,Lakshadweep,India,10.567,72.617,Asia
+Treowen,Powys,United Kingdom,52.5142,-3.3056,Europe
+Capitan Bado,Amambay,Paraguay,-23.267,-55.533,America
+Sebba,Yagha,Burkina Faso,13.4392,0.5289,Africa
+Limavady,Limavady,United Kingdom,55.05,-6.951,Europe
+Akjoujt,Inchiri,Mauritania,19.75,-14.3833,Africa
+`Arta,Arta,Djibouti,11.5222,42.8419,Africa
+Borjomi,Borjomis Raioni,Georgia,41.838,43.379,Asia
+Bol,Lac,Chad,13.459,14.715,Africa
+Coleraine,Coleraine,United Kingdom,55.133,-6.667,Europe
+Loikaw,Kayah State,Myanmar,19.683,97.217,Asia
+Oakham,Rutland,United Kingdom,52.677,-0.737,Europe
+Longford,Longford,Ireland,53.733,-7.8,Europe
+Ghaidha,Al Mahrah,Yemen,16.2167,52.1833,Asia
+Serravalle,Serravalle,San Marino,43.95,12.5,Europe
+Probistip,Probistip,Macedonia,42.003,22.179,Europe
+Aberystwyth,Ceredigion,United Kingdom,52.413,-4.082,Europe
+Magherafelt,Magherafelt,United Kingdom,54.754,-6.607,Europe
+Alunitdag,Daskasan,Azerbaijan,40.522,46.081,Asia
+Monmouth,Monmouthshire,United Kingdom,51.8089,-2.7194,Europe
+Souillac,Savanne,Mauritius,-20.517,57.517,Indian
+Sumber,Govisumber,Mongolia,46.35,108.3333,Asia
+Trat,Trat,Thailand,12.233,102.5,Asia
+Hithadhoo,Seenu,Maldives,-0.6,73.083,Indian
+Brikama Nding,Central River,Gambia,13.533,-14.933,Africa
+Qarayeri,Samux,Azerbaijan,40.792,46.321,Asia
+Dangriga,Stann Creek,Belize,16.967,-88.217,America
+Birao,Cuvette-Ouest,Central African Republic,10.283,22.783,Africa
+Vale,Akhalts'ikhis Raioni,Georgia,41.619,42.863,Asia
+Naftalan,Naftalan,Azerbaijan,40.507,46.825,Asia
+Kirundo,Kirundo,Burundi,-2.585,30.097,Africa
+Kuldiga,Kuldigas,Latvia,56.967,21.983,Europe
+Sant Julia De Loria,Sant Julia de Loria,Andorra,42.467,1.5,Europe
+Mashai,Thaba-Tseka,Lesotho,-29.6667,28.7833,Africa
+Geylegphug,Geylegphug,Bhutan,26.85,90.5,Asia
+Selfoss,Arnessysla,Iceland,63.933,-21.0,Atlantic
+Bauska,Bauskas,Latvia,56.408,24.191,Europe
+Gorom-Gorom,Oudalan,Burkina Faso,14.444,-0.236,Africa
+Seforong,Qachas Nek,Lesotho,-30.05,28.2667,Africa
+Delcevo,Delcevo,Macedonia,41.967,22.769,Europe
+Muyinga,Muyinga,Burundi,-2.849,30.336,Africa
+Phangnga,Phangnga,Thailand,8.467,98.533,Asia
+Saldus,Saldus,Latvia,56.667,22.5,Europe
+Pedra Badejo,Santa Cruz,Cape Verde,15.135,-23.532,Atlantic
+Basco,Batanes,Philippines,20.45,121.97,Asia
+Hani I Elezit,Hani i Elezit,Kosovo,42.15,21.297,Europe
+Makamba,Makamba,Burundi,-4.135,29.805,Africa
+Haapsalu,Laanemaa,Estonia,58.943,23.541,Europe
+Samdrup Jongkhar,Samdrup,Bhutan,26.817,91.567,Asia
+Surenavan,Vayots' Dzor,Armenia,39.75,44.8,Asia
+Maui,Hawaii,United States Of America,20.8,-156.3,Pacific
+Las Tablas,Los Santos,Panama,7.767,-80.283,America
+Kedabeko,Gadabay,Azerbaijan,40.5656,45.8161,Asia
+Katakwi,Katakwi,Uganda,1.891,33.966,Africa
+Ewo,Cuvette-Ouest,Congo,-0.873,14.821,Africa
+Wangdiphodrang,Wangdi Phodrang,Bhutan,27.483,89.9,Asia
+Tsabong,Kgalagadi,Botswana,-26.05,22.45,Africa
+Schengen,Grevenmacher,Luxembourg,49.472,6.366,Europe
+Rio Claro,Nariva,Trinidad and Tobago,10.3,-61.183,America
+Goranboy,Goranboy,Azerbaijan,40.61,46.79,Asia
+Mokhotlong,Mokhotlong,Lesotho,-29.283,29.083,Africa
+Talsi,Talsu,Latvia,57.25,22.6,Europe
+Dobele,Dobeles,Latvia,56.625,23.279,Europe
+Vinica,Zrnovci,Macedonia,41.883,22.509,Europe
+Bartica,Cuyuni-Mazaruni,Guyana,6.4,-58.617,America
+Zardob,Zardab,Azerbaijan,40.2183,47.7083,Asia
+Port Maria,Saint Mary,Jamaica,18.367,-76.9,America
+Buba,Quinara,Guinea-Bissau,11.583,-15.0,Africa
+Monaghan,Monaghan,Ireland,54.25,-6.967,Europe
+Chingshuitsun,Fu-chien,Taiwan,26.15,119.9333,Asia
+Sembabule,Sembabule,Uganda,-0.077,31.457,Africa
+Paide,Jarvamaa,Estonia,58.886,25.557,Europe
+Bentiu,Al Wahadah State,Sudan,9.233,29.833,Africa
+Falmouth,Trelawny,Jamaica,18.5,-77.65,America
+Iqaluit,Nunavut,Canada,63.733,-68.5,America
+Luba,Bioko Sur,Equatorial Guinea,3.45,8.55,Africa
+Iardymly,Yardimli,Azerbaijan,38.9206,48.2372,Asia
+Ludza,Ludzas,Latvia,56.55,27.717,Europe
+Senmonorom,Mondulkiri,Cambodia,12.45,107.2,Asia
+Gaoual,Gaoual,Guinea,11.75,-13.2,Africa
+Kirkwall,Orkney Islands,United Kingdom,58.978,-2.95,Europe
+Aracinovo,Aracinovo,Macedonia,42.026,21.562,Europe
+Lerik,Lerik,Azerbaijan,38.775,48.415,Asia
+Kicevo,Kicevo,Macedonia,41.514,20.963,Europe
+Mobaye,Basse-Kotto,Central African Republic,4.317,21.183,Africa
+Dowa,Dowa,Malawi,-13.65,33.933,Africa
+Novo Brdo,Novo Brdo,Kosovo,42.616,21.434,Europe
+Diekirch,Diekirch,Luxembourg,49.868,6.156,Europe
+I-N-Guezzam,Ghardaia,Algeria,19.5603,5.7725,Africa
+Thyolo,Thyolo,Malawi,-16.067,35.133,Africa
+Oguz,Oguz,Azerbaijan,41.0708,47.4583,Asia
+Lerwick,Shetland Islands,United Kingdom,60.155,-1.146,Europe
+San Marino,San Marino,San Marino,43.933,12.45,Europe
+Obiliq,Komuna e Obiliqit,Kosovo,42.687,21.07,Europe
+Kraslava,Kraslavas,Latvia,55.9,27.167,Europe
+Livani,Preilu,Latvia,56.367,26.183,Europe
+Gulbene,Gulbenes,Latvia,57.183,26.75,Europe
+Limbazi,Limbazu,Latvia,57.51,24.714,Europe
+Madona,Madonas,Latvia,56.85,26.217,Europe
+Roscommon,Roscommon,Ireland,53.633,-8.183,Europe
+Kerema,Gulf,Papua New Guinea,-7.967,145.767,Pacific
+Siteki,Lubombo,Swaziland,-26.45,31.95,Africa
+Vila De Sal Rei,Boa Vista,Cape Verde,16.183,-22.917,Atlantic
+Dalaba,Dalaba,Guinea,10.7,-12.25,Africa
+Lorengau,Manus,Papua New Guinea,-2.017,147.267,Pacific
+Punakha,Punakha,Bhutan,27.617,89.867,Asia
+Jakar,Bumthang,Bhutan,27.55,90.733,Asia
+Phalombe,Phalombe,Malawi,-15.8,35.65,Africa
+Kavadarci,Kavadarci,Macedonia,41.433,22.012,Europe
+Kolonia,Pohnpei,Micronesia,6.964,158.208,Pacific
+Aluksne,Aluksnes,Latvia,57.417,27.05,Europe
+Espargos,Sal,Cape Verde,16.755,-22.945,Atlantic
+Junik,Komuna e Junikut,Kosovo,42.476,20.277,Europe
+Hadrut,Xocavand,Azerbaijan,39.517,47.03,Asia
+Dinguiraye,Dinguiraye,Guinea,11.3,-10.717,Africa
+Schaan,Schaan,Liechtenstein,47.167,9.5,Europe
+Lucea,Hanover,Jamaica,18.45,-78.167,America
+Rutana,Rutana,Burundi,-3.919,29.994,Africa
+Berovo,Berovo,Macedonia,41.703,22.858,Europe
+Ranilug,Komuna e Ranillugut,Kosovo,42.492,21.599,Europe
+Canillo,Canillo,Andorra,42.567,1.6,Europe
+Vaduz,Vaduz,Liechtenstein,47.133,9.517,Europe
+Balvi,Balvu,Latvia,57.133,27.25,Europe
+Polva,Polvamaa,Estonia,58.06,27.069,Europe
+Mamusa,Komuna e MamushÃ«s,Kosovo,42.331,20.727,Europe
+Mali,Mali,Guinea,12.083,-12.3,Africa
+Тура,Evenk,Russia,64.283,100.25,Asia
+Kratovo,Kratovo,Macedonia,42.079,22.181,Europe
+Triesen,Triesen,Liechtenstein,47.1,9.533,Europe
+Tarrafal De Sao Nicolau,Tarrafal de SÃ£o Nicolau,Cape Verde,16.567,-24.367,Atlantic
+Rapla,Raplamaa,Estonia,59.007,24.793,Europe
+Smiltene,Valkas,Latvia,57.433,25.9,Europe
+Catio,Tombali,Guinea-Bissau,11.283,-15.25,Africa
+Roatan,Islas de la Bahia,Honduras,16.3,-86.55,America
+Punta Gorda,Toledo,Belize,16.1,-88.8,America
+Bolama,Bolama,Guinea-Bissau,11.583,-15.467,Africa
+Ambo,Annobon,Equatorial Guinea,-1.4014,5.6325,Africa
+Mochhu,Ha,Bhutan,27.1333,89.1167,Asia
+Gevgelija,Gevgelija,Macedonia,41.139,22.503,Europe
+Vrapciste,Vrapciste,Macedonia,41.834,20.885,Europe
+Ordino,Ordino,Andorra,42.55,1.533,Europe
+Jogeva,Jogevamaa,Estonia,58.747,26.394,Europe
+Brownsweg,Brokopondo,Suriname,5.017,-55.167,America
+Ponta Do Sol,Ribeira Grande,Cape Verde,17.199,-25.092,Atlantic
+Balzers,Balzers,Liechtenstein,47.067,9.5,Europe
+Uutapi,Omusati,Namibia,-17.5,14.9833,Africa
+Fuerte Olimpo,Alto Paraguay,Paraguay,-21.033,-57.9,America
+Eschen,Eschen,Liechtenstein,47.217,9.517,Europe
+Mauren,Mauren,Liechtenstein,47.217,9.533,Europe
+Black River,Saint Elizabeth,Jamaica,18.017,-77.85,America
+La Palma,Darien,Panama,8.403,-78.145,America
+Calheta,SÃ£o Miguel,Cape Verde,15.186,-23.592,Atlantic
+Zitose,Zitose,Macedonia,41.421,21.291,Europe
+Wabag,Enga,Papua New Guinea,-5.483,143.7,Pacific
+Marazi,Qobustan,Azerbaijan,40.5367,48.9328,Asia
+Robertsport,Grand Cape Mount,Liberia,6.753,-11.369,Africa
+Neiafu,Vava,Tonga,-18.65,-173.983,Pacific
+Decan,Komuna e DeÃ§anit,Kosovo,42.54,20.288,Europe
+Lavumisa,Shiselweni,Swaziland,-27.317,31.9,Africa
+Палана,Koryak,Russia,59.117,159.967,Asia
+Brod,Makedonski Brod,Macedonia,41.514,21.215,Europe
+Cankuzo,Cankuzo,Burundi,-3.219,30.553,Africa
+Mongar,Mongar,Bhutan,27.25,91.2,Asia
+Kaberamaido,Kaberamaido,Uganda,1.739,33.159,Africa
+Malisevo,Komuna e Malisheves,Kosovo,42.482,20.746,Europe
+Demir Kapija,Demir Kapija,Macedonia,41.405,22.249,Europe
+Kardla,Hiiumaa,Estonia,58.998,22.749,Europe
+Colonia,Yap,Micronesia,9.514,138.129,Pacific
+Vila Do Maio,Maio,Cape Verde,15.133,-23.217,Atlantic
+Tearce,Tearce,Macedonia,42.074,21.053,Europe
+Tashigang,Tashigang,Bhutan,27.317,91.567,Asia
+Lethem,Upper Takutu-Upper Essequibo,Guyana,3.383,-59.8,America
+Bogdanci,Bogdanci,Macedonia,41.203,22.576,Europe
+Bopolu,Gbarpolu,Liberia,7.067,-10.488,Africa
+Sao Domingos,SÃ£o Domingos,Cape Verde,15.024,-23.563,Atlantic
+Groningen,Saramacca,Suriname,5.8,-55.467,America
+Tongsa,Tongsa,Bhutan,27.517,90.5,Asia
+Triesenberg,Triesenberg,Liechtenstein,47.117,9.533,Europe
+Hnífsdalur,Vestur-Isafjardarsysla,Iceland,66.117,-23.133,Atlantic
+Nova Cuba,Principe,Sao Tome and Principe,1.6333,7.4167,Africa
+Hofsós,Skagafjardarsysla,Iceland,65.9,-19.433,Atlantic
+River Cess,River Cess,Liberia,5.46,-9.583,Africa
+Vallanes,Sudur-Mulasysla,Iceland,65.2,-14.55,Atlantic
+Mkokotoni,Zanzibar North,Tanzania,-5.867,39.25,Africa
+Mahdia,Potaro-Siparuni,Guyana,5.267,-59.15,America
+Klokot,Komuna e Kllokotit,Kosovo,42.371,21.374,Europe
+Rosoman,Rosoman,Macedonia,41.516,21.95,Europe
+Capitol Hill,Northern Mariana Islands,United States of America,15.2108,145.7506,Pacific
+Demir Hisar,Demir Hisar,Macedonia,41.222,21.203,Europe
+Höfn,Austur-Skaftafellssysla,Iceland,64.25,-15.217,Atlantic
+Paro,Paro,Bhutan,27.433,89.417,Asia
+Vevcani,Vevcani,Macedonia,41.241,20.593,Europe
+Shemgang,Shemgang,Bhutan,27.233,90.65,Asia
+Schellenberg,Schellenberg,Liechtenstein,47.233,9.533,Europe
+Onverwacht,Para,Suriname,5.583,-55.183,America
+Gradsko,Gradsko,Macedonia,41.572,21.963,Europe
+Borgarnes,Myrasysla,Iceland,64.533,-21.917,Atlantic
+Totness,Coronie,Suriname,5.883,-56.317,America
+Cidade Velha,Ribeira Grande de Santiago,Cape Verde,14.917,-23.617,Atlantic
+Acquaviva,Acquaviva,San Marino,43.95,12.417,Europe
+Ambrolauri,Ambrolauris Raioni,Georgia,42.521,43.162,Asia
+Valandovo,Valandovo,Macedonia,41.317,22.561,Europe
+Tasiilaq,Ostgronland,Greenland,65.6,-37.633,America
+Amudat,Nakapiripirit,Uganda,1.95,34.95,Africa
+Krivogastani,Krivogastani,Macedonia,41.336,21.333,Europe
+Qabaqcol,Balakan,Azerbaijan,41.72,46.265,Asia
+Partesh,Komuna e Parteshit,Kosovo,42.402,21.434,Europe
+Picos,SÃ£o Salvador do Mundo,Cape Verde,15.084,-23.632,Atlantic
+Gamprin,Gamprin,Liechtenstein,47.217,9.5,Europe
+Poruns,Nurestan,Afghanistan,35.4208,70.9219,Asia
+Khizy,Xizi,Azerbaijan,40.9078,49.0733,Asia
+Plasnica,Plasnica,Macedonia,41.467,21.123,Europe
+Chiradzulu,Chiradzulu,Malawi,-15.7,35.183,Africa
+Machinga,Machinga,Malawi,-14.967,35.517,Africa
+Novaci,Novaci,Macedonia,41.042,21.456,Europe
+Bosilovo,Bosilovo,Macedonia,41.441,22.728,Europe
+Mogila,Mogila,Macedonia,41.108,21.379,Europe
+Mabaruma,Barima-Waini,Guyana,8.2,-59.783,America
+Novo Selo,Novo Selo,Macedonia,41.414,22.881,Europe
+Isangel,Tafea,Vanuatu,-19.55,169.267,Pacific
+Pombas,Paul,Cape Verde,17.15,-25.02,Atlantic
+Daga,Daga,Bhutan,27.067,89.883,Asia
+Chiesanuova,Chiesanuova,San Marino,43.917,12.417,Europe
+Konce,Konce,Macedonia,41.496,22.385,Europe
+Oblesevo,Oblesevo,Macedonia,41.883,22.334,Europe
+Rostusa,Rostusa,Macedonia,41.61,20.6,Europe
+Hamilton,Hamilton,Bermuda,32.294,-64.784,Atlantic
+Jegunovce,Jegunovce,Macedonia,42.074,21.124,Europe
+Rankovce,Rankovce,Macedonia,42.182,22.123,Europe
+Lakatoro,Malakula,Vanuatu,-16.117,167.417,Pacific
+Sopiste,Sopiste,Macedonia,41.955,21.428,Europe
+Qaanaaq,Nordgronland,Greenland,77.489,-69.332,America
+Vasilevo,Vasilevo,Macedonia,41.476,22.642,Europe
+Istisu,Kalbacar,Azerbaijan,39.948,45.962,Asia
+Karbinci,Karbinci,Macedonia,41.817,22.238,Europe
+Lozovo,Lozovo,Macedonia,41.784,21.906,Europe
+Staro Nagoricane,Staro Nagoricane,Macedonia,42.198,21.829,Europe
+Planken,Planken,Liechtenstein,47.183,9.533,Europe
+Vreed En Hoop,Essequibo Islands-West Demerara,Guyana,6.8,-58.183,America
+Brvenica,Brvenica,Macedonia,41.967,20.981,Europe
+Saint John's Village,Saint Peter,Montserrat,16.783,-62.2,America
+Dolneni,Dolneni,Macedonia,41.425,21.455,Europe
+Belcista,Belcista,Macedonia,41.303,20.83,Europe
+Cucer,Cucer-Sandevo,Macedonia,42.104,21.382,Europe
+Zelenikovo,Zelenikovo,Macedonia,41.887,21.587,Europe
+Amau,Central,Papua New Guinea,-10.0333,148.5667,Pacific
+El Qnaitra,Al Qunaytirah,Syria,33.1253,35.8236,Asia
+Petrovec,Petrovec,Macedonia,41.939,21.615,Europe
+Fort Wellington,Mahaica-Berbice,Guyana,6.4,-57.6,America
+Star Dojran,Star Dojran,Macedonia,41.188,22.721,Europe
+Zelino,Zelino,Macedonia,41.98,21.064,Europe
+Chitre,Herrera,Panama,7.967,-80.433,America
+Bogovinje,Bogovinje,Macedonia,41.924,20.914,Europe
+El Porvenir,San Blas,Panama,9.565,-78.953,America
+Davachi,Davaci,Azerbaijan,41.2114,48.9861,Asia
+Pemagatsel,Pemagatsel,Bhutan,27.033,91.45,Asia
+Lhuntshi,Lhuntshi,Bhutan,27.65,91.15,Asia
+Damphu,Chirang,Bhutan,27.017,90.1,Asia
+Porto Dos Mosteiros,Mosteiros,Cape Verde,15.033,-24.333,Atlantic
+Vila Nova Sintra,Brava,Cape Verde,14.867,-24.717,Atlantic
+Cova Figueira,Santa Catarina do Fogo,Cape Verde,14.891,-24.293,Atlantic
+Vila Da Ribeira Brava,Ribeira Brava,Cape Verde,16.617,-24.3,Atlantic
+Ta Khmau,Kandal,Cambodia,11.483,104.95,Asia
+Ban Pak Thone,Saravan,Lao People's Democratic Republic,15.3333,106.7,Asia
+Lipkovo,Lipkovo,Macedonia,42.156,21.585,Europe
+Ilinden,Ilinden,Macedonia,41.996,21.582,Europe
+Resen,Resen,Macedonia,41.089,21.012,Europe
+Kamenica,Makedonska Kamenica,Macedonia,42.02,22.592,Europe
+Cork Hill,Saint Anthony,Montserrat,16.717,-62.217,America
+Chikwawa,Chikwawa,Malawi,-16.05,34.8,Africa
+Yenagoa,Bayelsa,Nigeria,4.925,6.264,Africa
+Umm Slal Ali,Umm Salal,Qatar,25.4697,51.3975,Asia
+Madinat Ash Shamal,Madinat ach Shamal,Qatar,26.1167,51.2167,Asia
+Sola,Torba,Vanuatu,-13.883,167.55,Pacific
+Lowatmemer,Aoba,Vanuatu,-15.3,167.9833,Pacific
+Charlotte Amalie,Virgin Islands,United States of America,18.3439,-64.9311,America
