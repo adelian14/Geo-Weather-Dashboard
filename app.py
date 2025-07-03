@@ -11,7 +11,7 @@ from tabs.country_tab import country_layout
 from tabs.region_tab import region_layout
 from tabs.city_tab import city_layout
 from utils import get_world_df, get_continent_df, get_country_df, get_region_df, get_city_row
-from data_loader import get_data_incremental, get_countries_by_continent, get_regions_by_country, get_cities_by_region, get_city_forecast
+from data_loader import get_data_incremental, get_countries_by_continent, get_regions_by_country, get_cities_by_region, get_city_forecast, get_sample_df
 from views.world_view import render_world_view
 from views.continent_view import render_continent_view
 from views.country_view import render_country_view
@@ -108,15 +108,20 @@ def update_city_options(selected_country, selected_region):
     Output("progress-wrapper-world", "style"),
     Output("progress-interval-world", "disabled"),
     Input("submit-world", "n_clicks"),
+    Input("sample-submit-world", "n_clicks"),
     Input("progress-interval-world", "n_intervals"),
     State("cap-size-world", "value"),
     prevent_initial_call=True,
 )
-def handle_world_tab(n_clicks, n_intervals, cap_size):
+def handle_world_tab(n_clicks, n_clicks_sample, n_intervals, cap_size):
     global progress, result_df
 
     triggered = ctx.triggered_id
-
+    
+    if triggered == "sample-submit-world":
+        result_df['world'] = get_sample_df('world_sample')
+        return 0, render_world_view(result_df['world']), {"display": "none"}, True
+    
     if triggered == "submit-world":
         df = get_world_df(cities_df, cap_size)
         Thread(target=run_weather_fetch, args=(df,get_data_incremental,'world'), daemon=True).start()
@@ -138,16 +143,21 @@ def handle_world_tab(n_clicks, n_intervals, cap_size):
     Output("progress-wrapper-continent", "style"),
     Output("progress-interval-continent", "disabled"),
     Input("submit-continent", "n_clicks"),
+    Input("sample-submit-continent", "n_clicks"),
     Input("progress-interval-continent", "n_intervals"),
     State("dropdown-continent", "value"),
     State("cap-size-continent", "value"),
     prevent_initial_call=True,
 )
-def handle_continent_tab(n_clicks, n_intervals, continent, cap_size):
+def handle_continent_tab(n_clicks, n_clicks_sample, n_intervals, continent, cap_size):
     global progress, result_df
 
     triggered = ctx.triggered_id
-
+    
+    if triggered == "sample-submit-continent":
+        result_df['continent'] = get_sample_df('continent_sample', {'continent':continent})
+        return 0, render_continent_view(result_df['continent']), {"display": "none"}, True
+    
     if triggered == "submit-continent":
         df = get_continent_df(cities_df, continent, cap_size)
         Thread(target=run_weather_fetch, args=(df,get_data_incremental,'continent'), daemon=True).start()
@@ -169,16 +179,21 @@ def handle_continent_tab(n_clicks, n_intervals, continent, cap_size):
     Output("progress-wrapper-country", "style"),
     Output("progress-interval-country", "disabled"),
     Input("submit-country", "n_clicks"),
+    Input("sample-submit-country", "n_clicks"),
     Input("progress-interval-country", "n_intervals"),
     State("dropdown-country", "value"),
     State("cap-size-country", "value"),
     prevent_initial_call=True,
 )
-def handle_country_tab(n_clicks, n_intervals, country, cap_size):
+def handle_country_tab(n_clicks, n_clicks_sample, n_intervals, country, cap_size):
     global progress, result_df
 
     triggered = ctx.triggered_id
 
+    if triggered == "sample-submit-country":
+        result_df['country'] = get_sample_df('country_sample', {'country':country})
+        return 0, render_country_view(result_df['country']), {"display": "none"}, True
+    
     if triggered == "submit-country":
         df = get_country_df(cities_df, country, cap_size)
         Thread(target=run_weather_fetch, args=(df,get_data_incremental,'country'), daemon=True).start()
@@ -200,16 +215,21 @@ def handle_country_tab(n_clicks, n_intervals, country, cap_size):
     Output("progress-wrapper-region", "style"),
     Output("progress-interval-region", "disabled"),
     Input("submit-region", "n_clicks"),
+    Input("sample-submit-region", "n_clicks"),
     Input("progress-interval-region", "n_intervals"),
     State("country-dropdown-region", "value"),
     State("dropdown-region", "value"),
     State("cap-size-region", "value"),
     prevent_initial_call=True,
 )
-def handle_region_tab(n_clicks, n_intervals, country, region, cap_size):
+def handle_region_tab(n_clicks, n_clicks_sample, n_intervals, country, region, cap_size):
     global progress, result_df
 
     triggered = ctx.triggered_id
+
+    if triggered == "sample-submit-region":
+        result_df['region'] = get_sample_df('region_sample', {'region':region})
+        return 0, render_region_view(result_df['region']), {"display": "none"}, True
 
     if triggered == "submit-region":
         df = get_region_df(cities_df, country, region, cap_size)

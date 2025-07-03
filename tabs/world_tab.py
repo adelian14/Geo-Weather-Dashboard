@@ -16,11 +16,15 @@ def world_layout():
                 marks={i: str(i) for i in range(100, 401, 50)},
                 tooltip={"placement": "bottom", "always_visible": True}
             )
-        ], width=10),
+        ], width=8),
 
         dbc.Col([
             dbc.Button("Generate World Data", id="submit-world", color="primary", className="mt-4")
-        ], width=2),
+        ], width=2, class_name="d-flex justify-content-center"),
+        
+        dbc.Col([
+            dbc.Button("Load Sample Data", id="sample-submit-world", color="primary", className="mt-4")
+        ], width=2, class_name="d-flex justify-content-center"),
         
         render_progress_view('world')
         

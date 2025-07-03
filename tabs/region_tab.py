@@ -20,7 +20,7 @@ def region_layout():
                     marks={i: str(i) for i in range(10, 101, 10)},
                     tooltip={"placement": "bottom", "always_visible": True}
                 )
-            ], width=6),
+            ], width=4),
             
             dbc.Col([
                 html.Label("Country"),
@@ -43,7 +43,11 @@ def region_layout():
 
             dbc.Col([
                 dbc.Button("Show region Sample", id="submit-region", color="primary", className="mt-4")
-            ], width=2)
+            ], width=2, class_name="d-flex justify-content-center"),
+            
+            dbc.Col([
+                dbc.Button("Load Sample Data", id="sample-submit-region", color="primary", className="mt-4")
+            ], width=2, class_name="d-flex justify-content-center")
 
         ], className="mb-4"),
 

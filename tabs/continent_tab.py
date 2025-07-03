@@ -21,7 +21,7 @@ def continent_layout():
                     marks={i: str(i) for i in range(100, 401, 50)},
                     tooltip={"placement": "bottom", "always_visible": True}
                 )
-            ], width=7),
+            ], width=6),
 
             dbc.Col([
                 html.Label("Continent"),
@@ -31,11 +31,15 @@ def continent_layout():
                     placeholder="Select a continent",
                     className="mb-3"
                 )
-            ], width=3),
+            ], width=2),
 
             dbc.Col([
                 dbc.Button("Show Continent Stats", id="submit-continent", color="primary", className="mt-4")
-            ], width=2)
+            ], width=2, class_name="d-flex justify-content-center"),
+            
+            dbc.Col([
+                dbc.Button("Load Sample Data", id="sample-submit-continent", color="primary", className="mt-4")
+            ], width=2, class_name="d-flex justify-content-center")
 
         ], className="mb-4"),
 

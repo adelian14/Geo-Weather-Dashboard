@@ -8,6 +8,9 @@ API_KEY = os.getenv("API_KEY")
 BASE_URL_CURRENT = os.getenv("BASE_URL_CURRENT")
 BASE_URL_FORECAST = os.getenv("BASE_URL_FORECAST")
 
+def get_sample_df(file_name, data_filters: dict = {}):
+    return pd.read_csv(f'data_samples/{file_name}.csv')
+
 def get_continents(df):
     return list(df['continent'].unique())
 
